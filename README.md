@@ -50,7 +50,7 @@ A ready-to-use dataset of **Turkey's 81 provinces and the universities in each**
 **JavaScript (fetch)**
 
 ```js
-const url = "https://raw.githubusercontent.com/<kullanici>/turkey-cities-universities/main/dist/turkey.json";
+const url = "https://raw.githubusercontent.com/cekubal/turkey-cities-universities/main/dist/turkey.json";
 const { cities } = await (await fetch(url)).json();
 
 citySelect.innerHTML = cities.map(c => `<option value="${c.id}">${c.name}</option>`).join("");
