@@ -1,0 +1,12 @@
+{
+  "plate_code": 15,
+  "name": "Burdur",
+  "region": "Akdeniz",
+  "universities": [
+    {
+      "name": "Burdur Mehmet Akif Ersoy Üniversitesi",
+      "type": "state",
+      "website": "https://www.mehmetakif.edu.tr"
+    }
+  ]
+}

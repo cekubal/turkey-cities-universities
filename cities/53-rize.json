@@ -1,0 +1,12 @@
+{
+  "plate_code": 53,
+  "name": "Rize",
+  "region": "Karadeniz",
+  "universities": [
+    {
+      "name": "Recep Tayyip Erdoğan Üniversitesi",
+      "type": "state",
+      "website": "https://www.erdogan.edu.tr"
+    }
+  ]
+}

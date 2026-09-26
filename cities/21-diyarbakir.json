@@ -1,0 +1,12 @@
+{
+  "plate_code": 21,
+  "name": "Diyarbakır",
+  "region": "Güneydoğu Anadolu",
+  "universities": [
+    {
+      "name": "Dicle Üniversitesi",
+      "type": "state",
+      "website": "https://www.dicle.edu.tr"
+    }
+  ]
+}

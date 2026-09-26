@@ -6,7 +6,36 @@ A ready-to-use dataset of **Turkey's 81 provinces and the universities in each**
 
 `Ülke → Şehir → Üniversite`
 
-## Dosyalar / Files
+**81 il · 205 üniversite** (131 devlet, 74 vakıf) — askeri/güvenlik akademileri dahil, meslek yüksekokulları hariç.
+
+## Klasör Yapısı / Structure
+
+```
+turkey-cities-universities/
+├── country.json              ← Ülke (Türkiye)
+├── cities/                   ← Şehirler (her il ayrı dosya, plaka koduna göre)
+│   ├── 01-adana.json         ← Adana ve Adana'daki üniversiteler
+│   ├── 06-ankara.json
+│   ├── 34-istanbul.json
+│   └── ...                   (81 il)
+├── dist/                     ← Hazır kullanım dosyaları (otomatik üretilir)
+└── scripts/build.py
+```
+
+Her şehir dosyası / Each city file:
+
+```json
+{
+  "plate_code": 1,
+  "name": "Adana",
+  "region": "Akdeniz",
+  "universities": [
+    { "name": "Çukurova Üniversitesi", "type": "state", "website": "https://www.cu.edu.tr" }
+  ]
+}
+```
+
+## Hazır Dosyalar / Files
 
 | Dosya | Açıklama |
 |---|---|
@@ -68,9 +97,9 @@ sqlite3 app.db < dist/turkey.sql
 
 ## Katkı / Contributing
 
-Kaynak veri `data/regions/` altında, 7 coğrafi bölgeye ayrılmış JSON dosyalarındadır. `dist/` klasörü otomatik üretilir — doğrudan düzenlemeyin.
+Kaynak veri `cities/` altındaki il dosyalarındadır. `dist/` klasörü otomatik üretilir — doğrudan düzenlemeyin.
 
-1. İlgili bölge dosyasını düzenleyin (ör. `data/regions/marmara.json`)
+1. İlgili il dosyasını düzenleyin (ör. `cities/34-istanbul.json`)
 2. `python3 scripts/build.py` çalıştırın (doğrulama + `dist/` üretimi)
 3. Pull request açın
 

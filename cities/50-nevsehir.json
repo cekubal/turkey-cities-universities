@@ -1,0 +1,17 @@
+{
+  "plate_code": 50,
+  "name": "Nevşehir",
+  "region": "İç Anadolu",
+  "universities": [
+    {
+      "name": "Kapadokya Üniversitesi",
+      "type": "foundation",
+      "website": "https://kapadokya.edu.tr"
+    },
+    {
+      "name": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+      "type": "state",
+      "website": "https://www.nevsehir.edu.tr"
+    }
+  ]
+}

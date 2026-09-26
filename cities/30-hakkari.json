@@ -1,0 +1,12 @@
+{
+  "plate_code": 30,
+  "name": "Hakkari",
+  "region": "Doğu Anadolu",
+  "universities": [
+    {
+      "name": "Hakkari Üniversitesi",
+      "type": "state",
+      "website": "https://www.hakkari.edu.tr"
+    }
+  ]
+}

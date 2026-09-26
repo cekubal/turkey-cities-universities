@@ -1,0 +1,17 @@
+{
+  "plate_code": 3,
+  "name": "Afyonkarahisar",
+  "region": "Ege",
+  "universities": [
+    {
+      "name": "Afyon Kocatepe Üniversitesi",
+      "type": "state",
+      "website": "https://www.aku.edu.tr"
+    },
+    {
+      "name": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
+      "type": "state",
+      "website": "https://www.afsu.edu.tr"
+    }
+  ]
+}

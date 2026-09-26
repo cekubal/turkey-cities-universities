@@ -1,0 +1,12 @@
+{
+  "plate_code": 40,
+  "name": "Kırşehir",
+  "region": "İç Anadolu",
+  "universities": [
+    {
+      "name": "Kırşehir Ahi Evran Üniversitesi",
+      "type": "state",
+      "website": "https://www.ahievran.edu.tr"
+    }
+  ]
+}

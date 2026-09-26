@@ -1,0 +1,12 @@
+{
+  "plate_code": 75,
+  "name": "Ardahan",
+  "region": "Doğu Anadolu",
+  "universities": [
+    {
+      "name": "Ardahan Üniversitesi",
+      "type": "state",
+      "website": "https://www.ardahan.edu.tr"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "plate_code": 42,
+  "name": "Konya",
+  "region": "İç Anadolu",
+  "universities": [
+    {
+      "name": "KTO Karatay Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.karatay.edu.tr"
+    },
+    {
+      "name": "Konya Gıda ve Tarım Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.gidatarim.edu.tr"
+    },
+    {
+      "name": "Konya Teknik Üniversitesi",
+      "type": "state",
+      "website": "https://www.ktun.edu.tr"
+    },
+    {
+      "name": "Necmettin Erbakan Üniversitesi",
+      "type": "state",
+      "website": "https://www.erbakan.edu.tr"
+    },
+    {
+      "name": "Selçuk Üniversitesi",
+      "type": "state",
+      "website": "https://www.selcuk.edu.tr"
+    }
+  ]
+}

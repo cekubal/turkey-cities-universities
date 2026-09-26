@@ -1,0 +1,12 @@
+{
+  "plate_code": 11,
+  "name": "Bilecik",
+  "region": "Marmara",
+  "universities": [
+    {
+      "name": "Bilecik Şeyh Edebali Üniversitesi",
+      "type": "state",
+      "website": "https://www.bilecik.edu.tr"
+    }
+  ]
+}

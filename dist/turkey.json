@@ -171,24 +171,24 @@
         },
         {
           "id": 17,
-          "name": "Bilkent Üniversitesi",
-          "slug": "bilkent-universitesi",
-          "type": "foundation",
-          "website": "https://www.bilkent.edu.tr"
-        },
-        {
-          "id": 18,
           "name": "Gazi Üniversitesi",
           "slug": "gazi-universitesi",
           "type": "state",
           "website": "https://www.gazi.edu.tr"
         },
         {
-          "id": 19,
+          "id": 18,
           "name": "Hacettepe Üniversitesi",
           "slug": "hacettepe-universitesi",
           "type": "state",
           "website": "https://www.hacettepe.edu.tr"
+        },
+        {
+          "id": 19,
+          "name": "Jandarma ve Sahil Güvenlik Akademisi",
+          "slug": "jandarma-ve-sahil-guvenlik-akademisi",
+          "type": "state",
+          "website": "https://www.jsga.edu.tr"
         },
         {
           "id": 20,
@@ -213,45 +213,59 @@
         },
         {
           "id": 23,
+          "name": "Polis Akademisi",
+          "slug": "polis-akademisi",
+          "type": "state",
+          "website": "https://www.pa.edu.tr"
+        },
+        {
+          "id": 24,
           "name": "TED Üniversitesi",
           "slug": "ted-universitesi",
           "type": "foundation",
           "website": "https://www.tedu.edu.tr"
         },
         {
-          "id": 24,
+          "id": 25,
           "name": "TOBB Ekonomi ve Teknoloji Üniversitesi",
           "slug": "tobb-ekonomi-ve-teknoloji-universitesi",
           "type": "foundation",
           "website": "https://www.etu.edu.tr"
         },
         {
-          "id": 25,
+          "id": 26,
           "name": "Türk Hava Kurumu Üniversitesi",
           "slug": "turk-hava-kurumu-universitesi",
           "type": "foundation",
           "website": "https://www.thk.edu.tr"
         },
         {
-          "id": 26,
+          "id": 27,
           "name": "Ufuk Üniversitesi",
           "slug": "ufuk-universitesi",
           "type": "foundation",
           "website": "https://www.ufuk.edu.tr"
         },
         {
-          "id": 27,
+          "id": 28,
           "name": "Yüksek İhtisas Üniversitesi",
           "slug": "yuksek-ihtisas-universitesi",
           "type": "foundation",
           "website": "https://www.yuksekihtisasuniversitesi.edu.tr"
         },
         {
-          "id": 28,
+          "id": 29,
           "name": "Çankaya Üniversitesi",
           "slug": "cankaya-universitesi",
           "type": "foundation",
           "website": "https://www.cankaya.edu.tr"
+        },
+        {
+          "id": 30,
+          "name": "İhsan Doğramacı Bilkent Üniversitesi",
+          "slug": "ihsan-dogramaci-bilkent-universitesi",
+          "type": "foundation",
+          "website": "https://www.bilkent.edu.tr"
         }
       ]
     },
@@ -263,35 +277,35 @@
       "region": "Akdeniz",
       "universities": [
         {
-          "id": 29,
+          "id": 31,
           "name": "Akdeniz Üniversitesi",
           "slug": "akdeniz-universitesi",
           "type": "state",
           "website": "https://www.akdeniz.edu.tr"
         },
         {
-          "id": 30,
+          "id": 32,
           "name": "Alanya Alaaddin Keykubat Üniversitesi",
           "slug": "alanya-alaaddin-keykubat-universitesi",
           "type": "state",
           "website": "https://www.alanya.edu.tr"
         },
         {
-          "id": 31,
+          "id": 33,
           "name": "Alanya Üniversitesi",
           "slug": "alanya-universitesi",
           "type": "foundation",
           "website": "https://www.alanyauniversity.edu.tr"
         },
         {
-          "id": 32,
+          "id": 34,
           "name": "Antalya Belek Üniversitesi",
           "slug": "antalya-belek-universitesi",
           "type": "foundation",
           "website": "https://www.belek.edu.tr"
         },
         {
-          "id": 33,
+          "id": 35,
           "name": "Antalya Bilim Üniversitesi",
           "slug": "antalya-bilim-universitesi",
           "type": "foundation",
@@ -307,7 +321,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 34,
+          "id": 36,
           "name": "Artvin Çoruh Üniversitesi",
           "slug": "artvin-coruh-universitesi",
           "type": "state",
@@ -323,7 +337,7 @@
       "region": "Ege",
       "universities": [
         {
-          "id": 35,
+          "id": 37,
           "name": "Aydın Adnan Menderes Üniversitesi",
           "slug": "aydin-adnan-menderes-universitesi",
           "type": "state",
@@ -339,14 +353,14 @@
       "region": "Marmara",
       "universities": [
         {
-          "id": 36,
+          "id": 38,
           "name": "Balıkesir Üniversitesi",
           "slug": "balikesir-universitesi",
           "type": "state",
           "website": "https://www.balikesir.edu.tr"
         },
         {
-          "id": 37,
+          "id": 39,
           "name": "Bandırma Onyedi Eylül Üniversitesi",
           "slug": "bandirma-onyedi-eylul-universitesi",
           "type": "state",
@@ -362,7 +376,7 @@
       "region": "Marmara",
       "universities": [
         {
-          "id": 38,
+          "id": 40,
           "name": "Bilecik Şeyh Edebali Üniversitesi",
           "slug": "bilecik-seyh-edebali-universitesi",
           "type": "state",
@@ -378,7 +392,7 @@
       "region": "Doğu Anadolu",
       "universities": [
         {
-          "id": 39,
+          "id": 41,
           "name": "Bingöl Üniversitesi",
           "slug": "bingol-universitesi",
           "type": "state",
@@ -394,7 +408,7 @@
       "region": "Doğu Anadolu",
       "universities": [
         {
-          "id": 40,
+          "id": 42,
           "name": "Bitlis Eren Üniversitesi",
           "slug": "bitlis-eren-universitesi",
           "type": "state",
@@ -410,7 +424,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 41,
+          "id": 43,
           "name": "Bolu Abant İzzet Baysal Üniversitesi",
           "slug": "bolu-abant-izzet-baysal-universitesi",
           "type": "state",
@@ -426,7 +440,7 @@
       "region": "Akdeniz",
       "universities": [
         {
-          "id": 42,
+          "id": 44,
           "name": "Burdur Mehmet Akif Ersoy Üniversitesi",
           "slug": "burdur-mehmet-akif-ersoy-universitesi",
           "type": "state",
@@ -442,21 +456,21 @@
       "region": "Marmara",
       "universities": [
         {
-          "id": 43,
+          "id": 45,
           "name": "Bursa Teknik Üniversitesi",
           "slug": "bursa-teknik-universitesi",
           "type": "state",
           "website": "https://www.btu.edu.tr"
         },
         {
-          "id": 44,
+          "id": 46,
           "name": "Bursa Uludağ Üniversitesi",
           "slug": "bursa-uludag-universitesi",
           "type": "state",
           "website": "https://www.uludag.edu.tr"
         },
         {
-          "id": 45,
+          "id": 47,
           "name": "Mudanya Üniversitesi",
           "slug": "mudanya-universitesi",
           "type": "foundation",
@@ -472,7 +486,7 @@
       "region": "Marmara",
       "universities": [
         {
-          "id": 46,
+          "id": 48,
           "name": "Çanakkale Onsekiz Mart Üniversitesi",
           "slug": "canakkale-onsekiz-mart-universitesi",
           "type": "state",
@@ -488,7 +502,7 @@
       "region": "İç Anadolu",
       "universities": [
         {
-          "id": 47,
+          "id": 49,
           "name": "Çankırı Karatekin Üniversitesi",
           "slug": "cankiri-karatekin-universitesi",
           "type": "state",
@@ -504,7 +518,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 48,
+          "id": 50,
           "name": "Hitit Üniversitesi",
           "slug": "hitit-universitesi",
           "type": "state",
@@ -520,7 +534,7 @@
       "region": "Ege",
       "universities": [
         {
-          "id": 49,
+          "id": 51,
           "name": "Pamukkale Üniversitesi",
           "slug": "pamukkale-universitesi",
           "type": "state",
@@ -536,7 +550,7 @@
       "region": "Güneydoğu Anadolu",
       "universities": [
         {
-          "id": 50,
+          "id": 52,
           "name": "Dicle Üniversitesi",
           "slug": "dicle-universitesi",
           "type": "state",
@@ -552,7 +566,7 @@
       "region": "Marmara",
       "universities": [
         {
-          "id": 51,
+          "id": 53,
           "name": "Trakya Üniversitesi",
           "slug": "trakya-universitesi",
           "type": "state",
@@ -568,7 +582,7 @@
       "region": "Doğu Anadolu",
       "universities": [
         {
-          "id": 52,
+          "id": 54,
           "name": "Fırat Üniversitesi",
           "slug": "firat-universitesi",
           "type": "state",
@@ -584,7 +598,7 @@
       "region": "Doğu Anadolu",
       "universities": [
         {
-          "id": 53,
+          "id": 55,
           "name": "Erzincan Binali Yıldırım Üniversitesi",
           "slug": "erzincan-binali-yildirim-universitesi",
           "type": "state",
@@ -600,14 +614,14 @@
       "region": "Doğu Anadolu",
       "universities": [
         {
-          "id": 54,
+          "id": 56,
           "name": "Atatürk Üniversitesi",
           "slug": "ataturk-universitesi",
           "type": "state",
           "website": "https://www.atauni.edu.tr"
         },
         {
-          "id": 55,
+          "id": 57,
           "name": "Erzurum Teknik Üniversitesi",
           "slug": "erzurum-teknik-universitesi",
           "type": "state",
@@ -623,21 +637,21 @@
       "region": "İç Anadolu",
       "universities": [
         {
-          "id": 56,
+          "id": 58,
           "name": "Anadolu Üniversitesi",
           "slug": "anadolu-universitesi",
           "type": "state",
           "website": "https://www.anadolu.edu.tr"
         },
         {
-          "id": 57,
+          "id": 59,
           "name": "Eskişehir Osmangazi Üniversitesi",
           "slug": "eskisehir-osmangazi-universitesi",
           "type": "state",
           "website": "https://www.ogu.edu.tr"
         },
         {
-          "id": 58,
+          "id": 60,
           "name": "Eskişehir Teknik Üniversitesi",
           "slug": "eskisehir-teknik-universitesi",
           "type": "state",
@@ -653,28 +667,28 @@
       "region": "Güneydoğu Anadolu",
       "universities": [
         {
-          "id": 59,
+          "id": 61,
           "name": "Gaziantep Üniversitesi",
           "slug": "gaziantep-universitesi",
           "type": "state",
           "website": "https://www.gantep.edu.tr"
         },
         {
-          "id": 60,
+          "id": 62,
           "name": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi",
           "slug": "gaziantep-islam-bilim-ve-teknoloji-universitesi",
           "type": "state",
           "website": "https://www.gibtu.edu.tr"
         },
         {
-          "id": 61,
+          "id": 63,
           "name": "Hasan Kalyoncu Üniversitesi",
           "slug": "hasan-kalyoncu-universitesi",
           "type": "foundation",
           "website": "https://www.hku.edu.tr"
         },
         {
-          "id": 62,
+          "id": 64,
           "name": "SANKO Üniversitesi",
           "slug": "sanko-universitesi",
           "type": "foundation",
@@ -690,7 +704,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 63,
+          "id": 65,
           "name": "Giresun Üniversitesi",
           "slug": "giresun-universitesi",
           "type": "state",
@@ -706,7 +720,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 64,
+          "id": 66,
           "name": "Gümüşhane Üniversitesi",
           "slug": "gumushane-universitesi",
           "type": "state",
@@ -722,7 +736,7 @@
       "region": "Doğu Anadolu",
       "universities": [
         {
-          "id": 65,
+          "id": 67,
           "name": "Hakkari Üniversitesi",
           "slug": "hakkari-universitesi",
           "type": "state",
@@ -738,14 +752,14 @@
       "region": "Akdeniz",
       "universities": [
         {
-          "id": 66,
+          "id": 68,
           "name": "Hatay Mustafa Kemal Üniversitesi",
           "slug": "hatay-mustafa-kemal-universitesi",
           "type": "state",
           "website": "https://www.mku.edu.tr"
         },
         {
-          "id": 67,
+          "id": 69,
           "name": "İskenderun Teknik Üniversitesi",
           "slug": "iskenderun-teknik-universitesi",
           "type": "state",
@@ -761,14 +775,14 @@
       "region": "Akdeniz",
       "universities": [
         {
-          "id": 68,
+          "id": 70,
           "name": "Isparta Uygulamalı Bilimler Üniversitesi",
           "slug": "isparta-uygulamali-bilimler-universitesi",
           "type": "state",
           "website": "https://www.isparta.edu.tr"
         },
         {
-          "id": 69,
+          "id": 71,
           "name": "Süleyman Demirel Üniversitesi",
           "slug": "suleyman-demirel-universitesi",
           "type": "state",
@@ -784,28 +798,28 @@
       "region": "Akdeniz",
       "universities": [
         {
-          "id": 70,
+          "id": 72,
           "name": "Mersin Üniversitesi",
           "slug": "mersin-universitesi",
           "type": "state",
           "website": "https://www.mersin.edu.tr"
         },
         {
-          "id": 71,
+          "id": 73,
           "name": "Tarsus Üniversitesi",
           "slug": "tarsus-universitesi",
           "type": "state",
           "website": "https://www.tarsus.edu.tr"
         },
         {
-          "id": 72,
+          "id": 74,
           "name": "Toros Üniversitesi",
           "slug": "toros-universitesi",
           "type": "foundation",
           "website": "https://www.toros.edu.tr"
         },
         {
-          "id": 73,
+          "id": 75,
           "name": "Çağ Üniversitesi",
           "slug": "cag-universitesi",
           "type": "foundation",
@@ -821,392 +835,399 @@
       "region": "Marmara",
       "universities": [
         {
-          "id": 74,
+          "id": 76,
           "name": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
           "slug": "acibadem-mehmet-ali-aydinlar-universitesi",
           "type": "foundation",
           "website": "https://www.acibadem.edu.tr"
         },
         {
-          "id": 75,
+          "id": 77,
           "name": "Altınbaş Üniversitesi",
           "slug": "altinbas-universitesi",
           "type": "foundation",
           "website": "https://www.altinbas.edu.tr"
         },
         {
-          "id": 76,
+          "id": 78,
           "name": "Bahçeşehir Üniversitesi",
           "slug": "bahcesehir-universitesi",
           "type": "foundation",
           "website": "https://www.bau.edu.tr"
         },
         {
-          "id": 77,
+          "id": 79,
           "name": "Beykoz Üniversitesi",
           "slug": "beykoz-universitesi",
           "type": "foundation",
           "website": "https://www.beykoz.edu.tr"
         },
         {
-          "id": 78,
+          "id": 80,
           "name": "Bezmiâlem Vakıf Üniversitesi",
           "slug": "bezmialem-vakif-universitesi",
           "type": "foundation",
           "website": "https://www.bezmialem.edu.tr"
         },
         {
-          "id": 79,
+          "id": 81,
           "name": "Biruni Üniversitesi",
           "slug": "biruni-universitesi",
           "type": "foundation",
           "website": "https://www.biruni.edu.tr"
         },
         {
-          "id": 80,
+          "id": 82,
           "name": "Boğaziçi Üniversitesi",
           "slug": "bogazici-universitesi",
           "type": "state",
           "website": "https://www.boun.edu.tr"
         },
         {
-          "id": 81,
+          "id": 83,
           "name": "Demiroğlu Bilim Üniversitesi",
           "slug": "demiroglu-bilim-universitesi",
           "type": "foundation",
           "website": "https://demiroglu.bilim.edu.tr"
         },
         {
-          "id": 82,
+          "id": 84,
           "name": "Doğuş Üniversitesi",
           "slug": "dogus-universitesi",
           "type": "foundation",
           "website": "https://www.dogus.edu.tr"
         },
         {
-          "id": 83,
+          "id": 85,
           "name": "Fatih Sultan Mehmet Vakıf Üniversitesi",
           "slug": "fatih-sultan-mehmet-vakif-universitesi",
           "type": "foundation",
           "website": "https://www.fsm.edu.tr"
         },
         {
-          "id": 84,
+          "id": 86,
           "name": "Fenerbahçe Üniversitesi",
           "slug": "fenerbahce-universitesi",
           "type": "foundation",
           "website": "https://www.fbu.edu.tr"
         },
         {
-          "id": 85,
+          "id": 87,
           "name": "Galatasaray Üniversitesi",
           "slug": "galatasaray-universitesi",
           "type": "state",
           "website": "https://www.gsu.edu.tr"
         },
         {
-          "id": 86,
+          "id": 88,
           "name": "Haliç Üniversitesi",
           "slug": "halic-universitesi",
           "type": "foundation",
           "website": "https://www.halic.edu.tr"
         },
         {
-          "id": 87,
+          "id": 89,
           "name": "Işık Üniversitesi",
           "slug": "isik-universitesi",
           "type": "foundation",
           "website": "https://www.isikun.edu.tr"
         },
         {
-          "id": 88,
+          "id": 90,
           "name": "Kadir Has Üniversitesi",
           "slug": "kadir-has-universitesi",
           "type": "foundation",
           "website": "https://www.khas.edu.tr"
         },
         {
-          "id": 89,
+          "id": 91,
           "name": "Koç Üniversitesi",
           "slug": "koc-universitesi",
           "type": "foundation",
           "website": "https://www.ku.edu.tr"
         },
         {
-          "id": 90,
+          "id": 92,
           "name": "MEF Üniversitesi",
           "slug": "mef-universitesi",
           "type": "foundation",
           "website": "https://www.mef.edu.tr"
         },
         {
-          "id": 91,
+          "id": 93,
           "name": "Maltepe Üniversitesi",
           "slug": "maltepe-universitesi",
           "type": "foundation",
           "website": "https://www.maltepe.edu.tr"
         },
         {
-          "id": 92,
+          "id": 94,
           "name": "Marmara Üniversitesi",
           "slug": "marmara-universitesi",
           "type": "state",
           "website": "https://www.marmara.edu.tr"
         },
         {
-          "id": 93,
+          "id": 95,
+          "name": "Milli Savunma Üniversitesi",
+          "slug": "milli-savunma-universitesi",
+          "type": "state",
+          "website": "https://www.msu.edu.tr"
+        },
+        {
+          "id": 96,
           "name": "Mimar Sinan Güzel Sanatlar Üniversitesi",
           "slug": "mimar-sinan-guzel-sanatlar-universitesi",
           "type": "state",
           "website": "https://www.msgsu.edu.tr"
         },
         {
-          "id": 94,
+          "id": 97,
           "name": "Piri Reis Üniversitesi",
           "slug": "piri-reis-universitesi",
           "type": "foundation",
           "website": "https://www.pirireis.edu.tr"
         },
         {
-          "id": 95,
+          "id": 98,
           "name": "Sabancı Üniversitesi",
           "slug": "sabanci-universitesi",
           "type": "foundation",
           "website": "https://www.sabanciuniv.edu"
         },
         {
-          "id": 96,
+          "id": 99,
           "name": "Sağlık Bilimleri Üniversitesi",
           "slug": "saglik-bilimleri-universitesi",
           "type": "state",
           "website": "https://www.sbu.edu.tr"
         },
         {
-          "id": 97,
+          "id": 100,
           "name": "Türk-Alman Üniversitesi",
           "slug": "turk-alman-universitesi",
           "type": "state",
           "website": "https://www.tau.edu.tr"
         },
         {
-          "id": 98,
+          "id": 101,
+          "name": "Türk-Japon Bilim ve Teknoloji Üniversitesi",
+          "slug": "turk-japon-bilim-ve-teknoloji-universitesi",
+          "type": "state",
+          "website": "https://tju.edu.tr"
+        },
+        {
+          "id": 102,
           "name": "Yeditepe Üniversitesi",
           "slug": "yeditepe-universitesi",
           "type": "foundation",
           "website": "https://www.yeditepe.edu.tr"
         },
         {
-          "id": 99,
+          "id": 103,
           "name": "Yıldız Teknik Üniversitesi",
           "slug": "yildiz-teknik-universitesi",
           "type": "state",
           "website": "https://www.yildiz.edu.tr"
         },
         {
-          "id": 100,
+          "id": 104,
           "name": "Özyeğin Üniversitesi",
           "slug": "ozyegin-universitesi",
           "type": "foundation",
           "website": "https://www.ozyegin.edu.tr"
         },
         {
-          "id": 101,
+          "id": 105,
           "name": "Üsküdar Üniversitesi",
           "slug": "uskudar-universitesi",
           "type": "foundation",
           "website": "https://www.uskudar.edu.tr"
         },
         {
-          "id": 102,
+          "id": 106,
           "name": "İbn Haldun Üniversitesi",
           "slug": "ibn-haldun-universitesi",
           "type": "foundation",
           "website": "https://www.ihu.edu.tr"
         },
         {
-          "id": 103,
+          "id": 107,
           "name": "İstanbul 29 Mayıs Üniversitesi",
           "slug": "istanbul-29-mayis-universitesi",
           "type": "foundation",
           "website": "https://www.29mayis.edu.tr"
         },
         {
-          "id": 104,
+          "id": 108,
           "name": "İstanbul Arel Üniversitesi",
           "slug": "istanbul-arel-universitesi",
           "type": "foundation",
           "website": "https://www.arel.edu.tr"
         },
         {
-          "id": 105,
+          "id": 109,
           "name": "İstanbul Atlas Üniversitesi",
           "slug": "istanbul-atlas-universitesi",
           "type": "foundation",
           "website": "https://www.atlas.edu.tr"
         },
         {
-          "id": 106,
+          "id": 110,
           "name": "İstanbul Aydın Üniversitesi",
           "slug": "istanbul-aydin-universitesi",
           "type": "foundation",
           "website": "https://www.aydin.edu.tr"
         },
         {
-          "id": 107,
-          "name": "İstanbul Ayvansaray Üniversitesi",
-          "slug": "istanbul-ayvansaray-universitesi",
-          "type": "foundation",
-          "website": "https://www.ayvansaray.edu.tr"
-        },
-        {
-          "id": 108,
+          "id": 111,
           "name": "İstanbul Beykent Üniversitesi",
           "slug": "istanbul-beykent-universitesi",
           "type": "foundation",
           "website": "https://www.beykent.edu.tr"
         },
         {
-          "id": 109,
+          "id": 112,
           "name": "İstanbul Bilgi Üniversitesi",
           "slug": "istanbul-bilgi-universitesi",
           "type": "foundation",
           "website": "https://www.bilgi.edu.tr"
         },
         {
-          "id": 110,
+          "id": 113,
           "name": "İstanbul Esenyurt Üniversitesi",
           "slug": "istanbul-esenyurt-universitesi",
           "type": "foundation",
           "website": "https://www.esenyurt.edu.tr"
         },
         {
-          "id": 111,
+          "id": 114,
           "name": "İstanbul Galata Üniversitesi",
           "slug": "istanbul-galata-universitesi",
           "type": "foundation",
           "website": "https://www.galata.edu.tr"
         },
         {
-          "id": 112,
+          "id": 115,
           "name": "İstanbul Gedik Üniversitesi",
           "slug": "istanbul-gedik-universitesi",
           "type": "foundation",
           "website": "https://www.gedik.edu.tr"
         },
         {
-          "id": 113,
+          "id": 116,
           "name": "İstanbul Gelişim Üniversitesi",
           "slug": "istanbul-gelisim-universitesi",
           "type": "foundation",
           "website": "https://www.gelisim.edu.tr"
         },
         {
-          "id": 114,
+          "id": 117,
           "name": "İstanbul Kent Üniversitesi",
           "slug": "istanbul-kent-universitesi",
           "type": "foundation",
           "website": "https://www.kent.edu.tr"
         },
         {
-          "id": 115,
+          "id": 118,
           "name": "İstanbul Kültür Üniversitesi",
           "slug": "istanbul-kultur-universitesi",
           "type": "foundation",
           "website": "https://www.iku.edu.tr"
         },
         {
-          "id": 116,
+          "id": 119,
           "name": "İstanbul Medeniyet Üniversitesi",
           "slug": "istanbul-medeniyet-universitesi",
           "type": "state",
           "website": "https://www.medeniyet.edu.tr"
         },
         {
-          "id": 117,
+          "id": 120,
           "name": "İstanbul Medipol Üniversitesi",
           "slug": "istanbul-medipol-universitesi",
           "type": "foundation",
           "website": "https://www.medipol.edu.tr"
         },
         {
-          "id": 118,
+          "id": 121,
           "name": "İstanbul Nişantaşı Üniversitesi",
           "slug": "istanbul-nisantasi-universitesi",
           "type": "foundation",
           "website": "https://www.nisantasi.edu.tr"
         },
         {
-          "id": 119,
+          "id": 122,
           "name": "İstanbul Okan Üniversitesi",
           "slug": "istanbul-okan-universitesi",
           "type": "foundation",
           "website": "https://www.okan.edu.tr"
         },
         {
-          "id": 120,
+          "id": 123,
           "name": "İstanbul Rumeli Üniversitesi",
           "slug": "istanbul-rumeli-universitesi",
           "type": "foundation",
           "website": "https://www.rumeli.edu.tr"
         },
         {
-          "id": 121,
+          "id": 124,
           "name": "İstanbul Sabahattin Zaim Üniversitesi",
           "slug": "istanbul-sabahattin-zaim-universitesi",
           "type": "foundation",
           "website": "https://www.izu.edu.tr"
         },
         {
-          "id": 122,
+          "id": 125,
           "name": "İstanbul Sağlık ve Teknoloji Üniversitesi",
           "slug": "istanbul-saglik-ve-teknoloji-universitesi",
           "type": "foundation",
           "website": "https://www.istun.edu.tr"
         },
         {
-          "id": 123,
+          "id": 126,
           "name": "İstanbul Teknik Üniversitesi",
           "slug": "istanbul-teknik-universitesi",
           "type": "state",
           "website": "https://www.itu.edu.tr"
         },
         {
-          "id": 124,
+          "id": 127,
           "name": "İstanbul Ticaret Üniversitesi",
           "slug": "istanbul-ticaret-universitesi",
           "type": "foundation",
           "website": "https://www.ticaret.edu.tr"
         },
         {
-          "id": 125,
+          "id": 128,
           "name": "İstanbul Topkapı Üniversitesi",
           "slug": "istanbul-topkapi-universitesi",
           "type": "foundation",
           "website": "https://www.topkapi.edu.tr"
         },
         {
-          "id": 126,
+          "id": 129,
           "name": "İstanbul Yeni Yüzyıl Üniversitesi",
           "slug": "istanbul-yeni-yuzyil-universitesi",
           "type": "foundation",
           "website": "https://www.yeniyuzyil.edu.tr"
         },
         {
-          "id": 127,
+          "id": 130,
           "name": "İstanbul Üniversitesi",
           "slug": "istanbul-universitesi",
           "type": "state",
           "website": "https://www.istanbul.edu.tr"
         },
         {
-          "id": 128,
+          "id": 131,
           "name": "İstanbul Üniversitesi-Cerrahpaşa",
           "slug": "istanbul-universitesi-cerrahpasa",
           "type": "state",
           "website": "https://www.iuc.edu.tr"
         },
         {
-          "id": 129,
+          "id": 132,
           "name": "İstinye Üniversitesi",
           "slug": "istinye-universitesi",
           "type": "foundation",
@@ -1222,63 +1243,63 @@
       "region": "Ege",
       "universities": [
         {
-          "id": 130,
+          "id": 133,
           "name": "Dokuz Eylül Üniversitesi",
           "slug": "dokuz-eylul-universitesi",
           "type": "state",
           "website": "https://www.deu.edu.tr"
         },
         {
-          "id": 131,
+          "id": 134,
           "name": "Ege Üniversitesi",
           "slug": "ege-universitesi",
           "type": "state",
           "website": "https://www.ege.edu.tr"
         },
         {
-          "id": 132,
+          "id": 135,
           "name": "Yaşar Üniversitesi",
           "slug": "yasar-universitesi",
           "type": "foundation",
           "website": "https://www.yasar.edu.tr"
         },
         {
-          "id": 133,
+          "id": 136,
           "name": "İzmir Bakırçay Üniversitesi",
           "slug": "izmir-bakircay-universitesi",
           "type": "state",
           "website": "https://www.bakircay.edu.tr"
         },
         {
-          "id": 134,
+          "id": 137,
           "name": "İzmir Demokrasi Üniversitesi",
           "slug": "izmir-demokrasi-universitesi",
           "type": "state",
           "website": "https://www.idu.edu.tr"
         },
         {
-          "id": 135,
+          "id": 138,
           "name": "İzmir Ekonomi Üniversitesi",
           "slug": "izmir-ekonomi-universitesi",
           "type": "foundation",
           "website": "https://www.ieu.edu.tr"
         },
         {
-          "id": 136,
+          "id": 139,
           "name": "İzmir Katip Çelebi Üniversitesi",
           "slug": "izmir-katip-celebi-universitesi",
           "type": "state",
           "website": "https://www.ikcu.edu.tr"
         },
         {
-          "id": 137,
+          "id": 140,
           "name": "İzmir Tınaztepe Üniversitesi",
           "slug": "izmir-tinaztepe-universitesi",
           "type": "foundation",
           "website": "https://www.tinaztepe.edu.tr"
         },
         {
-          "id": 138,
+          "id": 141,
           "name": "İzmir Yüksek Teknoloji Enstitüsü",
           "slug": "izmir-yuksek-teknoloji-enstitusu",
           "type": "state",
@@ -1294,7 +1315,7 @@
       "region": "Doğu Anadolu",
       "universities": [
         {
-          "id": 139,
+          "id": 142,
           "name": "Kafkas Üniversitesi",
           "slug": "kafkas-universitesi",
           "type": "state",
@@ -1310,7 +1331,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 140,
+          "id": 143,
           "name": "Kastamonu Üniversitesi",
           "slug": "kastamonu-universitesi",
           "type": "state",
@@ -1326,28 +1347,28 @@
       "region": "İç Anadolu",
       "universities": [
         {
-          "id": 141,
+          "id": 144,
           "name": "Abdullah Gül Üniversitesi",
           "slug": "abdullah-gul-universitesi",
           "type": "state",
           "website": "https://www.agu.edu.tr"
         },
         {
-          "id": 142,
+          "id": 145,
           "name": "Erciyes Üniversitesi",
           "slug": "erciyes-universitesi",
           "type": "state",
           "website": "https://www.erciyes.edu.tr"
         },
         {
-          "id": 143,
+          "id": 146,
           "name": "Kayseri Üniversitesi",
           "slug": "kayseri-universitesi",
           "type": "state",
           "website": "https://www.kayseri.edu.tr"
         },
         {
-          "id": 144,
+          "id": 147,
           "name": "Nuh Naci Yazgan Üniversitesi",
           "slug": "nuh-naci-yazgan-universitesi",
           "type": "foundation",
@@ -1363,7 +1384,7 @@
       "region": "Marmara",
       "universities": [
         {
-          "id": 145,
+          "id": 148,
           "name": "Kırklareli Üniversitesi",
           "slug": "kirklareli-universitesi",
           "type": "state",
@@ -1379,7 +1400,7 @@
       "region": "İç Anadolu",
       "universities": [
         {
-          "id": 146,
+          "id": 149,
           "name": "Kırşehir Ahi Evran Üniversitesi",
           "slug": "kirsehir-ahi-evran-universitesi",
           "type": "state",
@@ -1395,21 +1416,21 @@
       "region": "Marmara",
       "universities": [
         {
-          "id": 147,
+          "id": 150,
           "name": "Gebze Teknik Üniversitesi",
           "slug": "gebze-teknik-universitesi",
           "type": "state",
           "website": "https://www.gtu.edu.tr"
         },
         {
-          "id": 148,
+          "id": 151,
           "name": "Kocaeli Sağlık ve Teknoloji Üniversitesi",
           "slug": "kocaeli-saglik-ve-teknoloji-universitesi",
           "type": "foundation",
           "website": "https://www.kocaelisaglik.edu.tr"
         },
         {
-          "id": 149,
+          "id": 152,
           "name": "Kocaeli Üniversitesi",
           "slug": "kocaeli-universitesi",
           "type": "state",
@@ -1425,35 +1446,35 @@
       "region": "İç Anadolu",
       "universities": [
         {
-          "id": 150,
+          "id": 153,
           "name": "KTO Karatay Üniversitesi",
           "slug": "kto-karatay-universitesi",
           "type": "foundation",
           "website": "https://www.karatay.edu.tr"
         },
         {
-          "id": 151,
+          "id": 154,
           "name": "Konya Gıda ve Tarım Üniversitesi",
           "slug": "konya-gida-ve-tarim-universitesi",
           "type": "foundation",
           "website": "https://www.gidatarim.edu.tr"
         },
         {
-          "id": 152,
+          "id": 155,
           "name": "Konya Teknik Üniversitesi",
           "slug": "konya-teknik-universitesi",
           "type": "state",
           "website": "https://www.ktun.edu.tr"
         },
         {
-          "id": 153,
+          "id": 156,
           "name": "Necmettin Erbakan Üniversitesi",
           "slug": "necmettin-erbakan-universitesi",
           "type": "state",
           "website": "https://www.erbakan.edu.tr"
         },
         {
-          "id": 154,
+          "id": 157,
           "name": "Selçuk Üniversitesi",
           "slug": "selcuk-universitesi",
           "type": "state",
@@ -1469,14 +1490,14 @@
       "region": "Ege",
       "universities": [
         {
-          "id": 155,
+          "id": 158,
           "name": "Kütahya Dumlupınar Üniversitesi",
           "slug": "kutahya-dumlupinar-universitesi",
           "type": "state",
           "website": "https://www.dpu.edu.tr"
         },
         {
-          "id": 156,
+          "id": 159,
           "name": "Kütahya Sağlık Bilimleri Üniversitesi",
           "slug": "kutahya-saglik-bilimleri-universitesi",
           "type": "state",
@@ -1492,14 +1513,14 @@
       "region": "Doğu Anadolu",
       "universities": [
         {
-          "id": 157,
+          "id": 160,
           "name": "Malatya Turgut Özal Üniversitesi",
           "slug": "malatya-turgut-ozal-universitesi",
           "type": "state",
           "website": "https://www.ozal.edu.tr"
         },
         {
-          "id": 158,
+          "id": 161,
           "name": "İnönü Üniversitesi",
           "slug": "inonu-universitesi",
           "type": "state",
@@ -1515,7 +1536,7 @@
       "region": "Ege",
       "universities": [
         {
-          "id": 159,
+          "id": 162,
           "name": "Manisa Celal Bayar Üniversitesi",
           "slug": "manisa-celal-bayar-universitesi",
           "type": "state",
@@ -1531,14 +1552,14 @@
       "region": "Akdeniz",
       "universities": [
         {
-          "id": 160,
+          "id": 163,
           "name": "Kahramanmaraş Sütçü İmam Üniversitesi",
           "slug": "kahramanmaras-sutcu-imam-universitesi",
           "type": "state",
           "website": "https://www.ksu.edu.tr"
         },
         {
-          "id": 161,
+          "id": 164,
           "name": "Kahramanmaraş İstiklal Üniversitesi",
           "slug": "kahramanmaras-istiklal-universitesi",
           "type": "state",
@@ -1554,7 +1575,7 @@
       "region": "Güneydoğu Anadolu",
       "universities": [
         {
-          "id": 162,
+          "id": 165,
           "name": "Mardin Artuklu Üniversitesi",
           "slug": "mardin-artuklu-universitesi",
           "type": "state",
@@ -1570,7 +1591,7 @@
       "region": "Ege",
       "universities": [
         {
-          "id": 163,
+          "id": 166,
           "name": "Muğla Sıtkı Koçman Üniversitesi",
           "slug": "mugla-sitki-kocman-universitesi",
           "type": "state",
@@ -1586,7 +1607,7 @@
       "region": "Doğu Anadolu",
       "universities": [
         {
-          "id": 164,
+          "id": 167,
           "name": "Muş Alparslan Üniversitesi",
           "slug": "mus-alparslan-universitesi",
           "type": "state",
@@ -1602,14 +1623,14 @@
       "region": "İç Anadolu",
       "universities": [
         {
-          "id": 165,
+          "id": 168,
           "name": "Kapadokya Üniversitesi",
           "slug": "kapadokya-universitesi",
           "type": "foundation",
           "website": "https://kapadokya.edu.tr"
         },
         {
-          "id": 166,
+          "id": 169,
           "name": "Nevşehir Hacı Bektaş Veli Üniversitesi",
           "slug": "nevsehir-haci-bektas-veli-universitesi",
           "type": "state",
@@ -1625,7 +1646,7 @@
       "region": "İç Anadolu",
       "universities": [
         {
-          "id": 167,
+          "id": 170,
           "name": "Niğde Ömer Halisdemir Üniversitesi",
           "slug": "nigde-omer-halisdemir-universitesi",
           "type": "state",
@@ -1641,7 +1662,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 168,
+          "id": 171,
           "name": "Ordu Üniversitesi",
           "slug": "ordu-universitesi",
           "type": "state",
@@ -1657,7 +1678,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 169,
+          "id": 172,
           "name": "Recep Tayyip Erdoğan Üniversitesi",
           "slug": "recep-tayyip-erdogan-universitesi",
           "type": "state",
@@ -1673,14 +1694,14 @@
       "region": "Marmara",
       "universities": [
         {
-          "id": 170,
+          "id": 173,
           "name": "Sakarya Uygulamalı Bilimler Üniversitesi",
           "slug": "sakarya-uygulamali-bilimler-universitesi",
           "type": "state",
           "website": "https://www.subu.edu.tr"
         },
         {
-          "id": 171,
+          "id": 174,
           "name": "Sakarya Üniversitesi",
           "slug": "sakarya-universitesi",
           "type": "state",
@@ -1696,14 +1717,14 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 172,
+          "id": 175,
           "name": "Ondokuz Mayıs Üniversitesi",
           "slug": "ondokuz-mayis-universitesi",
           "type": "state",
           "website": "https://www.omu.edu.tr"
         },
         {
-          "id": 173,
+          "id": 176,
           "name": "Samsun Üniversitesi",
           "slug": "samsun-universitesi",
           "type": "state",
@@ -1719,7 +1740,7 @@
       "region": "Güneydoğu Anadolu",
       "universities": [
         {
-          "id": 174,
+          "id": 177,
           "name": "Siirt Üniversitesi",
           "slug": "siirt-universitesi",
           "type": "state",
@@ -1735,7 +1756,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 175,
+          "id": 178,
           "name": "Sinop Üniversitesi",
           "slug": "sinop-universitesi",
           "type": "state",
@@ -1751,14 +1772,14 @@
       "region": "İç Anadolu",
       "universities": [
         {
-          "id": 176,
+          "id": 179,
           "name": "Sivas Bilim ve Teknoloji Üniversitesi",
           "slug": "sivas-bilim-ve-teknoloji-universitesi",
           "type": "state",
           "website": "https://www.sivas.edu.tr"
         },
         {
-          "id": 177,
+          "id": 180,
           "name": "Sivas Cumhuriyet Üniversitesi",
           "slug": "sivas-cumhuriyet-universitesi",
           "type": "state",
@@ -1774,7 +1795,7 @@
       "region": "Marmara",
       "universities": [
         {
-          "id": 178,
+          "id": 181,
           "name": "Tekirdağ Namık Kemal Üniversitesi",
           "slug": "tekirdag-namik-kemal-universitesi",
           "type": "state",
@@ -1790,7 +1811,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 179,
+          "id": 182,
           "name": "Tokat Gaziosmanpaşa Üniversitesi",
           "slug": "tokat-gaziosmanpasa-universitesi",
           "type": "state",
@@ -1806,21 +1827,21 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 180,
+          "id": 183,
           "name": "Avrasya Üniversitesi",
           "slug": "avrasya-universitesi",
           "type": "foundation",
           "website": "https://www.avrasya.edu.tr"
         },
         {
-          "id": 181,
+          "id": 184,
           "name": "Karadeniz Teknik Üniversitesi",
           "slug": "karadeniz-teknik-universitesi",
           "type": "state",
           "website": "https://www.ktu.edu.tr"
         },
         {
-          "id": 182,
+          "id": 185,
           "name": "Trabzon Üniversitesi",
           "slug": "trabzon-universitesi",
           "type": "state",
@@ -1836,7 +1857,7 @@
       "region": "Doğu Anadolu",
       "universities": [
         {
-          "id": 183,
+          "id": 186,
           "name": "Munzur Üniversitesi",
           "slug": "munzur-universitesi",
           "type": "state",
@@ -1852,7 +1873,7 @@
       "region": "Güneydoğu Anadolu",
       "universities": [
         {
-          "id": 184,
+          "id": 187,
           "name": "Harran Üniversitesi",
           "slug": "harran-universitesi",
           "type": "state",
@@ -1868,7 +1889,7 @@
       "region": "Ege",
       "universities": [
         {
-          "id": 185,
+          "id": 188,
           "name": "Uşak Üniversitesi",
           "slug": "usak-universitesi",
           "type": "state",
@@ -1884,7 +1905,7 @@
       "region": "Doğu Anadolu",
       "universities": [
         {
-          "id": 186,
+          "id": 189,
           "name": "Van Yüzüncü Yıl Üniversitesi",
           "slug": "van-yuzuncu-yil-universitesi",
           "type": "state",
@@ -1900,7 +1921,7 @@
       "region": "İç Anadolu",
       "universities": [
         {
-          "id": 187,
+          "id": 190,
           "name": "Yozgat Bozok Üniversitesi",
           "slug": "yozgat-bozok-universitesi",
           "type": "state",
@@ -1916,7 +1937,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 188,
+          "id": 191,
           "name": "Zonguldak Bülent Ecevit Üniversitesi",
           "slug": "zonguldak-bulent-ecevit-universitesi",
           "type": "state",
@@ -1932,7 +1953,7 @@
       "region": "İç Anadolu",
       "universities": [
         {
-          "id": 189,
+          "id": 192,
           "name": "Aksaray Üniversitesi",
           "slug": "aksaray-universitesi",
           "type": "state",
@@ -1948,7 +1969,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 190,
+          "id": 193,
           "name": "Bayburt Üniversitesi",
           "slug": "bayburt-universitesi",
           "type": "state",
@@ -1964,7 +1985,7 @@
       "region": "İç Anadolu",
       "universities": [
         {
-          "id": 191,
+          "id": 194,
           "name": "Karamanoğlu Mehmetbey Üniversitesi",
           "slug": "karamanoglu-mehmetbey-universitesi",
           "type": "state",
@@ -1980,7 +2001,7 @@
       "region": "İç Anadolu",
       "universities": [
         {
-          "id": 192,
+          "id": 195,
           "name": "Kırıkkale Üniversitesi",
           "slug": "kirikkale-universitesi",
           "type": "state",
@@ -1996,7 +2017,7 @@
       "region": "Güneydoğu Anadolu",
       "universities": [
         {
-          "id": 193,
+          "id": 196,
           "name": "Batman Üniversitesi",
           "slug": "batman-universitesi",
           "type": "state",
@@ -2012,7 +2033,7 @@
       "region": "Güneydoğu Anadolu",
       "universities": [
         {
-          "id": 194,
+          "id": 197,
           "name": "Şırnak Üniversitesi",
           "slug": "sirnak-universitesi",
           "type": "state",
@@ -2028,7 +2049,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 195,
+          "id": 198,
           "name": "Bartın Üniversitesi",
           "slug": "bartin-universitesi",
           "type": "state",
@@ -2044,7 +2065,7 @@
       "region": "Doğu Anadolu",
       "universities": [
         {
-          "id": 196,
+          "id": 199,
           "name": "Ardahan Üniversitesi",
           "slug": "ardahan-universitesi",
           "type": "state",
@@ -2060,7 +2081,7 @@
       "region": "Doğu Anadolu",
       "universities": [
         {
-          "id": 197,
+          "id": 200,
           "name": "Iğdır Üniversitesi",
           "slug": "igdir-universitesi",
           "type": "state",
@@ -2076,7 +2097,7 @@
       "region": "Marmara",
       "universities": [
         {
-          "id": 198,
+          "id": 201,
           "name": "Yalova Üniversitesi",
           "slug": "yalova-universitesi",
           "type": "state",
@@ -2092,7 +2113,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 199,
+          "id": 202,
           "name": "Karabük Üniversitesi",
           "slug": "karabuk-universitesi",
           "type": "state",
@@ -2108,7 +2129,7 @@
       "region": "Güneydoğu Anadolu",
       "universities": [
         {
-          "id": 200,
+          "id": 203,
           "name": "Kilis 7 Aralık Üniversitesi",
           "slug": "kilis-7-aralik-universitesi",
           "type": "state",
@@ -2124,7 +2145,7 @@
       "region": "Akdeniz",
       "universities": [
         {
-          "id": 201,
+          "id": 204,
           "name": "Osmaniye Korkut Ata Üniversitesi",
           "slug": "osmaniye-korkut-ata-universitesi",
           "type": "state",
@@ -2140,7 +2161,7 @@
       "region": "Karadeniz",
       "universities": [
         {
-          "id": 202,
+          "id": 205,
           "name": "Düzce Üniversitesi",
           "slug": "duzce-universitesi",
           "type": "state",

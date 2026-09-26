@@ -1,0 +1,17 @@
+{
+  "plate_code": 55,
+  "name": "Samsun",
+  "region": "Karadeniz",
+  "universities": [
+    {
+      "name": "Ondokuz Mayıs Üniversitesi",
+      "type": "state",
+      "website": "https://www.omu.edu.tr"
+    },
+    {
+      "name": "Samsun Üniversitesi",
+      "type": "state",
+      "website": "https://www.samsun.edu.tr"
+    }
+  ]
+}

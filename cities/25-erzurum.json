@@ -1,0 +1,17 @@
+{
+  "plate_code": 25,
+  "name": "Erzurum",
+  "region": "Doğu Anadolu",
+  "universities": [
+    {
+      "name": "Atatürk Üniversitesi",
+      "type": "state",
+      "website": "https://www.atauni.edu.tr"
+    },
+    {
+      "name": "Erzurum Teknik Üniversitesi",
+      "type": "state",
+      "website": "https://www.erzurum.edu.tr"
+    }
+  ]
+}

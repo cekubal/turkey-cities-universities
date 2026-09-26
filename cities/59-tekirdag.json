@@ -1,0 +1,12 @@
+{
+  "plate_code": 59,
+  "name": "Tekirdağ",
+  "region": "Marmara",
+  "universities": [
+    {
+      "name": "Tekirdağ Namık Kemal Üniversitesi",
+      "type": "state",
+      "website": "https://www.nku.edu.tr"
+    }
+  ]
+}

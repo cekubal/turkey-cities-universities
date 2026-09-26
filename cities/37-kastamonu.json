@@ -1,0 +1,12 @@
+{
+  "plate_code": 37,
+  "name": "Kastamonu",
+  "region": "Karadeniz",
+  "universities": [
+    {
+      "name": "Kastamonu Üniversitesi",
+      "type": "state",
+      "website": "https://www.kastamonu.edu.tr"
+    }
+  ]
+}

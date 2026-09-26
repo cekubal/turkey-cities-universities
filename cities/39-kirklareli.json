@@ -1,0 +1,12 @@
+{
+  "plate_code": 39,
+  "name": "Kırklareli",
+  "region": "Marmara",
+  "universities": [
+    {
+      "name": "Kırklareli Üniversitesi",
+      "type": "state",
+      "website": "https://www.klu.edu.tr"
+    }
+  ]
+}

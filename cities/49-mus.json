@@ -1,0 +1,12 @@
+{
+  "plate_code": 49,
+  "name": "Muş",
+  "region": "Doğu Anadolu",
+  "universities": [
+    {
+      "name": "Muş Alparslan Üniversitesi",
+      "type": "state",
+      "website": "https://www.alparslan.edu.tr"
+    }
+  ]
+}

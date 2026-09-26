@@ -1,0 +1,122 @@
+{
+  "plate_code": 6,
+  "name": "Ankara",
+  "region": "İç Anadolu",
+  "universities": [
+    {
+      "name": "Ankara Bilim Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.ankarabilim.edu.tr"
+    },
+    {
+      "name": "Ankara Hacı Bayram Veli Üniversitesi",
+      "type": "state",
+      "website": "https://www.hbv.edu.tr"
+    },
+    {
+      "name": "Ankara Medipol Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.ankaramedipol.edu.tr"
+    },
+    {
+      "name": "Ankara Müzik ve Güzel Sanatlar Üniversitesi",
+      "type": "state",
+      "website": "https://www.mgu.edu.tr"
+    },
+    {
+      "name": "Ankara Sosyal Bilimler Üniversitesi",
+      "type": "state",
+      "website": "https://www.asbu.edu.tr"
+    },
+    {
+      "name": "Ankara Yıldırım Beyazıt Üniversitesi",
+      "type": "state",
+      "website": "https://www.aybu.edu.tr"
+    },
+    {
+      "name": "Ankara Üniversitesi",
+      "type": "state",
+      "website": "https://www.ankara.edu.tr"
+    },
+    {
+      "name": "Atılım Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.atilim.edu.tr"
+    },
+    {
+      "name": "Başkent Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.baskent.edu.tr"
+    },
+    {
+      "name": "Gazi Üniversitesi",
+      "type": "state",
+      "website": "https://www.gazi.edu.tr"
+    },
+    {
+      "name": "Hacettepe Üniversitesi",
+      "type": "state",
+      "website": "https://www.hacettepe.edu.tr"
+    },
+    {
+      "name": "Jandarma ve Sahil Güvenlik Akademisi",
+      "type": "state",
+      "website": "https://www.jsga.edu.tr"
+    },
+    {
+      "name": "Lokman Hekim Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.lokmanhekim.edu.tr"
+    },
+    {
+      "name": "Orta Doğu Teknik Üniversitesi",
+      "type": "state",
+      "website": "https://www.metu.edu.tr"
+    },
+    {
+      "name": "Ostim Teknik Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.ostimteknik.edu.tr"
+    },
+    {
+      "name": "Polis Akademisi",
+      "type": "state",
+      "website": "https://www.pa.edu.tr"
+    },
+    {
+      "name": "TED Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.tedu.edu.tr"
+    },
+    {
+      "name": "TOBB Ekonomi ve Teknoloji Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.etu.edu.tr"
+    },
+    {
+      "name": "Türk Hava Kurumu Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.thk.edu.tr"
+    },
+    {
+      "name": "Ufuk Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.ufuk.edu.tr"
+    },
+    {
+      "name": "Yüksek İhtisas Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.yuksekihtisasuniversitesi.edu.tr"
+    },
+    {
+      "name": "Çankaya Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.cankaya.edu.tr"
+    },
+    {
+      "name": "İhsan Doğramacı Bilkent Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.bilkent.edu.tr"
+    }
+  ]
+}

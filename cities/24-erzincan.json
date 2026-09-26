@@ -1,0 +1,12 @@
+{
+  "plate_code": 24,
+  "name": "Erzincan",
+  "region": "Doğu Anadolu",
+  "universities": [
+    {
+      "name": "Erzincan Binali Yıldırım Üniversitesi",
+      "type": "state",
+      "website": "https://www.erzincan.edu.tr"
+    }
+  ]
+}

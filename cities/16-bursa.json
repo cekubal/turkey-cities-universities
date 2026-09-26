@@ -1,0 +1,22 @@
+{
+  "plate_code": 16,
+  "name": "Bursa",
+  "region": "Marmara",
+  "universities": [
+    {
+      "name": "Bursa Teknik Üniversitesi",
+      "type": "state",
+      "website": "https://www.btu.edu.tr"
+    },
+    {
+      "name": "Bursa Uludağ Üniversitesi",
+      "type": "state",
+      "website": "https://www.uludag.edu.tr"
+    },
+    {
+      "name": "Mudanya Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.mudanya.edu.tr"
+    }
+  ]
+}

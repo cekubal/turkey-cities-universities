@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate data/regions/*.json and generate dist/ outputs (JSON, CSV, SQL)."""
+"""Validate country.json + cities/*.json and generate dist/ outputs (JSON, CSV, SQL)."""
 import csv
 import json
 import re
@@ -7,9 +7,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-REGIONS_DIR = ROOT / "data" / "regions"
+CITIES_DIR = ROOT / "cities"
 DIST = ROOT / "dist"
-COUNTRY = {"code": "TR", "name": "Türkiye", "name_en": "Turkey"}
+COUNTRY = json.loads((ROOT / "country.json").read_text(encoding="utf-8"))
 EXPECTED_CITY_COUNT = 81
 TYPES = {"state", "foundation"}
 
@@ -22,16 +22,14 @@ def slugify(text):
 
 def load():
     errors, cities = [], []
-    for path in sorted(REGIONS_DIR.glob("*.json")):
-        region = json.loads(path.read_text(encoding="utf-8"))
-        for city in region["cities"]:
-            city["region"] = region["region"]
-            cities.append(city)
-            for uni in city["universities"]:
-                if uni.get("type") not in TYPES:
-                    errors.append(f"{city['name']}: {uni.get('name')} invalid type {uni.get('type')!r}")
-                if not str(uni.get("website", "")).startswith("https://"):
-                    errors.append(f"{city['name']}: {uni.get('name')} website must start with https://")
+    for path in sorted(CITIES_DIR.glob("*.json")):
+        city = json.loads(path.read_text(encoding="utf-8"))
+        cities.append(city)
+        for uni in city["universities"]:
+            if uni.get("type") not in TYPES:
+                errors.append(f"{city['name']}: {uni.get('name')} invalid type {uni.get('type')!r}")
+            if not str(uni.get("website", "")).startswith("https://"):
+                errors.append(f"{city['name']}: {uni.get('name')} website must start with https://")
 
     plates = [c["plate_code"] for c in cities]
     if sorted(plates) != list(range(1, EXPECTED_CITY_COUNT + 1)):

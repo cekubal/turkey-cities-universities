@@ -1,0 +1,12 @@
+{
+  "plate_code": 17,
+  "name": "Çanakkale",
+  "region": "Marmara",
+  "universities": [
+    {
+      "name": "Çanakkale Onsekiz Mart Üniversitesi",
+      "type": "state",
+      "website": "https://www.comu.edu.tr"
+    }
+  ]
+}

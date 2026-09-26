@@ -1,0 +1,12 @@
+{
+  "plate_code": 48,
+  "name": "Muğla",
+  "region": "Ege",
+  "universities": [
+    {
+      "name": "Muğla Sıtkı Koçman Üniversitesi",
+      "type": "state",
+      "website": "https://www.mu.edu.tr"
+    }
+  ]
+}

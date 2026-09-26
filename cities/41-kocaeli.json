@@ -1,0 +1,22 @@
+{
+  "plate_code": 41,
+  "name": "Kocaeli",
+  "region": "Marmara",
+  "universities": [
+    {
+      "name": "Gebze Teknik Üniversitesi",
+      "type": "state",
+      "website": "https://www.gtu.edu.tr"
+    },
+    {
+      "name": "Kocaeli Sağlık ve Teknoloji Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.kocaelisaglik.edu.tr"
+    },
+    {
+      "name": "Kocaeli Üniversitesi",
+      "type": "state",
+      "website": "https://www.kocaeli.edu.tr"
+    }
+  ]
+}

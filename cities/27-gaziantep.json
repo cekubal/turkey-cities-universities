@@ -1,0 +1,27 @@
+{
+  "plate_code": 27,
+  "name": "Gaziantep",
+  "region": "Güneydoğu Anadolu",
+  "universities": [
+    {
+      "name": "Gaziantep Üniversitesi",
+      "type": "state",
+      "website": "https://www.gantep.edu.tr"
+    },
+    {
+      "name": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi",
+      "type": "state",
+      "website": "https://www.gibtu.edu.tr"
+    },
+    {
+      "name": "Hasan Kalyoncu Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.hku.edu.tr"
+    },
+    {
+      "name": "SANKO Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.sanko.edu.tr"
+    }
+  ]
+}

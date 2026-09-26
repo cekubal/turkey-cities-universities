@@ -1,0 +1,12 @@
+{
+  "plate_code": 63,
+  "name": "Şanlıurfa",
+  "region": "Güneydoğu Anadolu",
+  "universities": [
+    {
+      "name": "Harran Üniversitesi",
+      "type": "state",
+      "website": "https://www.harran.edu.tr"
+    }
+  ]
+}

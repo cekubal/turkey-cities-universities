@@ -1,0 +1,12 @@
+{
+  "plate_code": 14,
+  "name": "Bolu",
+  "region": "Karadeniz",
+  "universities": [
+    {
+      "name": "Bolu Abant İzzet Baysal Üniversitesi",
+      "type": "state",
+      "website": "https://www.ibu.edu.tr"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "plate_code": 2,
+  "name": "Adıyaman",
+  "region": "Güneydoğu Anadolu",
+  "universities": [
+    {
+      "name": "Adıyaman Üniversitesi",
+      "type": "state",
+      "website": "https://www.adiyaman.edu.tr"
+    }
+  ]
+}

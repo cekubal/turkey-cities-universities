@@ -1,0 +1,12 @@
+{
+  "plate_code": 73,
+  "name": "Şırnak",
+  "region": "Güneydoğu Anadolu",
+  "universities": [
+    {
+      "name": "Şırnak Üniversitesi",
+      "type": "state",
+      "website": "https://www.sirnak.edu.tr"
+    }
+  ]
+}

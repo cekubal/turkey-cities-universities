@@ -1,0 +1,12 @@
+{
+  "plate_code": 36,
+  "name": "Kars",
+  "region": "Doğu Anadolu",
+  "universities": [
+    {
+      "name": "Kafkas Üniversitesi",
+      "type": "state",
+      "website": "https://www.kafkas.edu.tr"
+    }
+  ]
+}

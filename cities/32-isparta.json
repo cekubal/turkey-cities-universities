@@ -1,0 +1,17 @@
+{
+  "plate_code": 32,
+  "name": "Isparta",
+  "region": "Akdeniz",
+  "universities": [
+    {
+      "name": "Isparta Uygulamalı Bilimler Üniversitesi",
+      "type": "state",
+      "website": "https://www.isparta.edu.tr"
+    },
+    {
+      "name": "Süleyman Demirel Üniversitesi",
+      "type": "state",
+      "website": "https://www.sdu.edu.tr"
+    }
+  ]
+}

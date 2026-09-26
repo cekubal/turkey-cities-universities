@@ -1,0 +1,12 @@
+{
+  "plate_code": 5,
+  "name": "Amasya",
+  "region": "Karadeniz",
+  "universities": [
+    {
+      "name": "Amasya Üniversitesi",
+      "type": "state",
+      "website": "https://www.amasya.edu.tr"
+    }
+  ]
+}
