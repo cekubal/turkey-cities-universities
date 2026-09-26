@@ -1,0 +1,13 @@
+{
+  "code": "IT-TN",
+  "name": "Trento",
+  "region": "Trentino-Alto Adige",
+  "division_type": "autonomous province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Trento",
+      "type": "state",
+      "website": "https://www.unitn.it"
+    }
+  ]
+}

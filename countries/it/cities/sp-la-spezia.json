@@ -1,0 +1,12 @@
+{
+  "code": "IT-SP",
+  "name": "La Spezia",
+  "region": "Liguria",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Genova",
+      "campus": true
+    }
+  ]
+}

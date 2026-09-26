@@ -1,0 +1,16 @@
+{
+  "code": "IT-AT",
+  "name": "Asti",
+  "region": "Piemonte",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi del Piemonte Orientale \"Amedeo Avogadro\"",
+      "campus": true
+    },
+    {
+      "name": "Università degli Studi di Torino",
+      "campus": true
+    }
+  ]
+}

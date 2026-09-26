@@ -1,0 +1,9 @@
+{
+  "code": "IT-RG",
+  "name": "Ragusa",
+  "region": "Sicilia",
+  "division_type": "free municipal consortium",
+  "universities": [
+    {"name": "Università degli Studi di Catania", "campus": true}
+  ]
+}

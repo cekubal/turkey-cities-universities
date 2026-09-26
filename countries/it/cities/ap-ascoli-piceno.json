@@ -1,0 +1,12 @@
+{
+  "code": "IT-AP",
+  "name": "Ascoli Piceno",
+  "region": "Marche",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Camerino",
+      "campus": true
+    }
+  ]
+}

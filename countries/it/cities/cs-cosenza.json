@@ -1,0 +1,10 @@
+{
+  "code": "IT-CS",
+  "name": "Cosenza",
+  "region": "Calabria",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi \"Magna Graecia\" di Catanzaro", "campus": true},
+    {"name": "Università della Calabria", "type": "state", "website": "https://www.unical.it"}
+  ]
+}

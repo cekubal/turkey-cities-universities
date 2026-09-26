@@ -1,0 +1,22 @@
+{
+  "code": "IT-VE",
+  "name": "Venezia",
+  "region": "Veneto",
+  "division_type": "metropolitan city",
+  "universities": [
+    {
+      "name": "Università Ca' Foscari Venezia",
+      "type": "state",
+      "website": "https://www.unive.it"
+    },
+    {
+      "name": "Università degli Studi di Padova",
+      "campus": true
+    },
+    {
+      "name": "Università Iuav di Venezia",
+      "type": "state",
+      "website": "https://www.iuav.it"
+    }
+  ]
+}

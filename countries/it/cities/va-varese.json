@@ -1,0 +1,18 @@
+{
+  "code": "IT-VA",
+  "name": "Varese",
+  "region": "Lombardia",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università Carlo Cattaneo - LIUC",
+      "type": "private",
+      "website": "https://www.liuc.it"
+    },
+    {
+      "name": "Università degli Studi dell'Insubria",
+      "type": "state",
+      "website": "https://www.uninsubria.it"
+    }
+  ]
+}

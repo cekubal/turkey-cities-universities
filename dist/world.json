@@ -1351,6 +1351,2329 @@
       ]
     },
     {
+      "code": "IT",
+      "name": "Italia",
+      "name_en": "Italy",
+      "cities": [
+        {
+          "id": "IT-23",
+          "name": "Valle d'Aosta",
+          "slug": "valle-d-aosta",
+          "region": "Valle d'Aosta",
+          "division_type": "autonomous region",
+          "universities": [
+            {
+              "id": "it-politecnico-di-torino",
+              "name": "Politecnico di Torino",
+              "slug": "politecnico-di-torino",
+              "type": "state",
+              "website": "https://www.polito.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-torino",
+              "name": "Università degli Studi di Torino",
+              "slug": "universit-degli-studi-di-torino",
+              "type": "state",
+              "website": "https://www.unito.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-della-valle-d-aosta-universit-de-la-vall-e-d-aoste",
+              "name": "Università della Valle d'Aosta - Université de la Vallée d'Aoste",
+              "slug": "universit-della-valle-d-aosta-universit-de-la-vall-e-d-aoste",
+              "type": "private",
+              "website": "https://www.univda.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-AG",
+          "name": "Agrigento",
+          "slug": "agrigento",
+          "region": "Sicilia",
+          "division_type": "free municipal consortium",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-palermo",
+              "name": "Università degli Studi di Palermo",
+              "slug": "universit-degli-studi-di-palermo",
+              "type": "state",
+              "website": "https://www.unipa.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-AL",
+          "name": "Alessandria",
+          "slug": "alessandria",
+          "region": "Piemonte",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-politecnico-di-torino",
+              "name": "Politecnico di Torino",
+              "slug": "politecnico-di-torino",
+              "type": "state",
+              "website": "https://www.polito.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "name": "Università degli Studi del Piemonte Orientale \"Amedeo Avogadro\"",
+              "slug": "universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "type": "state",
+              "website": "https://www.uniupo.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-AN",
+          "name": "Ancona",
+          "slug": "ancona",
+          "region": "Marche",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-politecnica-delle-marche",
+              "name": "Università Politecnica delle Marche",
+              "slug": "universit-politecnica-delle-marche",
+              "type": "state",
+              "website": "https://www.univpm.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-AP",
+          "name": "Ascoli Piceno",
+          "slug": "ascoli-piceno",
+          "region": "Marche",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-camerino",
+              "name": "Università degli Studi di Camerino",
+              "slug": "universit-degli-studi-di-camerino",
+              "type": "state",
+              "website": "https://www.unicam.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-AQ",
+          "name": "L'Aquila",
+          "slug": "l-aquila",
+          "region": "Abruzzo",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-gran-sasso-science-institute",
+              "name": "Gran Sasso Science Institute",
+              "slug": "gran-sasso-science-institute",
+              "type": "state",
+              "website": "https://www.gssi.it"
+            },
+            {
+              "id": "it-universit-degli-studi-dell-aquila",
+              "name": "Università degli Studi dell'Aquila",
+              "slug": "universit-degli-studi-dell-aquila",
+              "type": "state",
+              "website": "https://www.univaq.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-AR",
+          "name": "Arezzo",
+          "slug": "arezzo",
+          "region": "Toscana",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-siena",
+              "name": "Università degli Studi di Siena",
+              "slug": "universit-degli-studi-di-siena",
+              "type": "state",
+              "website": "https://www.unisi.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-AT",
+          "name": "Asti",
+          "slug": "asti",
+          "region": "Piemonte",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "name": "Università degli Studi del Piemonte Orientale \"Amedeo Avogadro\"",
+              "slug": "universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "type": "state",
+              "website": "https://www.uniupo.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-torino",
+              "name": "Università degli Studi di Torino",
+              "slug": "universit-degli-studi-di-torino",
+              "type": "state",
+              "website": "https://www.unito.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-AV",
+          "name": "Avellino",
+          "slug": "avellino",
+          "region": "Campania",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-napoli-federico-ii",
+              "name": "Università degli Studi di Napoli Federico II",
+              "slug": "universit-degli-studi-di-napoli-federico-ii",
+              "type": "state",
+              "website": "https://www.unina.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-BA",
+          "name": "Bari",
+          "slug": "bari",
+          "region": "Puglia",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-libera-universit-mediterranea-lum-giuseppe-degennaro",
+              "name": "Libera Università Mediterranea LUM \"Giuseppe Degennaro\"",
+              "slug": "libera-universit-mediterranea-lum-giuseppe-degennaro",
+              "type": "private",
+              "website": "https://www.lum.it"
+            },
+            {
+              "id": "it-politecnico-di-bari",
+              "name": "Politecnico di Bari",
+              "slug": "politecnico-di-bari",
+              "type": "state",
+              "website": "https://www.poliba.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-bari-aldo-moro",
+              "name": "Università degli Studi di Bari Aldo Moro",
+              "slug": "universit-degli-studi-di-bari-aldo-moro",
+              "type": "state",
+              "website": "https://www.uniba.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-BG",
+          "name": "Bergamo",
+          "slug": "bergamo",
+          "region": "Lombardia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-humanitas-university",
+              "name": "Humanitas University",
+              "slug": "humanitas-university",
+              "type": "private",
+              "website": "https://www.hunimed.eu",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-bergamo",
+              "name": "Università degli Studi di Bergamo",
+              "slug": "universit-degli-studi-di-bergamo",
+              "type": "state",
+              "website": "https://www.unibg.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-milano-bicocca",
+              "name": "Università degli Studi di Milano-Bicocca",
+              "slug": "universit-degli-studi-di-milano-bicocca",
+              "type": "state",
+              "website": "https://www.unimib.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-BI",
+          "name": "Biella",
+          "slug": "biella",
+          "region": "Piemonte",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-politecnico-di-torino",
+              "name": "Politecnico di Torino",
+              "slug": "politecnico-di-torino",
+              "type": "state",
+              "website": "https://www.polito.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "name": "Università degli Studi del Piemonte Orientale \"Amedeo Avogadro\"",
+              "slug": "universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "type": "state",
+              "website": "https://www.uniupo.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-torino",
+              "name": "Università degli Studi di Torino",
+              "slug": "universit-degli-studi-di-torino",
+              "type": "state",
+              "website": "https://www.unito.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-BL",
+          "name": "Belluno",
+          "slug": "belluno",
+          "region": "Veneto",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-padova",
+              "name": "Università degli Studi di Padova",
+              "slug": "universit-degli-studi-di-padova",
+              "type": "state",
+              "website": "https://www.unipd.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-BN",
+          "name": "Benevento",
+          "slug": "benevento",
+          "region": "Campania",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-telematica-giustino-fortunato",
+              "name": "Università Telematica \"Giustino Fortunato\"",
+              "slug": "universit-telematica-giustino-fortunato",
+              "type": "private",
+              "website": "https://www.unifortunato.eu"
+            },
+            {
+              "id": "it-universit-degli-studi-del-sannio",
+              "name": "Università degli Studi del Sannio",
+              "slug": "universit-degli-studi-del-sannio",
+              "type": "state",
+              "website": "https://www.unisannio.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-BO",
+          "name": "Bologna",
+          "slug": "bologna",
+          "region": "Emilia-Romagna",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-alma-mater-studiorum-universit-di-bologna",
+              "name": "Alma Mater Studiorum - Università di Bologna",
+              "slug": "alma-mater-studiorum-universit-di-bologna",
+              "type": "state",
+              "website": "https://www.unibo.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-BR",
+          "name": "Brindisi",
+          "slug": "brindisi",
+          "region": "Puglia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-del-salento",
+              "name": "Università del Salento",
+              "slug": "universit-del-salento",
+              "type": "state",
+              "website": "https://www.unisalento.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-BS",
+          "name": "Brescia",
+          "slug": "brescia",
+          "region": "Lombardia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-cattolica-del-sacro-cuore",
+              "name": "Università Cattolica del Sacro Cuore",
+              "slug": "universit-cattolica-del-sacro-cuore",
+              "type": "private",
+              "website": "https://www.unicatt.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-brescia",
+              "name": "Università degli Studi di Brescia",
+              "slug": "universit-degli-studi-di-brescia",
+              "type": "state",
+              "website": "https://www.unibs.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-milano",
+              "name": "Università degli Studi di Milano",
+              "slug": "universit-degli-studi-di-milano",
+              "type": "state",
+              "website": "https://www.unimi.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-BT",
+          "name": "Barletta-Andria-Trani",
+          "slug": "barletta-andria-trani",
+          "region": "Puglia",
+          "division_type": "province",
+          "universities": []
+        },
+        {
+          "id": "IT-BZ",
+          "name": "Bolzano",
+          "slug": "bolzano",
+          "region": "Trentino-Alto Adige",
+          "division_type": "autonomous province",
+          "universities": [
+            {
+              "id": "it-libera-universit-di-bolzano",
+              "name": "Libera Università di Bolzano",
+              "slug": "libera-universit-di-bolzano",
+              "type": "private",
+              "website": "https://www.unibz.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-CA",
+          "name": "Cagliari",
+          "slug": "cagliari",
+          "region": "Sardegna",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-cagliari",
+              "name": "Università degli Studi di Cagliari",
+              "slug": "universit-degli-studi-di-cagliari",
+              "type": "state",
+              "website": "https://www.unica.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-CB",
+          "name": "Campobasso",
+          "slug": "campobasso",
+          "region": "Molise",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-cattolica-del-sacro-cuore",
+              "name": "Università Cattolica del Sacro Cuore",
+              "slug": "universit-cattolica-del-sacro-cuore",
+              "type": "private",
+              "website": "https://www.unicatt.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-del-molise",
+              "name": "Università degli Studi del Molise",
+              "slug": "universit-degli-studi-del-molise",
+              "type": "state",
+              "website": "https://www.unimol.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-CE",
+          "name": "Caserta",
+          "slug": "caserta",
+          "region": "Campania",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-della-campania-luigi-vanvitelli",
+              "name": "Università degli Studi della Campania \"Luigi Vanvitelli\"",
+              "slug": "universit-degli-studi-della-campania-luigi-vanvitelli",
+              "type": "state",
+              "website": "https://www.unicampania.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-CH",
+          "name": "Chieti",
+          "slug": "chieti",
+          "region": "Abruzzo",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-telematica-leonardo-da-vinci",
+              "name": "Università Telematica \"Leonardo da Vinci\"",
+              "slug": "universit-telematica-leonardo-da-vinci",
+              "type": "private",
+              "website": "https://www.unidav.it"
+            },
+            {
+              "id": "it-universit-degli-studi-g-d-annunzio-chieti-pescara",
+              "name": "Università degli Studi \"G. d'Annunzio\" Chieti-Pescara",
+              "slug": "universit-degli-studi-g-d-annunzio-chieti-pescara",
+              "type": "state",
+              "website": "https://www.unich.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-CL",
+          "name": "Caltanissetta",
+          "slug": "caltanissetta",
+          "region": "Sicilia",
+          "division_type": "free municipal consortium",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-palermo",
+              "name": "Università degli Studi di Palermo",
+              "slug": "universit-degli-studi-di-palermo",
+              "type": "state",
+              "website": "https://www.unipa.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-CN",
+          "name": "Cuneo",
+          "slug": "cuneo",
+          "region": "Piemonte",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-politecnico-di-torino",
+              "name": "Politecnico di Torino",
+              "slug": "politecnico-di-torino",
+              "type": "state",
+              "website": "https://www.polito.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "name": "Università degli Studi del Piemonte Orientale \"Amedeo Avogadro\"",
+              "slug": "universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "type": "state",
+              "website": "https://www.uniupo.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-scienze-gastronomiche",
+              "name": "Università degli Studi di Scienze Gastronomiche",
+              "slug": "universit-degli-studi-di-scienze-gastronomiche",
+              "type": "private",
+              "website": "https://www.unisg.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-torino",
+              "name": "Università degli Studi di Torino",
+              "slug": "universit-degli-studi-di-torino",
+              "type": "state",
+              "website": "https://www.unito.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-CO",
+          "name": "Como",
+          "slug": "como",
+          "region": "Lombardia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-dell-insubria",
+              "name": "Università degli Studi dell'Insubria",
+              "slug": "universit-degli-studi-dell-insubria",
+              "type": "state",
+              "website": "https://www.uninsubria.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-telematica-ecampus",
+              "name": "Università telematica eCampus",
+              "slug": "universit-telematica-ecampus",
+              "type": "private",
+              "website": "https://www.uniecampus.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-CR",
+          "name": "Cremona",
+          "slug": "cremona",
+          "region": "Lombardia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-politecnico-di-milano",
+              "name": "Politecnico di Milano",
+              "slug": "politecnico-di-milano",
+              "type": "state",
+              "website": "https://www.polimi.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-cattolica-del-sacro-cuore",
+              "name": "Università Cattolica del Sacro Cuore",
+              "slug": "universit-cattolica-del-sacro-cuore",
+              "type": "private",
+              "website": "https://www.unicatt.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-brescia",
+              "name": "Università degli Studi di Brescia",
+              "slug": "universit-degli-studi-di-brescia",
+              "type": "state",
+              "website": "https://www.unibs.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-pavia",
+              "name": "Università degli Studi di Pavia",
+              "slug": "universit-degli-studi-di-pavia",
+              "type": "state",
+              "website": "https://www.unipv.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-CS",
+          "name": "Cosenza",
+          "slug": "cosenza",
+          "region": "Calabria",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-magna-graecia-di-catanzaro",
+              "name": "Università degli Studi \"Magna Graecia\" di Catanzaro",
+              "slug": "universit-degli-studi-magna-graecia-di-catanzaro",
+              "type": "state",
+              "website": "https://www.unicz.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-della-calabria",
+              "name": "Università della Calabria",
+              "slug": "universit-della-calabria",
+              "type": "state",
+              "website": "https://www.unical.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-CT",
+          "name": "Catania",
+          "slug": "catania",
+          "region": "Sicilia",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-catania",
+              "name": "Università degli Studi di Catania",
+              "slug": "universit-degli-studi-di-catania",
+              "type": "state",
+              "website": "https://www.unict.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-CZ",
+          "name": "Catanzaro",
+          "slug": "catanzaro",
+          "region": "Calabria",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-magna-graecia-di-catanzaro",
+              "name": "Università degli Studi \"Magna Graecia\" di Catanzaro",
+              "slug": "universit-degli-studi-magna-graecia-di-catanzaro",
+              "type": "state",
+              "website": "https://www.unicz.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-EN",
+          "name": "Enna",
+          "slug": "enna",
+          "region": "Sicilia",
+          "division_type": "free municipal consortium",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-enna-kore",
+              "name": "Università degli Studi di Enna \"Kore\"",
+              "slug": "universit-degli-studi-di-enna-kore",
+              "type": "private",
+              "website": "https://www.uke.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-FC",
+          "name": "Forlì-Cesena",
+          "slug": "forl-cesena",
+          "region": "Emilia-Romagna",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-alma-mater-studiorum-universit-di-bologna",
+              "name": "Alma Mater Studiorum - Università di Bologna",
+              "slug": "alma-mater-studiorum-universit-di-bologna",
+              "type": "state",
+              "website": "https://www.unibo.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-FE",
+          "name": "Ferrara",
+          "slug": "ferrara",
+          "region": "Emilia-Romagna",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-ferrara",
+              "name": "Università degli Studi di Ferrara",
+              "slug": "universit-degli-studi-di-ferrara",
+              "type": "state",
+              "website": "https://www.unife.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-FG",
+          "name": "Foggia",
+          "slug": "foggia",
+          "region": "Puglia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-foggia",
+              "name": "Università degli Studi di Foggia",
+              "slug": "universit-degli-studi-di-foggia",
+              "type": "state",
+              "website": "https://www.unifg.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-FI",
+          "name": "Firenze",
+          "slug": "firenze",
+          "region": "Toscana",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-universit-telematica-degli-studi-iul",
+              "name": "Università Telematica degli Studi IUL",
+              "slug": "universit-telematica-degli-studi-iul",
+              "type": "private",
+              "website": "https://www.iuline.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-firenze",
+              "name": "Università degli Studi di Firenze",
+              "slug": "universit-degli-studi-di-firenze",
+              "type": "state",
+              "website": "https://www.unifi.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-FM",
+          "name": "Fermo",
+          "slug": "fermo",
+          "region": "Marche",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-politecnica-delle-marche",
+              "name": "Università Politecnica delle Marche",
+              "slug": "universit-politecnica-delle-marche",
+              "type": "state",
+              "website": "https://www.univpm.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-FR",
+          "name": "Frosinone",
+          "slug": "frosinone",
+          "region": "Lazio",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-cassino-e-del-lazio-meridionale",
+              "name": "Università degli Studi di Cassino e del Lazio Meridionale",
+              "slug": "universit-degli-studi-di-cassino-e-del-lazio-meridionale",
+              "type": "state",
+              "website": "https://www.unicas.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-GE",
+          "name": "Genova",
+          "slug": "genova",
+          "region": "Liguria",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-genova",
+              "name": "Università degli Studi di Genova",
+              "slug": "universit-degli-studi-di-genova",
+              "type": "state",
+              "website": "https://unige.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-GO",
+          "name": "Gorizia",
+          "slug": "gorizia",
+          "region": "Friuli Venezia Giulia",
+          "division_type": "decentralized regional entity",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-trieste",
+              "name": "Università degli Studi di Trieste",
+              "slug": "universit-degli-studi-di-trieste",
+              "type": "state",
+              "website": "https://www.units.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-udine",
+              "name": "Università degli Studi di Udine",
+              "slug": "universit-degli-studi-di-udine",
+              "type": "state",
+              "website": "https://www.uniud.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-GR",
+          "name": "Grosseto",
+          "slug": "grosseto",
+          "region": "Toscana",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-siena",
+              "name": "Università degli Studi di Siena",
+              "slug": "universit-degli-studi-di-siena",
+              "type": "state",
+              "website": "https://www.unisi.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-IM",
+          "name": "Imperia",
+          "slug": "imperia",
+          "region": "Liguria",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-genova",
+              "name": "Università degli Studi di Genova",
+              "slug": "universit-degli-studi-di-genova",
+              "type": "state",
+              "website": "https://unige.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-IS",
+          "name": "Isernia",
+          "slug": "isernia",
+          "region": "Molise",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-del-molise",
+              "name": "Università degli Studi del Molise",
+              "slug": "universit-degli-studi-del-molise",
+              "type": "state",
+              "website": "https://www.unimol.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-KR",
+          "name": "Crotone",
+          "slug": "crotone",
+          "region": "Calabria",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-magna-graecia-di-catanzaro",
+              "name": "Università degli Studi \"Magna Graecia\" di Catanzaro",
+              "slug": "universit-degli-studi-magna-graecia-di-catanzaro",
+              "type": "state",
+              "website": "https://www.unicz.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-della-calabria",
+              "name": "Università della Calabria",
+              "slug": "universit-della-calabria",
+              "type": "state",
+              "website": "https://www.unical.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-LC",
+          "name": "Lecco",
+          "slug": "lecco",
+          "region": "Lombardia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-politecnico-di-milano",
+              "name": "Politecnico di Milano",
+              "slug": "politecnico-di-milano",
+              "type": "state",
+              "website": "https://www.polimi.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-LE",
+          "name": "Lecce",
+          "slug": "lecce",
+          "region": "Puglia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-del-salento",
+              "name": "Università del Salento",
+              "slug": "universit-del-salento",
+              "type": "state",
+              "website": "https://www.unisalento.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-LI",
+          "name": "Livorno",
+          "slug": "livorno",
+          "region": "Toscana",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-di-pisa",
+              "name": "Università di Pisa",
+              "slug": "universit-di-pisa",
+              "type": "state",
+              "website": "https://www.unipi.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-LO",
+          "name": "Lodi",
+          "slug": "lodi",
+          "region": "Lombardia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-milano",
+              "name": "Università degli Studi di Milano",
+              "slug": "universit-degli-studi-di-milano",
+              "type": "state",
+              "website": "https://www.unimi.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-LT",
+          "name": "Latina",
+          "slug": "latina",
+          "region": "Lazio",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-sapienza-universit-di-roma",
+              "name": "Sapienza Università di Roma",
+              "slug": "sapienza-universit-di-roma",
+              "type": "state",
+              "website": "https://www.uniroma1.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-LU",
+          "name": "Lucca",
+          "slug": "lucca",
+          "region": "Toscana",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-imt-scuola-alti-studi-lucca",
+              "name": "IMT Scuola Alti Studi Lucca",
+              "slug": "imt-scuola-alti-studi-lucca",
+              "type": "state",
+              "website": "https://www.imtlucca.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-MB",
+          "name": "Monza e Brianza",
+          "slug": "monza-e-brianza",
+          "region": "Lombardia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-milano-bicocca",
+              "name": "Università degli Studi di Milano-Bicocca",
+              "slug": "universit-degli-studi-di-milano-bicocca",
+              "type": "state",
+              "website": "https://www.unimib.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-MC",
+          "name": "Macerata",
+          "slug": "macerata",
+          "region": "Marche",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-camerino",
+              "name": "Università degli Studi di Camerino",
+              "slug": "universit-degli-studi-di-camerino",
+              "type": "state",
+              "website": "https://www.unicam.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-macerata",
+              "name": "Università degli Studi di Macerata",
+              "slug": "universit-degli-studi-di-macerata",
+              "type": "state",
+              "website": "https://www.unimc.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-ME",
+          "name": "Messina",
+          "slug": "messina",
+          "region": "Sicilia",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-messina",
+              "name": "Università degli Studi di Messina",
+              "slug": "universit-degli-studi-di-messina",
+              "type": "state",
+              "website": "https://www.unime.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-MI",
+          "name": "Milano",
+          "slug": "milano",
+          "region": "Lombardia",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-humanitas-university",
+              "name": "Humanitas University",
+              "slug": "humanitas-university",
+              "type": "private",
+              "website": "https://www.hunimed.eu"
+            },
+            {
+              "id": "it-iulm-libera-universit-di-lingue-e-comunicazione",
+              "name": "IULM - Libera Università di Lingue e Comunicazione",
+              "slug": "iulm-libera-universit-di-lingue-e-comunicazione",
+              "type": "private",
+              "website": "https://www.iulm.it"
+            },
+            {
+              "id": "it-politecnico-di-milano",
+              "name": "Politecnico di Milano",
+              "slug": "politecnico-di-milano",
+              "type": "state",
+              "website": "https://www.polimi.it"
+            },
+            {
+              "id": "it-universit-cattolica-del-sacro-cuore",
+              "name": "Università Cattolica del Sacro Cuore",
+              "slug": "universit-cattolica-del-sacro-cuore",
+              "type": "private",
+              "website": "https://www.unicatt.it"
+            },
+            {
+              "id": "it-universit-commerciale-luigi-bocconi",
+              "name": "Università Commerciale Luigi Bocconi",
+              "slug": "universit-commerciale-luigi-bocconi",
+              "type": "private",
+              "website": "https://www.unibocconi.it"
+            },
+            {
+              "id": "it-universit-vita-salute-san-raffaele",
+              "name": "Università Vita-Salute San Raffaele",
+              "slug": "universit-vita-salute-san-raffaele",
+              "type": "private",
+              "website": "https://www.unisr.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-milano",
+              "name": "Università degli Studi di Milano",
+              "slug": "universit-degli-studi-di-milano",
+              "type": "state",
+              "website": "https://www.unimi.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-milano-bicocca",
+              "name": "Università degli Studi di Milano-Bicocca",
+              "slug": "universit-degli-studi-di-milano-bicocca",
+              "type": "state",
+              "website": "https://www.unimib.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-MN",
+          "name": "Mantova",
+          "slug": "mantova",
+          "region": "Lombardia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-politecnico-di-milano",
+              "name": "Politecnico di Milano",
+              "slug": "politecnico-di-milano",
+              "type": "state",
+              "website": "https://www.polimi.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-brescia",
+              "name": "Università degli Studi di Brescia",
+              "slug": "universit-degli-studi-di-brescia",
+              "type": "state",
+              "website": "https://www.unibs.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-pavia",
+              "name": "Università degli Studi di Pavia",
+              "slug": "universit-degli-studi-di-pavia",
+              "type": "state",
+              "website": "https://www.unipv.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-MO",
+          "name": "Modena",
+          "slug": "modena",
+          "region": "Emilia-Romagna",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-modena-e-reggio-emilia",
+              "name": "Università degli Studi di Modena e Reggio Emilia",
+              "slug": "universit-degli-studi-di-modena-e-reggio-emilia",
+              "type": "state",
+              "website": "https://www.unimore.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-MS",
+          "name": "Massa-Carrara",
+          "slug": "massa-carrara",
+          "region": "Toscana",
+          "division_type": "province",
+          "universities": []
+        },
+        {
+          "id": "IT-MT",
+          "name": "Matera",
+          "slug": "matera",
+          "region": "Basilicata",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-della-basilicata",
+              "name": "Università degli Studi della Basilicata",
+              "slug": "universit-degli-studi-della-basilicata",
+              "type": "state",
+              "website": "https://www.unibas.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-NA",
+          "name": "Napoli",
+          "slug": "napoli",
+          "region": "Campania",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-scuola-superiore-meridionale",
+              "name": "Scuola Superiore Meridionale",
+              "slug": "scuola-superiore-meridionale",
+              "type": "state",
+              "website": "https://www.ssmeridionale.it"
+            },
+            {
+              "id": "it-universit-telematica-pegaso",
+              "name": "Università Telematica Pegaso",
+              "slug": "universit-telematica-pegaso",
+              "type": "private",
+              "website": "https://www.unipegaso.it"
+            },
+            {
+              "id": "it-universit-degli-studi-suor-orsola-benincasa",
+              "name": "Università degli Studi Suor Orsola Benincasa",
+              "slug": "universit-degli-studi-suor-orsola-benincasa",
+              "type": "private",
+              "website": "https://www.unisob.na.it"
+            },
+            {
+              "id": "it-universit-degli-studi-della-campania-luigi-vanvitelli",
+              "name": "Università degli Studi della Campania \"Luigi Vanvitelli\"",
+              "slug": "universit-degli-studi-della-campania-luigi-vanvitelli",
+              "type": "state",
+              "website": "https://www.unicampania.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-napoli-l-orientale",
+              "name": "Università degli Studi di Napoli \"L'Orientale\"",
+              "slug": "universit-degli-studi-di-napoli-l-orientale",
+              "type": "state",
+              "website": "https://www.unior.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-napoli-parthenope",
+              "name": "Università degli Studi di Napoli \"Parthenope\"",
+              "slug": "universit-degli-studi-di-napoli-parthenope",
+              "type": "state",
+              "website": "https://www.uniparthenope.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-napoli-federico-ii",
+              "name": "Università degli Studi di Napoli Federico II",
+              "slug": "universit-degli-studi-di-napoli-federico-ii",
+              "type": "state",
+              "website": "https://www.unina.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-NO",
+          "name": "Novara",
+          "slug": "novara",
+          "region": "Piemonte",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "name": "Università degli Studi del Piemonte Orientale \"Amedeo Avogadro\"",
+              "slug": "universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "type": "state",
+              "website": "https://www.uniupo.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-NU",
+          "name": "Nuoro",
+          "slug": "nuoro",
+          "region": "Sardegna",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-sassari",
+              "name": "Università degli Studi di Sassari",
+              "slug": "universit-degli-studi-di-sassari",
+              "type": "state",
+              "website": "https://www.uniss.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-OR",
+          "name": "Oristano",
+          "slug": "oristano",
+          "region": "Sardegna",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-sassari",
+              "name": "Università degli Studi di Sassari",
+              "slug": "universit-degli-studi-di-sassari",
+              "type": "state",
+              "website": "https://www.uniss.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-PA",
+          "name": "Palermo",
+          "slug": "palermo",
+          "region": "Sicilia",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-palermo",
+              "name": "Università degli Studi di Palermo",
+              "slug": "universit-degli-studi-di-palermo",
+              "type": "state",
+              "website": "https://www.unipa.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-PC",
+          "name": "Piacenza",
+          "slug": "piacenza",
+          "region": "Emilia-Romagna",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-politecnico-di-milano",
+              "name": "Politecnico di Milano",
+              "slug": "politecnico-di-milano",
+              "type": "state",
+              "website": "https://www.polimi.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-cattolica-del-sacro-cuore",
+              "name": "Università Cattolica del Sacro Cuore",
+              "slug": "universit-cattolica-del-sacro-cuore",
+              "type": "private",
+              "website": "https://www.unicatt.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-parma",
+              "name": "Università degli Studi di Parma",
+              "slug": "universit-degli-studi-di-parma",
+              "type": "state",
+              "website": "https://www.unipr.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-PD",
+          "name": "Padova",
+          "slug": "padova",
+          "region": "Veneto",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-padova",
+              "name": "Università degli Studi di Padova",
+              "slug": "universit-degli-studi-di-padova",
+              "type": "state",
+              "website": "https://www.unipd.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-PE",
+          "name": "Pescara",
+          "slug": "pescara",
+          "region": "Abruzzo",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-g-d-annunzio-chieti-pescara",
+              "name": "Università degli Studi \"G. d'Annunzio\" Chieti-Pescara",
+              "slug": "universit-degli-studi-g-d-annunzio-chieti-pescara",
+              "type": "state",
+              "website": "https://www.unich.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-PG",
+          "name": "Perugia",
+          "slug": "perugia",
+          "region": "Umbria",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-perugia",
+              "name": "Università degli Studi di Perugia",
+              "slug": "universit-degli-studi-di-perugia",
+              "type": "state",
+              "website": "https://www.unipg.it"
+            },
+            {
+              "id": "it-universit-per-stranieri-di-perugia",
+              "name": "Università per Stranieri di Perugia",
+              "slug": "universit-per-stranieri-di-perugia",
+              "type": "state",
+              "website": "https://www.unistrapg.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-PI",
+          "name": "Pisa",
+          "slug": "pisa",
+          "region": "Toscana",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-scuola-normale-superiore",
+              "name": "Scuola Normale Superiore",
+              "slug": "scuola-normale-superiore",
+              "type": "state",
+              "website": "https://www.sns.it"
+            },
+            {
+              "id": "it-scuola-superiore-sant-anna",
+              "name": "Scuola Superiore Sant'Anna",
+              "slug": "scuola-superiore-sant-anna",
+              "type": "state",
+              "website": "https://www.santannapisa.it"
+            },
+            {
+              "id": "it-universit-di-pisa",
+              "name": "Università di Pisa",
+              "slug": "universit-di-pisa",
+              "type": "state",
+              "website": "https://www.unipi.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-PN",
+          "name": "Pordenone",
+          "slug": "pordenone",
+          "region": "Friuli Venezia Giulia",
+          "division_type": "decentralized regional entity",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-udine",
+              "name": "Università degli Studi di Udine",
+              "slug": "universit-degli-studi-di-udine",
+              "type": "state",
+              "website": "https://www.uniud.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-PO",
+          "name": "Prato",
+          "slug": "prato",
+          "region": "Toscana",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-firenze",
+              "name": "Università degli Studi di Firenze",
+              "slug": "universit-degli-studi-di-firenze",
+              "type": "state",
+              "website": "https://www.unifi.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-PR",
+          "name": "Parma",
+          "slug": "parma",
+          "region": "Emilia-Romagna",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-parma",
+              "name": "Università degli Studi di Parma",
+              "slug": "universit-degli-studi-di-parma",
+              "type": "state",
+              "website": "https://www.unipr.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-PT",
+          "name": "Pistoia",
+          "slug": "pistoia",
+          "region": "Toscana",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-firenze",
+              "name": "Università degli Studi di Firenze",
+              "slug": "universit-degli-studi-di-firenze",
+              "type": "state",
+              "website": "https://www.unifi.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-PU",
+          "name": "Pesaro e Urbino",
+          "slug": "pesaro-e-urbino",
+          "region": "Marche",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-urbino-carlo-bo",
+              "name": "Università degli Studi di Urbino Carlo Bo",
+              "slug": "universit-degli-studi-di-urbino-carlo-bo",
+              "type": "state",
+              "website": "https://www.uniurb.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-PV",
+          "name": "Pavia",
+          "slug": "pavia",
+          "region": "Lombardia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-scuola-universitaria-superiore-iuss-pavia",
+              "name": "Scuola Universitaria Superiore IUSS Pavia",
+              "slug": "scuola-universitaria-superiore-iuss-pavia",
+              "type": "state",
+              "website": "https://www.iusspavia.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-pavia",
+              "name": "Università degli Studi di Pavia",
+              "slug": "universit-degli-studi-di-pavia",
+              "type": "state",
+              "website": "https://www.unipv.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-PZ",
+          "name": "Potenza",
+          "slug": "potenza",
+          "region": "Basilicata",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-della-basilicata",
+              "name": "Università degli Studi della Basilicata",
+              "slug": "universit-degli-studi-della-basilicata",
+              "type": "state",
+              "website": "https://www.unibas.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-RA",
+          "name": "Ravenna",
+          "slug": "ravenna",
+          "region": "Emilia-Romagna",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-alma-mater-studiorum-universit-di-bologna",
+              "name": "Alma Mater Studiorum - Università di Bologna",
+              "slug": "alma-mater-studiorum-universit-di-bologna",
+              "type": "state",
+              "website": "https://www.unibo.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-RC",
+          "name": "Reggio Calabria",
+          "slug": "reggio-calabria",
+          "region": "Calabria",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-magna-graecia-di-catanzaro",
+              "name": "Università degli Studi \"Magna Graecia\" di Catanzaro",
+              "slug": "universit-degli-studi-magna-graecia-di-catanzaro",
+              "type": "state",
+              "website": "https://www.unicz.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-mediterranea-di-reggio-calabria",
+              "name": "Università degli Studi Mediterranea di Reggio Calabria",
+              "slug": "universit-degli-studi-mediterranea-di-reggio-calabria",
+              "type": "state",
+              "website": "https://www.unirc.it"
+            },
+            {
+              "id": "it-universit-per-stranieri-dante-alighieri",
+              "name": "Università per Stranieri \"Dante Alighieri\"",
+              "slug": "universit-per-stranieri-dante-alighieri",
+              "type": "private",
+              "website": "https://www.unistrada.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-RE",
+          "name": "Reggio Emilia",
+          "slug": "reggio-emilia",
+          "region": "Emilia-Romagna",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-modena-e-reggio-emilia",
+              "name": "Università degli Studi di Modena e Reggio Emilia",
+              "slug": "universit-degli-studi-di-modena-e-reggio-emilia",
+              "type": "state",
+              "website": "https://www.unimore.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-RG",
+          "name": "Ragusa",
+          "slug": "ragusa",
+          "region": "Sicilia",
+          "division_type": "free municipal consortium",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-catania",
+              "name": "Università degli Studi di Catania",
+              "slug": "universit-degli-studi-di-catania",
+              "type": "state",
+              "website": "https://www.unict.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-RI",
+          "name": "Rieti",
+          "slug": "rieti",
+          "region": "Lazio",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-sapienza-universit-di-roma",
+              "name": "Sapienza Università di Roma",
+              "slug": "sapienza-universit-di-roma",
+              "type": "state",
+              "website": "https://www.uniroma1.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-RM",
+          "name": "Roma",
+          "slug": "roma",
+          "region": "Lazio",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-luiss-guido-carli",
+              "name": "LUISS Guido Carli",
+              "slug": "luiss-guido-carli",
+              "type": "private",
+              "website": "https://www.luiss.it"
+            },
+            {
+              "id": "it-lumsa-libera-universit-maria-ss-assunta",
+              "name": "LUMSA - Libera Università Maria SS. Assunta",
+              "slug": "lumsa-libera-universit-maria-ss-assunta",
+              "type": "private",
+              "website": "https://www.lumsa.it"
+            },
+            {
+              "id": "it-link-campus-university",
+              "name": "Link Campus University",
+              "slug": "link-campus-university",
+              "type": "private",
+              "website": "https://www.unilink.it"
+            },
+            {
+              "id": "it-saint-camillus-international-university-of-health-sciences",
+              "name": "Saint Camillus International University of Health Sciences",
+              "slug": "saint-camillus-international-university-of-health-sciences",
+              "type": "private",
+              "website": "https://www.unicamillus.org"
+            },
+            {
+              "id": "it-sapienza-universit-di-roma",
+              "name": "Sapienza Università di Roma",
+              "slug": "sapienza-universit-di-roma",
+              "type": "state",
+              "website": "https://www.uniroma1.it"
+            },
+            {
+              "id": "it-unitelma-sapienza-universit-degli-studi-di-roma",
+              "name": "Unitelma Sapienza - Università degli Studi di Roma",
+              "slug": "unitelma-sapienza-universit-degli-studi-di-roma",
+              "type": "private",
+              "website": "https://www.unitelmasapienza.it"
+            },
+            {
+              "id": "it-universit-campus-bio-medico-di-roma",
+              "name": "Università Campus Bio-Medico di Roma",
+              "slug": "universit-campus-bio-medico-di-roma",
+              "type": "private",
+              "website": "https://www.unicampus.it"
+            },
+            {
+              "id": "it-universit-cattolica-del-sacro-cuore",
+              "name": "Università Cattolica del Sacro Cuore",
+              "slug": "universit-cattolica-del-sacro-cuore",
+              "type": "private",
+              "website": "https://www.unicatt.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-europea-di-roma",
+              "name": "Università Europea di Roma",
+              "slug": "universit-europea-di-roma",
+              "type": "private",
+              "website": "https://www.uer.it"
+            },
+            {
+              "id": "it-universit-telematica-internazionale-uninettuno",
+              "name": "Università Telematica Internazionale Uninettuno",
+              "slug": "universit-telematica-internazionale-uninettuno",
+              "type": "private",
+              "website": "https://www.uninettunouniversity.net"
+            },
+            {
+              "id": "it-universit-telematica-san-raffaele-roma",
+              "name": "Università Telematica San Raffaele Roma",
+              "slug": "universit-telematica-san-raffaele-roma",
+              "type": "private",
+              "website": "https://www.uniroma5.it"
+            },
+            {
+              "id": "it-universit-telematica-universitas-mercatorum",
+              "name": "Università Telematica Universitas Mercatorum",
+              "slug": "universit-telematica-universitas-mercatorum",
+              "type": "private",
+              "website": "https://www.unimercatorum.it"
+            },
+            {
+              "id": "it-universit-degli-studi-guglielmo-marconi",
+              "name": "Università degli Studi Guglielmo Marconi",
+              "slug": "universit-degli-studi-guglielmo-marconi",
+              "type": "private",
+              "website": "https://www.unimarconi.it"
+            },
+            {
+              "id": "it-universit-degli-studi-internazionali-di-roma-unint",
+              "name": "Università degli Studi Internazionali di Roma - UNINT",
+              "slug": "universit-degli-studi-internazionali-di-roma-unint",
+              "type": "private",
+              "website": "https://www.unint.eu"
+            },
+            {
+              "id": "it-universit-degli-studi-niccol-cusano",
+              "name": "Università degli Studi Niccolò Cusano",
+              "slug": "universit-degli-studi-niccol-cusano",
+              "type": "private",
+              "website": "https://www.unicusano.it"
+            },
+            {
+              "id": "it-universit-degli-studi-roma-tre",
+              "name": "Università degli Studi Roma Tre",
+              "slug": "universit-degli-studi-roma-tre",
+              "type": "state",
+              "website": "https://www.uniroma3.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-roma-foro-italico",
+              "name": "Università degli Studi di Roma \"Foro Italico\"",
+              "slug": "universit-degli-studi-di-roma-foro-italico",
+              "type": "state",
+              "website": "https://www.uniroma4.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-roma-tor-vergata",
+              "name": "Università degli Studi di Roma \"Tor Vergata\"",
+              "slug": "universit-degli-studi-di-roma-tor-vergata",
+              "type": "state",
+              "website": "https://web.uniroma2.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-RN",
+          "name": "Rimini",
+          "slug": "rimini",
+          "region": "Emilia-Romagna",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-alma-mater-studiorum-universit-di-bologna",
+              "name": "Alma Mater Studiorum - Università di Bologna",
+              "slug": "alma-mater-studiorum-universit-di-bologna",
+              "type": "state",
+              "website": "https://www.unibo.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-RO",
+          "name": "Rovigo",
+          "slug": "rovigo",
+          "region": "Veneto",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-padova",
+              "name": "Università degli Studi di Padova",
+              "slug": "universit-degli-studi-di-padova",
+              "type": "state",
+              "website": "https://www.unipd.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-SA",
+          "name": "Salerno",
+          "slug": "salerno",
+          "region": "Campania",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-salerno",
+              "name": "Università degli Studi di Salerno",
+              "slug": "universit-degli-studi-di-salerno",
+              "type": "state",
+              "website": "https://www.unisa.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-SI",
+          "name": "Siena",
+          "slug": "siena",
+          "region": "Toscana",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-siena",
+              "name": "Università degli Studi di Siena",
+              "slug": "universit-degli-studi-di-siena",
+              "type": "state",
+              "website": "https://www.unisi.it"
+            },
+            {
+              "id": "it-universit-per-stranieri-di-siena",
+              "name": "Università per Stranieri di Siena",
+              "slug": "universit-per-stranieri-di-siena",
+              "type": "state",
+              "website": "https://www.unistrasi.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-SO",
+          "name": "Sondrio",
+          "slug": "sondrio",
+          "region": "Lombardia",
+          "division_type": "province",
+          "universities": []
+        },
+        {
+          "id": "IT-SP",
+          "name": "La Spezia",
+          "slug": "la-spezia",
+          "region": "Liguria",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-genova",
+              "name": "Università degli Studi di Genova",
+              "slug": "universit-degli-studi-di-genova",
+              "type": "state",
+              "website": "https://unige.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-SR",
+          "name": "Siracusa",
+          "slug": "siracusa",
+          "region": "Sicilia",
+          "division_type": "free municipal consortium",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-catania",
+              "name": "Università degli Studi di Catania",
+              "slug": "universit-degli-studi-di-catania",
+              "type": "state",
+              "website": "https://www.unict.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-SS",
+          "name": "Sassari",
+          "slug": "sassari",
+          "region": "Sardegna",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-sassari",
+              "name": "Università degli Studi di Sassari",
+              "slug": "universit-degli-studi-di-sassari",
+              "type": "state",
+              "website": "https://www.uniss.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-SU",
+          "name": "Sud Sardegna",
+          "slug": "sud-sardegna",
+          "region": "Sardegna",
+          "division_type": "province",
+          "universities": []
+        },
+        {
+          "id": "IT-SV",
+          "name": "Savona",
+          "slug": "savona",
+          "region": "Liguria",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-genova",
+              "name": "Università degli Studi di Genova",
+              "slug": "universit-degli-studi-di-genova",
+              "type": "state",
+              "website": "https://unige.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-TA",
+          "name": "Taranto",
+          "slug": "taranto",
+          "region": "Puglia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-politecnico-di-bari",
+              "name": "Politecnico di Bari",
+              "slug": "politecnico-di-bari",
+              "type": "state",
+              "website": "https://www.poliba.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-bari-aldo-moro",
+              "name": "Università degli Studi di Bari Aldo Moro",
+              "slug": "universit-degli-studi-di-bari-aldo-moro",
+              "type": "state",
+              "website": "https://www.uniba.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-TE",
+          "name": "Teramo",
+          "slug": "teramo",
+          "region": "Abruzzo",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-teramo",
+              "name": "Università degli Studi di Teramo",
+              "slug": "universit-degli-studi-di-teramo",
+              "type": "state",
+              "website": "https://www.unite.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-TN",
+          "name": "Trento",
+          "slug": "trento",
+          "region": "Trentino-Alto Adige",
+          "division_type": "autonomous province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-trento",
+              "name": "Università degli Studi di Trento",
+              "slug": "universit-degli-studi-di-trento",
+              "type": "state",
+              "website": "https://www.unitn.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-TO",
+          "name": "Torino",
+          "slug": "torino",
+          "region": "Piemonte",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-politecnico-di-torino",
+              "name": "Politecnico di Torino",
+              "slug": "politecnico-di-torino",
+              "type": "state",
+              "website": "https://www.polito.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-torino",
+              "name": "Università degli Studi di Torino",
+              "slug": "universit-degli-studi-di-torino",
+              "type": "state",
+              "website": "https://www.unito.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-TP",
+          "name": "Trapani",
+          "slug": "trapani",
+          "region": "Sicilia",
+          "division_type": "free municipal consortium",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-palermo",
+              "name": "Università degli Studi di Palermo",
+              "slug": "universit-degli-studi-di-palermo",
+              "type": "state",
+              "website": "https://www.unipa.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-TR",
+          "name": "Terni",
+          "slug": "terni",
+          "region": "Umbria",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-perugia",
+              "name": "Università degli Studi di Perugia",
+              "slug": "universit-degli-studi-di-perugia",
+              "type": "state",
+              "website": "https://www.unipg.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-TS",
+          "name": "Trieste",
+          "slug": "trieste",
+          "region": "Friuli Venezia Giulia",
+          "division_type": "decentralized regional entity",
+          "universities": [
+            {
+              "id": "it-scuola-internazionale-superiore-di-studi-avanzati-sissa",
+              "name": "Scuola Internazionale Superiore di Studi Avanzati (SISSA)",
+              "slug": "scuola-internazionale-superiore-di-studi-avanzati-sissa",
+              "type": "state",
+              "website": "https://www.sissa.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-trieste",
+              "name": "Università degli Studi di Trieste",
+              "slug": "universit-degli-studi-di-trieste",
+              "type": "state",
+              "website": "https://www.units.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-TV",
+          "name": "Treviso",
+          "slug": "treviso",
+          "region": "Veneto",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-ca-foscari-venezia",
+              "name": "Università Ca' Foscari Venezia",
+              "slug": "universit-ca-foscari-venezia",
+              "type": "state",
+              "website": "https://www.unive.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-padova",
+              "name": "Università degli Studi di Padova",
+              "slug": "universit-degli-studi-di-padova",
+              "type": "state",
+              "website": "https://www.unipd.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-UD",
+          "name": "Udine",
+          "slug": "udine",
+          "region": "Friuli Venezia Giulia",
+          "division_type": "decentralized regional entity",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-udine",
+              "name": "Università degli Studi di Udine",
+              "slug": "universit-degli-studi-di-udine",
+              "type": "state",
+              "website": "https://www.uniud.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-VA",
+          "name": "Varese",
+          "slug": "varese",
+          "region": "Lombardia",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-carlo-cattaneo-liuc",
+              "name": "Università Carlo Cattaneo - LIUC",
+              "slug": "universit-carlo-cattaneo-liuc",
+              "type": "private",
+              "website": "https://www.liuc.it"
+            },
+            {
+              "id": "it-universit-degli-studi-dell-insubria",
+              "name": "Università degli Studi dell'Insubria",
+              "slug": "universit-degli-studi-dell-insubria",
+              "type": "state",
+              "website": "https://www.uninsubria.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-VB",
+          "name": "Verbano-Cusio-Ossola",
+          "slug": "verbano-cusio-ossola",
+          "region": "Piemonte",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "name": "Università degli Studi del Piemonte Orientale \"Amedeo Avogadro\"",
+              "slug": "universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "type": "state",
+              "website": "https://www.uniupo.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-VC",
+          "name": "Vercelli",
+          "slug": "vercelli",
+          "region": "Piemonte",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "name": "Università degli Studi del Piemonte Orientale \"Amedeo Avogadro\"",
+              "slug": "universit-degli-studi-del-piemonte-orientale-amedeo-avogadro",
+              "type": "state",
+              "website": "https://www.uniupo.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-VE",
+          "name": "Venezia",
+          "slug": "venezia",
+          "region": "Veneto",
+          "division_type": "metropolitan city",
+          "universities": [
+            {
+              "id": "it-universit-ca-foscari-venezia",
+              "name": "Università Ca' Foscari Venezia",
+              "slug": "universit-ca-foscari-venezia",
+              "type": "state",
+              "website": "https://www.unive.it"
+            },
+            {
+              "id": "it-universit-iuav-di-venezia",
+              "name": "Università Iuav di Venezia",
+              "slug": "universit-iuav-di-venezia",
+              "type": "state",
+              "website": "https://www.iuav.it"
+            },
+            {
+              "id": "it-universit-degli-studi-di-padova",
+              "name": "Università degli Studi di Padova",
+              "slug": "universit-degli-studi-di-padova",
+              "type": "state",
+              "website": "https://www.unipd.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-VI",
+          "name": "Vicenza",
+          "slug": "vicenza",
+          "region": "Veneto",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-iuav-di-venezia",
+              "name": "Università Iuav di Venezia",
+              "slug": "universit-iuav-di-venezia",
+              "type": "state",
+              "website": "https://www.iuav.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-padova",
+              "name": "Università degli Studi di Padova",
+              "slug": "universit-degli-studi-di-padova",
+              "type": "state",
+              "website": "https://www.unipd.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-degli-studi-di-verona",
+              "name": "Università degli Studi di Verona",
+              "slug": "universit-degli-studi-di-verona",
+              "type": "state",
+              "website": "https://www.univr.it",
+              "campus": true
+            }
+          ]
+        },
+        {
+          "id": "IT-VR",
+          "name": "Verona",
+          "slug": "verona",
+          "region": "Veneto",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-di-verona",
+              "name": "Università degli Studi di Verona",
+              "slug": "universit-degli-studi-di-verona",
+              "type": "state",
+              "website": "https://www.univr.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-VT",
+          "name": "Viterbo",
+          "slug": "viterbo",
+          "region": "Lazio",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-della-tuscia",
+              "name": "Università degli Studi della Tuscia",
+              "slug": "universit-degli-studi-della-tuscia",
+              "type": "state",
+              "website": "https://www.unitus.it"
+            }
+          ]
+        },
+        {
+          "id": "IT-VV",
+          "name": "Vibo Valentia",
+          "slug": "vibo-valentia",
+          "region": "Calabria",
+          "division_type": "province",
+          "universities": [
+            {
+              "id": "it-universit-degli-studi-magna-graecia-di-catanzaro",
+              "name": "Università degli Studi \"Magna Graecia\" di Catanzaro",
+              "slug": "universit-degli-studi-magna-graecia-di-catanzaro",
+              "type": "state",
+              "website": "https://www.unicz.it",
+              "campus": true
+            },
+            {
+              "id": "it-universit-della-calabria",
+              "name": "Università della Calabria",
+              "slug": "universit-della-calabria",
+              "type": "state",
+              "website": "https://www.unical.it",
+              "campus": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "code": "TR",
       "name": "Türkiye",
       "name_en": "Turkey",

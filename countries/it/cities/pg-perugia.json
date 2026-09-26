@@ -1,0 +1,18 @@
+{
+  "code": "IT-PG",
+  "name": "Perugia",
+  "region": "Umbria",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Perugia",
+      "type": "state",
+      "website": "https://www.unipg.it"
+    },
+    {
+      "name": "Università per Stranieri di Perugia",
+      "type": "state",
+      "website": "https://www.unistrapg.it"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "IT-BZ",
+  "name": "Bolzano",
+  "region": "Trentino-Alto Adige",
+  "division_type": "autonomous province",
+  "universities": [
+    {
+      "name": "Libera Università di Bolzano",
+      "type": "private",
+      "website": "https://www.unibz.it"
+    }
+  ]
+}

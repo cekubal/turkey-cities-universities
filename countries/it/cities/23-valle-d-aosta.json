@@ -1,0 +1,21 @@
+{
+  "code": "IT-23",
+  "name": "Valle d'Aosta",
+  "region": "Valle d'Aosta",
+  "division_type": "autonomous region",
+  "universities": [
+    {
+      "name": "Politecnico di Torino",
+      "campus": true
+    },
+    {
+      "name": "Università degli Studi di Torino",
+      "campus": true
+    },
+    {
+      "name": "Università della Valle d'Aosta - Université de la Vallée d'Aoste",
+      "type": "private",
+      "website": "https://www.univda.it"
+    }
+  ]
+}

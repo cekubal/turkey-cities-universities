@@ -1,0 +1,12 @@
+{
+  "code": "IT-IM",
+  "name": "Imperia",
+  "region": "Liguria",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Genova",
+      "campus": true
+    }
+  ]
+}

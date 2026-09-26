@@ -1,0 +1,9 @@
+{
+  "code": "IT-CE",
+  "name": "Caserta",
+  "region": "Campania",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi della Campania \"Luigi Vanvitelli\"", "type": "state", "website": "https://www.unicampania.it"}
+  ]
+}

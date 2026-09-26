@@ -1,0 +1,13 @@
+{
+  "code": "IT-GE",
+  "name": "Genova",
+  "region": "Liguria",
+  "division_type": "metropolitan city",
+  "universities": [
+    {
+      "name": "Università degli Studi di Genova",
+      "type": "state",
+      "website": "https://unige.it"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "IT-RA",
+  "name": "Ravenna",
+  "region": "Emilia-Romagna",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Alma Mater Studiorum - Università di Bologna",
+      "campus": true
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "IT-VR",
+  "name": "Verona",
+  "region": "Veneto",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Verona",
+      "type": "state",
+      "website": "https://www.univr.it"
+    }
+  ]
+}

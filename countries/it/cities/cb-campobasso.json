@@ -1,0 +1,17 @@
+{
+  "code": "IT-CB",
+  "name": "Campobasso",
+  "region": "Molise",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università Cattolica del Sacro Cuore",
+      "campus": true
+    },
+    {
+      "name": "Università degli Studi del Molise",
+      "type": "state",
+      "website": "https://www.unimol.it"
+    }
+  ]
+}

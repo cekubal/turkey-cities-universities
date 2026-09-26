@@ -1,0 +1,10 @@
+{
+  "code": "IT-BN",
+  "name": "Benevento",
+  "region": "Campania",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi del Sannio", "type": "state", "website": "https://www.unisannio.it"},
+    {"name": "Università Telematica \"Giustino Fortunato\"", "type": "private", "website": "https://www.unifortunato.eu"}
+  ]
+}

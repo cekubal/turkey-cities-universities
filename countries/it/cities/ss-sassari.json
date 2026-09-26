@@ -1,0 +1,9 @@
+{
+  "code": "IT-SS",
+  "name": "Sassari",
+  "region": "Sardegna",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi di Sassari", "type": "state", "website": "https://www.uniss.it"}
+  ]
+}

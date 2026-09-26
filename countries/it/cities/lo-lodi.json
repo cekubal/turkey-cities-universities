@@ -1,0 +1,12 @@
+{
+  "code": "IT-LO",
+  "name": "Lodi",
+  "region": "Lombardia",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Milano",
+      "campus": true
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "IT-CO",
+  "name": "Como",
+  "region": "Lombardia",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi dell'Insubria",
+      "campus": true
+    },
+    {
+      "name": "Università telematica eCampus",
+      "type": "private",
+      "website": "https://www.uniecampus.it"
+    }
+  ]
+}

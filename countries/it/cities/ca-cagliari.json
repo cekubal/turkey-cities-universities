@@ -1,0 +1,9 @@
+{
+  "code": "IT-CA",
+  "name": "Cagliari",
+  "region": "Sardegna",
+  "division_type": "metropolitan city",
+  "universities": [
+    {"name": "Università degli Studi di Cagliari", "type": "state", "website": "https://www.unica.it"}
+  ]
+}

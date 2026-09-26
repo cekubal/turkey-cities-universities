@@ -1,0 +1,9 @@
+{
+  "code": "IT-MT",
+  "name": "Matera",
+  "region": "Basilicata",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi della Basilicata", "campus": true}
+  ]
+}

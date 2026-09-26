@@ -1,0 +1,15 @@
+{
+  "code": "IT-NA",
+  "name": "Napoli",
+  "region": "Campania",
+  "division_type": "metropolitan city",
+  "universities": [
+    {"name": "Scuola Superiore Meridionale", "type": "state", "website": "https://www.ssmeridionale.it"},
+    {"name": "Università degli Studi della Campania \"Luigi Vanvitelli\"", "campus": true},
+    {"name": "Università degli Studi di Napoli Federico II", "type": "state", "website": "https://www.unina.it"},
+    {"name": "Università degli Studi di Napoli \"L'Orientale\"", "type": "state", "website": "https://www.unior.it"},
+    {"name": "Università degli Studi di Napoli \"Parthenope\"", "type": "state", "website": "https://www.uniparthenope.it"},
+    {"name": "Università degli Studi Suor Orsola Benincasa", "type": "private", "website": "https://www.unisob.na.it"},
+    {"name": "Università Telematica Pegaso", "type": "private", "website": "https://www.unipegaso.it"}
+  ]
+}

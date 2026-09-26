@@ -1,0 +1,9 @@
+{
+  "code": "IT-OR",
+  "name": "Oristano",
+  "region": "Sardegna",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi di Sassari", "campus": true}
+  ]
+}

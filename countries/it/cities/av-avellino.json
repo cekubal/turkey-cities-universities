@@ -1,0 +1,12 @@
+{
+  "code": "IT-AV",
+  "name": "Avellino",
+  "region": "Campania",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Napoli Federico II",
+      "campus": true
+    }
+  ]
+}

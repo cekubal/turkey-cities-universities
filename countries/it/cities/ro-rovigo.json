@@ -1,0 +1,12 @@
+{
+  "code": "IT-RO",
+  "name": "Rovigo",
+  "region": "Veneto",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Padova",
+      "campus": true
+    }
+  ]
+}

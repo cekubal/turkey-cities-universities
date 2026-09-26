@@ -1,0 +1,13 @@
+{
+  "code": "IT-UD",
+  "name": "Udine",
+  "region": "Friuli Venezia Giulia",
+  "division_type": "decentralized regional entity",
+  "universities": [
+    {
+      "name": "Università degli Studi di Udine",
+      "type": "state",
+      "website": "https://www.uniud.it"
+    }
+  ]
+}

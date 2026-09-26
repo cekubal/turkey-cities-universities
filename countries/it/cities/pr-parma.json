@@ -1,0 +1,13 @@
+{
+  "code": "IT-PR",
+  "name": "Parma",
+  "region": "Emilia-Romagna",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Parma",
+      "type": "state",
+      "website": "https://www.unipr.it"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "IT-GR",
+  "name": "Grosseto",
+  "region": "Toscana",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Siena",
+      "campus": true
+    }
+  ]
+}

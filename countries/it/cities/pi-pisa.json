@@ -1,0 +1,23 @@
+{
+  "code": "IT-PI",
+  "name": "Pisa",
+  "region": "Toscana",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Scuola Normale Superiore",
+      "type": "state",
+      "website": "https://www.sns.it"
+    },
+    {
+      "name": "Scuola Superiore Sant'Anna",
+      "type": "state",
+      "website": "https://www.santannapisa.it"
+    },
+    {
+      "name": "Università di Pisa",
+      "type": "state",
+      "website": "https://www.unipi.it"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "IT-PN",
+  "name": "Pordenone",
+  "region": "Friuli Venezia Giulia",
+  "division_type": "decentralized regional entity",
+  "universities": [
+    {
+      "name": "Università degli Studi di Udine",
+      "campus": true
+    }
+  ]
+}

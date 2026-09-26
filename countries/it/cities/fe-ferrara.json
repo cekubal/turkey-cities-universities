@@ -1,0 +1,13 @@
+{
+  "code": "IT-FE",
+  "name": "Ferrara",
+  "region": "Emilia-Romagna",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Ferrara",
+      "type": "state",
+      "website": "https://www.unife.it"
+    }
+  ]
+}

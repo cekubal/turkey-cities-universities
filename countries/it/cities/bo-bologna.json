@@ -1,0 +1,13 @@
+{
+  "code": "IT-BO",
+  "name": "Bologna",
+  "region": "Emilia-Romagna",
+  "division_type": "metropolitan city",
+  "universities": [
+    {
+      "name": "Alma Mater Studiorum - Università di Bologna",
+      "type": "state",
+      "website": "https://www.unibo.it"
+    }
+  ]
+}

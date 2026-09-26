@@ -1,0 +1,13 @@
+{
+  "code": "IT-FR",
+  "name": "Frosinone",
+  "region": "Lazio",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Cassino e del Lazio Meridionale",
+      "type": "state",
+      "website": "https://www.unicas.it"
+    }
+  ]
+}

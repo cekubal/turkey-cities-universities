@@ -1,0 +1,12 @@
+{
+  "code": "IT-RE",
+  "name": "Reggio Emilia",
+  "region": "Emilia-Romagna",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Modena e Reggio Emilia",
+      "campus": true
+    }
+  ]
+}

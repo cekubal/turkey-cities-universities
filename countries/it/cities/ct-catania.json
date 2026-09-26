@@ -1,0 +1,9 @@
+{
+  "code": "IT-CT",
+  "name": "Catania",
+  "region": "Sicilia",
+  "division_type": "metropolitan city",
+  "universities": [
+    {"name": "Università degli Studi di Catania", "type": "state", "website": "https://www.unict.it"}
+  ]
+}

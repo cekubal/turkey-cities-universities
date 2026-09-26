@@ -1,0 +1,12 @@
+{
+  "code": "IT-TR",
+  "name": "Terni",
+  "region": "Umbria",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Perugia",
+      "campus": true
+    }
+  ]
+}

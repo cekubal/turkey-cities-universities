@@ -1,0 +1,20 @@
+{
+  "code": "IT-MN",
+  "name": "Mantova",
+  "region": "Lombardia",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Politecnico di Milano",
+      "campus": true
+    },
+    {
+      "name": "Università degli Studi di Brescia",
+      "campus": true
+    },
+    {
+      "name": "Università degli Studi di Pavia",
+      "campus": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": "IT-RC",
+  "name": "Reggio Calabria",
+  "region": "Calabria",
+  "division_type": "metropolitan city",
+  "universities": [
+    {"name": "Università degli Studi \"Magna Graecia\" di Catanzaro", "campus": true},
+    {"name": "Università degli Studi Mediterranea di Reggio Calabria", "type": "state", "website": "https://www.unirc.it"},
+    {"name": "Università per Stranieri \"Dante Alighieri\"", "type": "private", "website": "https://www.unistrada.it"}
+  ]
+}

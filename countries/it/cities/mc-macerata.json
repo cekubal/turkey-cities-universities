@@ -1,0 +1,18 @@
+{
+  "code": "IT-MC",
+  "name": "Macerata",
+  "region": "Marche",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Camerino",
+      "type": "state",
+      "website": "https://www.unicam.it"
+    },
+    {
+      "name": "Università degli Studi di Macerata",
+      "type": "state",
+      "website": "https://www.unimc.it"
+    }
+  ]
+}

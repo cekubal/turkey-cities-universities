@@ -1,0 +1,97 @@
+{
+  "code": "IT-RM",
+  "name": "Roma",
+  "region": "Lazio",
+  "division_type": "metropolitan city",
+  "universities": [
+    {
+      "name": "LUISS Guido Carli",
+      "type": "private",
+      "website": "https://www.luiss.it"
+    },
+    {
+      "name": "LUMSA - Libera Università Maria SS. Assunta",
+      "type": "private",
+      "website": "https://www.lumsa.it"
+    },
+    {
+      "name": "Link Campus University",
+      "type": "private",
+      "website": "https://www.unilink.it"
+    },
+    {
+      "name": "Saint Camillus International University of Health Sciences",
+      "type": "private",
+      "website": "https://www.unicamillus.org"
+    },
+    {
+      "name": "Sapienza Università di Roma",
+      "type": "state",
+      "website": "https://www.uniroma1.it"
+    },
+    {
+      "name": "Unitelma Sapienza - Università degli Studi di Roma",
+      "type": "private",
+      "website": "https://www.unitelmasapienza.it"
+    },
+    {
+      "name": "Università Campus Bio-Medico di Roma",
+      "type": "private",
+      "website": "https://www.unicampus.it"
+    },
+    {
+      "name": "Università Cattolica del Sacro Cuore",
+      "campus": true
+    },
+    {
+      "name": "Università Europea di Roma",
+      "type": "private",
+      "website": "https://www.uer.it"
+    },
+    {
+      "name": "Università Telematica Internazionale Uninettuno",
+      "type": "private",
+      "website": "https://www.uninettunouniversity.net"
+    },
+    {
+      "name": "Università Telematica San Raffaele Roma",
+      "type": "private",
+      "website": "https://www.uniroma5.it"
+    },
+    {
+      "name": "Università Telematica Universitas Mercatorum",
+      "type": "private",
+      "website": "https://www.unimercatorum.it"
+    },
+    {
+      "name": "Università degli Studi Guglielmo Marconi",
+      "type": "private",
+      "website": "https://www.unimarconi.it"
+    },
+    {
+      "name": "Università degli Studi Internazionali di Roma - UNINT",
+      "type": "private",
+      "website": "https://www.unint.eu"
+    },
+    {
+      "name": "Università degli Studi Niccolò Cusano",
+      "type": "private",
+      "website": "https://www.unicusano.it"
+    },
+    {
+      "name": "Università degli Studi Roma Tre",
+      "type": "state",
+      "website": "https://www.uniroma3.it"
+    },
+    {
+      "name": "Università degli Studi di Roma \"Foro Italico\"",
+      "type": "state",
+      "website": "https://www.uniroma4.it"
+    },
+    {
+      "name": "Università degli Studi di Roma \"Tor Vergata\"",
+      "type": "state",
+      "website": "https://web.uniroma2.it"
+    }
+  ]
+}

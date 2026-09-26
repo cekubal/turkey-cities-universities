@@ -1,0 +1,13 @@
+{
+  "code": "IT-LU",
+  "name": "Lucca",
+  "region": "Toscana",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "IMT Scuola Alti Studi Lucca",
+      "type": "state",
+      "website": "https://www.imtlucca.it"
+    }
+  ]
+}

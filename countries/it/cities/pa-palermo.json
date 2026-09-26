@@ -1,0 +1,9 @@
+{
+  "code": "IT-PA",
+  "name": "Palermo",
+  "region": "Sicilia",
+  "division_type": "metropolitan city",
+  "universities": [
+    {"name": "Università degli Studi di Palermo", "type": "state", "website": "https://www.unipa.it"}
+  ]
+}

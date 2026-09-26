@@ -1,0 +1,13 @@
+{
+  "code": "IT-PD",
+  "name": "Padova",
+  "region": "Veneto",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Padova",
+      "type": "state",
+      "website": "https://www.unipd.it"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "IT-FM",
+  "name": "Fermo",
+  "region": "Marche",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università Politecnica delle Marche",
+      "campus": true
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "IT-ME",
+  "name": "Messina",
+  "region": "Sicilia",
+  "division_type": "metropolitan city",
+  "universities": [
+    {"name": "Università degli Studi di Messina", "type": "state", "website": "https://www.unime.it"}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "code": "IT-BS",
+  "name": "Brescia",
+  "region": "Lombardia",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università Cattolica del Sacro Cuore",
+      "campus": true
+    },
+    {
+      "name": "Università degli Studi di Brescia",
+      "type": "state",
+      "website": "https://www.unibs.it"
+    },
+    {
+      "name": "Università degli Studi di Milano",
+      "campus": true
+    }
+  ]
+}

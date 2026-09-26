@@ -1,0 +1,12 @@
+{
+  "code": "IT-LI",
+  "name": "Livorno",
+  "region": "Toscana",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università di Pisa",
+      "campus": true
+    }
+  ]
+}

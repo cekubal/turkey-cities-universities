@@ -1,0 +1,13 @@
+{
+  "code": "IT-VT",
+  "name": "Viterbo",
+  "region": "Lazio",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi della Tuscia",
+      "type": "state",
+      "website": "https://www.unitus.it"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "IT-NO",
+  "name": "Novara",
+  "region": "Piemonte",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi del Piemonte Orientale \"Amedeo Avogadro\"",
+      "campus": true
+    }
+  ]
+}

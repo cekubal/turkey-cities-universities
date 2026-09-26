@@ -8,6 +8,14 @@
     "campus_count": 31
   },
   {
+    "code": "IT",
+    "name": "Italia",
+    "name_en": "Italy",
+    "city_count": 107,
+    "university_count": 99,
+    "campus_count": 83
+  },
+  {
     "code": "TR",
     "name": "Türkiye",
     "name_en": "Turkey",

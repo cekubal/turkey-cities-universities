@@ -1,0 +1,16 @@
+{
+  "code": "IT-TV",
+  "name": "Treviso",
+  "region": "Veneto",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università Ca' Foscari Venezia",
+      "campus": true
+    },
+    {
+      "name": "Università degli Studi di Padova",
+      "campus": true
+    }
+  ]
+}

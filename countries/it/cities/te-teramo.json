@@ -1,0 +1,9 @@
+{
+  "code": "IT-TE",
+  "name": "Teramo",
+  "region": "Abruzzo",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi di Teramo", "type": "state", "website": "https://www.unite.it"}
+  ]
+}

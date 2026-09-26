@@ -1,0 +1,10 @@
+{
+  "code": "IT-CH",
+  "name": "Chieti",
+  "region": "Abruzzo",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi \"G. d'Annunzio\" Chieti-Pescara", "type": "state", "website": "https://www.unich.it"},
+    {"name": "Università Telematica \"Leonardo da Vinci\"", "type": "private", "website": "https://www.unidav.it"}
+  ]
+}

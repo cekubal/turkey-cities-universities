@@ -1,0 +1,16 @@
+{
+  "code": "IT-GO",
+  "name": "Gorizia",
+  "region": "Friuli Venezia Giulia",
+  "division_type": "decentralized regional entity",
+  "universities": [
+    {
+      "name": "Università degli Studi di Trieste",
+      "campus": true
+    },
+    {
+      "name": "Università degli Studi di Udine",
+      "campus": true
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "code": "IT-KR",
+  "name": "Crotone",
+  "region": "Calabria",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi \"Magna Graecia\" di Catanzaro", "campus": true},
+    {"name": "Università della Calabria", "campus": true}
+  ]
+}

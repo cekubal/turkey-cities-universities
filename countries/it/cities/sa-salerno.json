@@ -1,0 +1,9 @@
+{
+  "code": "IT-SA",
+  "name": "Salerno",
+  "region": "Campania",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi di Salerno", "type": "state", "website": "https://www.unisa.it"}
+  ]
+}

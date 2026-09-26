@@ -1,0 +1,10 @@
+{
+  "code": "IT-TA",
+  "name": "Taranto",
+  "region": "Puglia",
+  "division_type": "province",
+  "universities": [
+    {"name": "Politecnico di Bari", "campus": true},
+    {"name": "Università degli Studi di Bari Aldo Moro", "campus": true}
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "code": "IT-MI",
+  "name": "Milano",
+  "region": "Lombardia",
+  "division_type": "metropolitan city",
+  "universities": [
+    {
+      "name": "Humanitas University",
+      "type": "private",
+      "website": "https://www.hunimed.eu"
+    },
+    {
+      "name": "IULM - Libera Università di Lingue e Comunicazione",
+      "type": "private",
+      "website": "https://www.iulm.it"
+    },
+    {
+      "name": "Politecnico di Milano",
+      "type": "state",
+      "website": "https://www.polimi.it"
+    },
+    {
+      "name": "Università Cattolica del Sacro Cuore",
+      "type": "private",
+      "website": "https://www.unicatt.it"
+    },
+    {
+      "name": "Università Commerciale Luigi Bocconi",
+      "type": "private",
+      "website": "https://www.unibocconi.it"
+    },
+    {
+      "name": "Università Vita-Salute San Raffaele",
+      "type": "private",
+      "website": "https://www.unisr.it"
+    },
+    {
+      "name": "Università degli Studi di Milano",
+      "type": "state",
+      "website": "https://www.unimi.it"
+    },
+    {
+      "name": "Università degli Studi di Milano-Bicocca",
+      "type": "state",
+      "website": "https://www.unimib.it"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "IT-AN",
+  "name": "Ancona",
+  "region": "Marche",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università Politecnica delle Marche",
+      "type": "state",
+      "website": "https://www.univpm.it"
+    }
+  ]
+}

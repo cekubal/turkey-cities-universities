@@ -1,0 +1,9 @@
+{
+  "code": "IT-PE",
+  "name": "Pescara",
+  "region": "Abruzzo",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi \"G. d'Annunzio\" Chieti-Pescara", "campus": true}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "IT-TS",
+  "name": "Trieste",
+  "region": "Friuli Venezia Giulia",
+  "division_type": "decentralized regional entity",
+  "universities": [
+    {
+      "name": "Scuola Internazionale Superiore di Studi Avanzati (SISSA)",
+      "type": "state",
+      "website": "https://www.sissa.it"
+    },
+    {
+      "name": "Università degli Studi di Trieste",
+      "type": "state",
+      "website": "https://www.units.it"
+    }
+  ]
+}

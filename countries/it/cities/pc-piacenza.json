@@ -1,0 +1,20 @@
+{
+  "code": "IT-PC",
+  "name": "Piacenza",
+  "region": "Emilia-Romagna",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Politecnico di Milano",
+      "campus": true
+    },
+    {
+      "name": "Università Cattolica del Sacro Cuore",
+      "campus": true
+    },
+    {
+      "name": "Università degli Studi di Parma",
+      "campus": true
+    }
+  ]
+}

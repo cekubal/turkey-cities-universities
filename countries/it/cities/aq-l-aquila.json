@@ -1,0 +1,10 @@
+{
+  "code": "IT-AQ",
+  "name": "L'Aquila",
+  "region": "Abruzzo",
+  "division_type": "province",
+  "universities": [
+    {"name": "Gran Sasso Science Institute", "type": "state", "website": "https://www.gssi.it"},
+    {"name": "Università degli Studi dell'Aquila", "type": "state", "website": "https://www.univaq.it"}
+  ]
+}

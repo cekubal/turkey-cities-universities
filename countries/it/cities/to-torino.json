@@ -1,0 +1,18 @@
+{
+  "code": "IT-TO",
+  "name": "Torino",
+  "region": "Piemonte",
+  "division_type": "metropolitan city",
+  "universities": [
+    {
+      "name": "Politecnico di Torino",
+      "type": "state",
+      "website": "https://www.polito.it"
+    },
+    {
+      "name": "Università degli Studi di Torino",
+      "type": "state",
+      "website": "https://www.unito.it"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "code": "IT-CZ",
+  "name": "Catanzaro",
+  "region": "Calabria",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi \"Magna Graecia\" di Catanzaro", "type": "state", "website": "https://www.unicz.it"}
+  ]
+}

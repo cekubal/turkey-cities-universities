@@ -1,0 +1,12 @@
+{
+  "code": "IT-AR",
+  "name": "Arezzo",
+  "region": "Toscana",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Siena",
+      "campus": true
+    }
+  ]
+}

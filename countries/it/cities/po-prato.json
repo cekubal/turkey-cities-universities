@@ -1,0 +1,12 @@
+{
+  "code": "IT-PO",
+  "name": "Prato",
+  "region": "Toscana",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Firenze",
+      "campus": true
+    }
+  ]
+}

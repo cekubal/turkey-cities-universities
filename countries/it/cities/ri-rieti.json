@@ -1,0 +1,12 @@
+{
+  "code": "IT-RI",
+  "name": "Rieti",
+  "region": "Lazio",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Sapienza Università di Roma",
+      "campus": true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "code": "IT-FI",
+  "name": "Firenze",
+  "region": "Toscana",
+  "division_type": "metropolitan city",
+  "universities": [
+    {
+      "name": "Università degli Studi di Firenze",
+      "type": "state",
+      "website": "https://www.unifi.it"
+    },
+    {
+      "name": "Università Telematica degli Studi IUL",
+      "type": "private",
+      "website": "https://www.iuline.it"
+    }
+  ]
+}

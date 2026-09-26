@@ -1,0 +1,11 @@
+{
+  "code": "IT-BA",
+  "name": "Bari",
+  "region": "Puglia",
+  "division_type": "metropolitan city",
+  "universities": [
+    {"name": "Libera Università Mediterranea LUM \"Giuseppe Degennaro\"", "type": "private", "website": "https://www.lum.it"},
+    {"name": "Politecnico di Bari", "type": "state", "website": "https://www.poliba.it"},
+    {"name": "Università degli Studi di Bari Aldo Moro", "type": "state", "website": "https://www.uniba.it"}
+  ]
+}

@@ -96,6 +96,105 @@ es-universidad-de-valladolid,Universidad de Valladolid,universidad-de-valladolid
 es-universidad-euneiz,Universidad EUNEIZ,universidad-euneiz,private,https://euneiz.com,ES-VI,Álava,ES
 es-universidad-san-jorge,Universidad San Jorge,universidad-san-jorge,private,https://www.usj.es,ES-Z,Zaragoza,ES
 es-universidad-de-zaragoza,Universidad de Zaragoza,universidad-de-zaragoza,state,https://www.unizar.es,ES-Z,Zaragoza,ES
+it-universit-della-valle-d-aosta-universit-de-la-vall-e-d-aoste,Università della Valle d'Aosta - Université de la Vallée d'Aoste,universit-della-valle-d-aosta-universit-de-la-vall-e-d-aoste,private,https://www.univda.it,IT-23,Valle d'Aosta,IT
+it-universit-politecnica-delle-marche,Università Politecnica delle Marche,universit-politecnica-delle-marche,state,https://www.univpm.it,IT-AN,Ancona,IT
+it-gran-sasso-science-institute,Gran Sasso Science Institute,gran-sasso-science-institute,state,https://www.gssi.it,IT-AQ,L'Aquila,IT
+it-universit-degli-studi-dell-aquila,Università degli Studi dell'Aquila,universit-degli-studi-dell-aquila,state,https://www.univaq.it,IT-AQ,L'Aquila,IT
+it-libera-universit-mediterranea-lum-giuseppe-degennaro,"Libera Università Mediterranea LUM ""Giuseppe Degennaro""",libera-universit-mediterranea-lum-giuseppe-degennaro,private,https://www.lum.it,IT-BA,Bari,IT
+it-politecnico-di-bari,Politecnico di Bari,politecnico-di-bari,state,https://www.poliba.it,IT-BA,Bari,IT
+it-universit-degli-studi-di-bari-aldo-moro,Università degli Studi di Bari Aldo Moro,universit-degli-studi-di-bari-aldo-moro,state,https://www.uniba.it,IT-BA,Bari,IT
+it-universit-degli-studi-di-bergamo,Università degli Studi di Bergamo,universit-degli-studi-di-bergamo,state,https://www.unibg.it,IT-BG,Bergamo,IT
+it-universit-telematica-giustino-fortunato,"Università Telematica ""Giustino Fortunato""",universit-telematica-giustino-fortunato,private,https://www.unifortunato.eu,IT-BN,Benevento,IT
+it-universit-degli-studi-del-sannio,Università degli Studi del Sannio,universit-degli-studi-del-sannio,state,https://www.unisannio.it,IT-BN,Benevento,IT
+it-alma-mater-studiorum-universit-di-bologna,Alma Mater Studiorum - Università di Bologna,alma-mater-studiorum-universit-di-bologna,state,https://www.unibo.it,IT-BO,Bologna,IT
+it-universit-degli-studi-di-brescia,Università degli Studi di Brescia,universit-degli-studi-di-brescia,state,https://www.unibs.it,IT-BS,Brescia,IT
+it-libera-universit-di-bolzano,Libera Università di Bolzano,libera-universit-di-bolzano,private,https://www.unibz.it,IT-BZ,Bolzano,IT
+it-universit-degli-studi-di-cagliari,Università degli Studi di Cagliari,universit-degli-studi-di-cagliari,state,https://www.unica.it,IT-CA,Cagliari,IT
+it-universit-degli-studi-del-molise,Università degli Studi del Molise,universit-degli-studi-del-molise,state,https://www.unimol.it,IT-CB,Campobasso,IT
+it-universit-degli-studi-della-campania-luigi-vanvitelli,"Università degli Studi della Campania ""Luigi Vanvitelli""",universit-degli-studi-della-campania-luigi-vanvitelli,state,https://www.unicampania.it,IT-CE,Caserta,IT
+it-universit-telematica-leonardo-da-vinci,"Università Telematica ""Leonardo da Vinci""",universit-telematica-leonardo-da-vinci,private,https://www.unidav.it,IT-CH,Chieti,IT
+it-universit-degli-studi-g-d-annunzio-chieti-pescara,"Università degli Studi ""G. d'Annunzio"" Chieti-Pescara",universit-degli-studi-g-d-annunzio-chieti-pescara,state,https://www.unich.it,IT-CH,Chieti,IT
+it-universit-degli-studi-di-scienze-gastronomiche,Università degli Studi di Scienze Gastronomiche,universit-degli-studi-di-scienze-gastronomiche,private,https://www.unisg.it,IT-CN,Cuneo,IT
+it-universit-telematica-ecampus,Università telematica eCampus,universit-telematica-ecampus,private,https://www.uniecampus.it,IT-CO,Como,IT
+it-universit-della-calabria,Università della Calabria,universit-della-calabria,state,https://www.unical.it,IT-CS,Cosenza,IT
+it-universit-degli-studi-di-catania,Università degli Studi di Catania,universit-degli-studi-di-catania,state,https://www.unict.it,IT-CT,Catania,IT
+it-universit-degli-studi-magna-graecia-di-catanzaro,"Università degli Studi ""Magna Graecia"" di Catanzaro",universit-degli-studi-magna-graecia-di-catanzaro,state,https://www.unicz.it,IT-CZ,Catanzaro,IT
+it-universit-degli-studi-di-enna-kore,"Università degli Studi di Enna ""Kore""",universit-degli-studi-di-enna-kore,private,https://www.uke.it,IT-EN,Enna,IT
+it-universit-degli-studi-di-ferrara,Università degli Studi di Ferrara,universit-degli-studi-di-ferrara,state,https://www.unife.it,IT-FE,Ferrara,IT
+it-universit-degli-studi-di-foggia,Università degli Studi di Foggia,universit-degli-studi-di-foggia,state,https://www.unifg.it,IT-FG,Foggia,IT
+it-universit-telematica-degli-studi-iul,Università Telematica degli Studi IUL,universit-telematica-degli-studi-iul,private,https://www.iuline.it,IT-FI,Firenze,IT
+it-universit-degli-studi-di-firenze,Università degli Studi di Firenze,universit-degli-studi-di-firenze,state,https://www.unifi.it,IT-FI,Firenze,IT
+it-universit-degli-studi-di-cassino-e-del-lazio-meridionale,Università degli Studi di Cassino e del Lazio Meridionale,universit-degli-studi-di-cassino-e-del-lazio-meridionale,state,https://www.unicas.it,IT-FR,Frosinone,IT
+it-universit-degli-studi-di-genova,Università degli Studi di Genova,universit-degli-studi-di-genova,state,https://unige.it,IT-GE,Genova,IT
+it-universit-del-salento,Università del Salento,universit-del-salento,state,https://www.unisalento.it,IT-LE,Lecce,IT
+it-imt-scuola-alti-studi-lucca,IMT Scuola Alti Studi Lucca,imt-scuola-alti-studi-lucca,state,https://www.imtlucca.it,IT-LU,Lucca,IT
+it-universit-degli-studi-di-camerino,Università degli Studi di Camerino,universit-degli-studi-di-camerino,state,https://www.unicam.it,IT-MC,Macerata,IT
+it-universit-degli-studi-di-macerata,Università degli Studi di Macerata,universit-degli-studi-di-macerata,state,https://www.unimc.it,IT-MC,Macerata,IT
+it-universit-degli-studi-di-messina,Università degli Studi di Messina,universit-degli-studi-di-messina,state,https://www.unime.it,IT-ME,Messina,IT
+it-humanitas-university,Humanitas University,humanitas-university,private,https://www.hunimed.eu,IT-MI,Milano,IT
+it-iulm-libera-universit-di-lingue-e-comunicazione,IULM - Libera Università di Lingue e Comunicazione,iulm-libera-universit-di-lingue-e-comunicazione,private,https://www.iulm.it,IT-MI,Milano,IT
+it-politecnico-di-milano,Politecnico di Milano,politecnico-di-milano,state,https://www.polimi.it,IT-MI,Milano,IT
+it-universit-cattolica-del-sacro-cuore,Università Cattolica del Sacro Cuore,universit-cattolica-del-sacro-cuore,private,https://www.unicatt.it,IT-MI,Milano,IT
+it-universit-commerciale-luigi-bocconi,Università Commerciale Luigi Bocconi,universit-commerciale-luigi-bocconi,private,https://www.unibocconi.it,IT-MI,Milano,IT
+it-universit-vita-salute-san-raffaele,Università Vita-Salute San Raffaele,universit-vita-salute-san-raffaele,private,https://www.unisr.it,IT-MI,Milano,IT
+it-universit-degli-studi-di-milano,Università degli Studi di Milano,universit-degli-studi-di-milano,state,https://www.unimi.it,IT-MI,Milano,IT
+it-universit-degli-studi-di-milano-bicocca,Università degli Studi di Milano-Bicocca,universit-degli-studi-di-milano-bicocca,state,https://www.unimib.it,IT-MI,Milano,IT
+it-universit-degli-studi-di-modena-e-reggio-emilia,Università degli Studi di Modena e Reggio Emilia,universit-degli-studi-di-modena-e-reggio-emilia,state,https://www.unimore.it,IT-MO,Modena,IT
+it-scuola-superiore-meridionale,Scuola Superiore Meridionale,scuola-superiore-meridionale,state,https://www.ssmeridionale.it,IT-NA,Napoli,IT
+it-universit-telematica-pegaso,Università Telematica Pegaso,universit-telematica-pegaso,private,https://www.unipegaso.it,IT-NA,Napoli,IT
+it-universit-degli-studi-suor-orsola-benincasa,Università degli Studi Suor Orsola Benincasa,universit-degli-studi-suor-orsola-benincasa,private,https://www.unisob.na.it,IT-NA,Napoli,IT
+it-universit-degli-studi-di-napoli-l-orientale,"Università degli Studi di Napoli ""L'Orientale""",universit-degli-studi-di-napoli-l-orientale,state,https://www.unior.it,IT-NA,Napoli,IT
+it-universit-degli-studi-di-napoli-parthenope,"Università degli Studi di Napoli ""Parthenope""",universit-degli-studi-di-napoli-parthenope,state,https://www.uniparthenope.it,IT-NA,Napoli,IT
+it-universit-degli-studi-di-napoli-federico-ii,Università degli Studi di Napoli Federico II,universit-degli-studi-di-napoli-federico-ii,state,https://www.unina.it,IT-NA,Napoli,IT
+it-universit-degli-studi-di-palermo,Università degli Studi di Palermo,universit-degli-studi-di-palermo,state,https://www.unipa.it,IT-PA,Palermo,IT
+it-universit-degli-studi-di-padova,Università degli Studi di Padova,universit-degli-studi-di-padova,state,https://www.unipd.it,IT-PD,Padova,IT
+it-universit-degli-studi-di-perugia,Università degli Studi di Perugia,universit-degli-studi-di-perugia,state,https://www.unipg.it,IT-PG,Perugia,IT
+it-universit-per-stranieri-di-perugia,Università per Stranieri di Perugia,universit-per-stranieri-di-perugia,state,https://www.unistrapg.it,IT-PG,Perugia,IT
+it-scuola-normale-superiore,Scuola Normale Superiore,scuola-normale-superiore,state,https://www.sns.it,IT-PI,Pisa,IT
+it-scuola-superiore-sant-anna,Scuola Superiore Sant'Anna,scuola-superiore-sant-anna,state,https://www.santannapisa.it,IT-PI,Pisa,IT
+it-universit-di-pisa,Università di Pisa,universit-di-pisa,state,https://www.unipi.it,IT-PI,Pisa,IT
+it-universit-degli-studi-di-parma,Università degli Studi di Parma,universit-degli-studi-di-parma,state,https://www.unipr.it,IT-PR,Parma,IT
+it-universit-degli-studi-di-urbino-carlo-bo,Università degli Studi di Urbino Carlo Bo,universit-degli-studi-di-urbino-carlo-bo,state,https://www.uniurb.it,IT-PU,Pesaro e Urbino,IT
+it-scuola-universitaria-superiore-iuss-pavia,Scuola Universitaria Superiore IUSS Pavia,scuola-universitaria-superiore-iuss-pavia,state,https://www.iusspavia.it,IT-PV,Pavia,IT
+it-universit-degli-studi-di-pavia,Università degli Studi di Pavia,universit-degli-studi-di-pavia,state,https://www.unipv.it,IT-PV,Pavia,IT
+it-universit-degli-studi-della-basilicata,Università degli Studi della Basilicata,universit-degli-studi-della-basilicata,state,https://www.unibas.it,IT-PZ,Potenza,IT
+it-universit-degli-studi-mediterranea-di-reggio-calabria,Università degli Studi Mediterranea di Reggio Calabria,universit-degli-studi-mediterranea-di-reggio-calabria,state,https://www.unirc.it,IT-RC,Reggio Calabria,IT
+it-universit-per-stranieri-dante-alighieri,"Università per Stranieri ""Dante Alighieri""",universit-per-stranieri-dante-alighieri,private,https://www.unistrada.it,IT-RC,Reggio Calabria,IT
+it-luiss-guido-carli,LUISS Guido Carli,luiss-guido-carli,private,https://www.luiss.it,IT-RM,Roma,IT
+it-lumsa-libera-universit-maria-ss-assunta,LUMSA - Libera Università Maria SS. Assunta,lumsa-libera-universit-maria-ss-assunta,private,https://www.lumsa.it,IT-RM,Roma,IT
+it-link-campus-university,Link Campus University,link-campus-university,private,https://www.unilink.it,IT-RM,Roma,IT
+it-saint-camillus-international-university-of-health-sciences,Saint Camillus International University of Health Sciences,saint-camillus-international-university-of-health-sciences,private,https://www.unicamillus.org,IT-RM,Roma,IT
+it-sapienza-universit-di-roma,Sapienza Università di Roma,sapienza-universit-di-roma,state,https://www.uniroma1.it,IT-RM,Roma,IT
+it-unitelma-sapienza-universit-degli-studi-di-roma,Unitelma Sapienza - Università degli Studi di Roma,unitelma-sapienza-universit-degli-studi-di-roma,private,https://www.unitelmasapienza.it,IT-RM,Roma,IT
+it-universit-campus-bio-medico-di-roma,Università Campus Bio-Medico di Roma,universit-campus-bio-medico-di-roma,private,https://www.unicampus.it,IT-RM,Roma,IT
+it-universit-europea-di-roma,Università Europea di Roma,universit-europea-di-roma,private,https://www.uer.it,IT-RM,Roma,IT
+it-universit-telematica-internazionale-uninettuno,Università Telematica Internazionale Uninettuno,universit-telematica-internazionale-uninettuno,private,https://www.uninettunouniversity.net,IT-RM,Roma,IT
+it-universit-telematica-san-raffaele-roma,Università Telematica San Raffaele Roma,universit-telematica-san-raffaele-roma,private,https://www.uniroma5.it,IT-RM,Roma,IT
+it-universit-telematica-universitas-mercatorum,Università Telematica Universitas Mercatorum,universit-telematica-universitas-mercatorum,private,https://www.unimercatorum.it,IT-RM,Roma,IT
+it-universit-degli-studi-guglielmo-marconi,Università degli Studi Guglielmo Marconi,universit-degli-studi-guglielmo-marconi,private,https://www.unimarconi.it,IT-RM,Roma,IT
+it-universit-degli-studi-internazionali-di-roma-unint,Università degli Studi Internazionali di Roma - UNINT,universit-degli-studi-internazionali-di-roma-unint,private,https://www.unint.eu,IT-RM,Roma,IT
+it-universit-degli-studi-niccol-cusano,Università degli Studi Niccolò Cusano,universit-degli-studi-niccol-cusano,private,https://www.unicusano.it,IT-RM,Roma,IT
+it-universit-degli-studi-roma-tre,Università degli Studi Roma Tre,universit-degli-studi-roma-tre,state,https://www.uniroma3.it,IT-RM,Roma,IT
+it-universit-degli-studi-di-roma-foro-italico,"Università degli Studi di Roma ""Foro Italico""",universit-degli-studi-di-roma-foro-italico,state,https://www.uniroma4.it,IT-RM,Roma,IT
+it-universit-degli-studi-di-roma-tor-vergata,"Università degli Studi di Roma ""Tor Vergata""",universit-degli-studi-di-roma-tor-vergata,state,https://web.uniroma2.it,IT-RM,Roma,IT
+it-universit-degli-studi-di-salerno,Università degli Studi di Salerno,universit-degli-studi-di-salerno,state,https://www.unisa.it,IT-SA,Salerno,IT
+it-universit-degli-studi-di-siena,Università degli Studi di Siena,universit-degli-studi-di-siena,state,https://www.unisi.it,IT-SI,Siena,IT
+it-universit-per-stranieri-di-siena,Università per Stranieri di Siena,universit-per-stranieri-di-siena,state,https://www.unistrasi.it,IT-SI,Siena,IT
+it-universit-degli-studi-di-sassari,Università degli Studi di Sassari,universit-degli-studi-di-sassari,state,https://www.uniss.it,IT-SS,Sassari,IT
+it-universit-degli-studi-di-teramo,Università degli Studi di Teramo,universit-degli-studi-di-teramo,state,https://www.unite.it,IT-TE,Teramo,IT
+it-universit-degli-studi-di-trento,Università degli Studi di Trento,universit-degli-studi-di-trento,state,https://www.unitn.it,IT-TN,Trento,IT
+it-politecnico-di-torino,Politecnico di Torino,politecnico-di-torino,state,https://www.polito.it,IT-TO,Torino,IT
+it-universit-degli-studi-di-torino,Università degli Studi di Torino,universit-degli-studi-di-torino,state,https://www.unito.it,IT-TO,Torino,IT
+it-scuola-internazionale-superiore-di-studi-avanzati-sissa,Scuola Internazionale Superiore di Studi Avanzati (SISSA),scuola-internazionale-superiore-di-studi-avanzati-sissa,state,https://www.sissa.it,IT-TS,Trieste,IT
+it-universit-degli-studi-di-trieste,Università degli Studi di Trieste,universit-degli-studi-di-trieste,state,https://www.units.it,IT-TS,Trieste,IT
+it-universit-degli-studi-di-udine,Università degli Studi di Udine,universit-degli-studi-di-udine,state,https://www.uniud.it,IT-UD,Udine,IT
+it-universit-carlo-cattaneo-liuc,Università Carlo Cattaneo - LIUC,universit-carlo-cattaneo-liuc,private,https://www.liuc.it,IT-VA,Varese,IT
+it-universit-degli-studi-dell-insubria,Università degli Studi dell'Insubria,universit-degli-studi-dell-insubria,state,https://www.uninsubria.it,IT-VA,Varese,IT
+it-universit-degli-studi-del-piemonte-orientale-amedeo-avogadro,"Università degli Studi del Piemonte Orientale ""Amedeo Avogadro""",universit-degli-studi-del-piemonte-orientale-amedeo-avogadro,state,https://www.uniupo.it,IT-VC,Vercelli,IT
+it-universit-ca-foscari-venezia,Università Ca' Foscari Venezia,universit-ca-foscari-venezia,state,https://www.unive.it,IT-VE,Venezia,IT
+it-universit-iuav-di-venezia,Università Iuav di Venezia,universit-iuav-di-venezia,state,https://www.iuav.it,IT-VE,Venezia,IT
+it-universit-degli-studi-di-verona,Università degli Studi di Verona,universit-degli-studi-di-verona,state,https://www.univr.it,IT-VR,Verona,IT
+it-universit-degli-studi-della-tuscia,Università degli Studi della Tuscia,universit-degli-studi-della-tuscia,state,https://www.unitus.it,IT-VT,Viterbo,IT
 tr-adana-alparslan-turkes-bilim-ve-teknoloji-universitesi,Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi,adana-alparslan-turkes-bilim-ve-teknoloji-universitesi,state,https://www.atu.edu.tr,TR-01,Adana,TR
 tr-cukurova-universitesi,Çukurova Üniversitesi,cukurova-universitesi,state,https://www.cu.edu.tr,TR-01,Adana,TR
 tr-adiyaman-universitesi,Adıyaman Üniversitesi,adiyaman-universitesi,state,https://www.adiyaman.edu.tr,TR-02,Adıyaman,TR

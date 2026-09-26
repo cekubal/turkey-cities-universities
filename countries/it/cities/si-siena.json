@@ -1,0 +1,18 @@
+{
+  "code": "IT-SI",
+  "name": "Siena",
+  "region": "Toscana",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Siena",
+      "type": "state",
+      "website": "https://www.unisi.it"
+    },
+    {
+      "name": "Università per Stranieri di Siena",
+      "type": "state",
+      "website": "https://www.unistrasi.it"
+    }
+  ]
+}

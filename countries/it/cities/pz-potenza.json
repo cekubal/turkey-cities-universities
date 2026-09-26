@@ -1,0 +1,9 @@
+{
+  "code": "IT-PZ",
+  "name": "Potenza",
+  "region": "Basilicata",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi della Basilicata", "type": "state", "website": "https://www.unibas.it"}
+  ]
+}

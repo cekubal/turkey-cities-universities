@@ -1,0 +1,12 @@
+{
+  "code": "IT-LC",
+  "name": "Lecco",
+  "region": "Lombardia",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Politecnico di Milano",
+      "campus": true
+    }
+  ]
+}

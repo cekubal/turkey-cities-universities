@@ -1,0 +1,21 @@
+{
+  "code": "IT-BG",
+  "name": "Bergamo",
+  "region": "Lombardia",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Humanitas University",
+      "campus": true
+    },
+    {
+      "name": "Università degli Studi di Bergamo",
+      "type": "state",
+      "website": "https://www.unibg.it"
+    },
+    {
+      "name": "Università degli Studi di Milano-Bicocca",
+      "campus": true
+    }
+  ]
+}

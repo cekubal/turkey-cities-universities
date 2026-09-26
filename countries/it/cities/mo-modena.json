@@ -1,0 +1,13 @@
+{
+  "code": "IT-MO",
+  "name": "Modena",
+  "region": "Emilia-Romagna",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Modena e Reggio Emilia",
+      "type": "state",
+      "website": "https://www.unimore.it"
+    }
+  ]
+}

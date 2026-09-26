@@ -1,0 +1,9 @@
+{
+  "code": "IT-FG",
+  "name": "Foggia",
+  "region": "Puglia",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università degli Studi di Foggia", "type": "state", "website": "https://www.unifg.it"}
+  ]
+}

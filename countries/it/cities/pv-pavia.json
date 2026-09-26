@@ -1,0 +1,18 @@
+{
+  "code": "IT-PV",
+  "name": "Pavia",
+  "region": "Lombardia",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Scuola Universitaria Superiore IUSS Pavia",
+      "type": "state",
+      "website": "https://www.iusspavia.it"
+    },
+    {
+      "name": "Università degli Studi di Pavia",
+      "type": "state",
+      "website": "https://www.unipv.it"
+    }
+  ]
+}

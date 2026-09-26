@@ -1,0 +1,20 @@
+{
+  "code": "IT-VI",
+  "name": "Vicenza",
+  "region": "Veneto",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università Iuav di Venezia",
+      "campus": true
+    },
+    {
+      "name": "Università degli Studi di Padova",
+      "campus": true
+    },
+    {
+      "name": "Università degli Studi di Verona",
+      "campus": true
+    }
+  ]
+}

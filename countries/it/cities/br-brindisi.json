@@ -1,0 +1,9 @@
+{
+  "code": "IT-BR",
+  "name": "Brindisi",
+  "region": "Puglia",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università del Salento", "campus": true}
+  ]
+}

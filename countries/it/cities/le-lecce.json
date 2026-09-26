@@ -1,0 +1,9 @@
+{
+  "code": "IT-LE",
+  "name": "Lecce",
+  "region": "Puglia",
+  "division_type": "province",
+  "universities": [
+    {"name": "Università del Salento", "type": "state", "website": "https://www.unisalento.it"}
+  ]
+}

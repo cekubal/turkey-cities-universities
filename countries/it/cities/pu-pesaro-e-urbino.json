@@ -1,0 +1,13 @@
+{
+  "code": "IT-PU",
+  "name": "Pesaro e Urbino",
+  "region": "Marche",
+  "division_type": "province",
+  "universities": [
+    {
+      "name": "Università degli Studi di Urbino Carlo Bo",
+      "type": "state",
+      "website": "https://www.uniurb.it"
+    }
+  ]
+}
