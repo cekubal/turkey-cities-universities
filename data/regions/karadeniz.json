@@ -1,0 +1,62 @@
+{
+  "region": "Karadeniz",
+  "cities": [
+    {"plate_code": 5, "name": "Amasya", "universities": [
+      {"name": "Amasya Üniversitesi", "type": "state", "website": "https://www.amasya.edu.tr"}
+    ]},
+    {"plate_code": 8, "name": "Artvin", "universities": [
+      {"name": "Artvin Çoruh Üniversitesi", "type": "state", "website": "https://www.artvin.edu.tr"}
+    ]},
+    {"plate_code": 14, "name": "Bolu", "universities": [
+      {"name": "Bolu Abant İzzet Baysal Üniversitesi", "type": "state", "website": "https://www.ibu.edu.tr"}
+    ]},
+    {"plate_code": 19, "name": "Çorum", "universities": [
+      {"name": "Hitit Üniversitesi", "type": "state", "website": "https://www.hitit.edu.tr"}
+    ]},
+    {"plate_code": 28, "name": "Giresun", "universities": [
+      {"name": "Giresun Üniversitesi", "type": "state", "website": "https://www.giresun.edu.tr"}
+    ]},
+    {"plate_code": 29, "name": "Gümüşhane", "universities": [
+      {"name": "Gümüşhane Üniversitesi", "type": "state", "website": "https://www.gumushane.edu.tr"}
+    ]},
+    {"plate_code": 37, "name": "Kastamonu", "universities": [
+      {"name": "Kastamonu Üniversitesi", "type": "state", "website": "https://www.kastamonu.edu.tr"}
+    ]},
+    {"plate_code": 52, "name": "Ordu", "universities": [
+      {"name": "Ordu Üniversitesi", "type": "state", "website": "https://www.odu.edu.tr"}
+    ]},
+    {"plate_code": 53, "name": "Rize", "universities": [
+      {"name": "Recep Tayyip Erdoğan Üniversitesi", "type": "state", "website": "https://www.erdogan.edu.tr"}
+    ]},
+    {"plate_code": 55, "name": "Samsun", "universities": [
+      {"name": "Ondokuz Mayıs Üniversitesi", "type": "state", "website": "https://www.omu.edu.tr"},
+      {"name": "Samsun Üniversitesi", "type": "state", "website": "https://www.samsun.edu.tr"}
+    ]},
+    {"plate_code": 57, "name": "Sinop", "universities": [
+      {"name": "Sinop Üniversitesi", "type": "state", "website": "https://www.sinop.edu.tr"}
+    ]},
+    {"plate_code": 60, "name": "Tokat", "universities": [
+      {"name": "Tokat Gaziosmanpaşa Üniversitesi", "type": "state", "website": "https://www.gop.edu.tr"}
+    ]},
+    {"plate_code": 61, "name": "Trabzon", "universities": [
+      {"name": "Avrasya Üniversitesi", "type": "foundation", "website": "https://www.avrasya.edu.tr"},
+      {"name": "Karadeniz Teknik Üniversitesi", "type": "state", "website": "https://www.ktu.edu.tr"},
+      {"name": "Trabzon Üniversitesi", "type": "state", "website": "https://www.trabzon.edu.tr"}
+    ]},
+    {"plate_code": 67, "name": "Zonguldak", "universities": [
+      {"name": "Zonguldak Bülent Ecevit Üniversitesi", "type": "state", "website": "https://www.beun.edu.tr"}
+    ]},
+    {"plate_code": 69, "name": "Bayburt", "universities": [
+      {"name": "Bayburt Üniversitesi", "type": "state", "website": "https://www.bayburt.edu.tr"}
+    ]},
+    {"plate_code": 74, "name": "Bartın", "universities": [
+      {"name": "Bartın Üniversitesi", "type": "state", "website": "https://www.bartin.edu.tr"}
+    ]},
+    {"plate_code": 78, "name": "Karabük", "universities": [
+      {"name": "Karabük Üniversitesi", "type": "state", "website": "https://www.karabuk.edu.tr"}
+    ]},
+    {"plate_code": 81, "name": "Düzce", "universities": [
+      {"name": "Düzce Üniversitesi", "type": "state", "website": "https://www.duzce.edu.tr"}
+    ]}
+  ]
+}

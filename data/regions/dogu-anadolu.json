@@ -1,0 +1,49 @@
+{
+  "region": "Doğu Anadolu",
+  "cities": [
+    {"plate_code": 4, "name": "Ağrı", "universities": [
+      {"name": "Ağrı İbrahim Çeçen Üniversitesi", "type": "state", "website": "https://www.agri.edu.tr"}
+    ]},
+    {"plate_code": 12, "name": "Bingöl", "universities": [
+      {"name": "Bingöl Üniversitesi", "type": "state", "website": "https://www.bingol.edu.tr"}
+    ]},
+    {"plate_code": 13, "name": "Bitlis", "universities": [
+      {"name": "Bitlis Eren Üniversitesi", "type": "state", "website": "https://www.beu.edu.tr"}
+    ]},
+    {"plate_code": 23, "name": "Elazığ", "universities": [
+      {"name": "Fırat Üniversitesi", "type": "state", "website": "https://www.firat.edu.tr"}
+    ]},
+    {"plate_code": 24, "name": "Erzincan", "universities": [
+      {"name": "Erzincan Binali Yıldırım Üniversitesi", "type": "state", "website": "https://www.erzincan.edu.tr"}
+    ]},
+    {"plate_code": 25, "name": "Erzurum", "universities": [
+      {"name": "Atatürk Üniversitesi", "type": "state", "website": "https://www.atauni.edu.tr"},
+      {"name": "Erzurum Teknik Üniversitesi", "type": "state", "website": "https://www.erzurum.edu.tr"}
+    ]},
+    {"plate_code": 30, "name": "Hakkari", "universities": [
+      {"name": "Hakkari Üniversitesi", "type": "state", "website": "https://www.hakkari.edu.tr"}
+    ]},
+    {"plate_code": 36, "name": "Kars", "universities": [
+      {"name": "Kafkas Üniversitesi", "type": "state", "website": "https://www.kafkas.edu.tr"}
+    ]},
+    {"plate_code": 44, "name": "Malatya", "universities": [
+      {"name": "İnönü Üniversitesi", "type": "state", "website": "https://www.inonu.edu.tr"},
+      {"name": "Malatya Turgut Özal Üniversitesi", "type": "state", "website": "https://www.ozal.edu.tr"}
+    ]},
+    {"plate_code": 49, "name": "Muş", "universities": [
+      {"name": "Muş Alparslan Üniversitesi", "type": "state", "website": "https://www.alparslan.edu.tr"}
+    ]},
+    {"plate_code": 62, "name": "Tunceli", "universities": [
+      {"name": "Munzur Üniversitesi", "type": "state", "website": "https://www.munzur.edu.tr"}
+    ]},
+    {"plate_code": 65, "name": "Van", "universities": [
+      {"name": "Van Yüzüncü Yıl Üniversitesi", "type": "state", "website": "https://www.yyu.edu.tr"}
+    ]},
+    {"plate_code": 75, "name": "Ardahan", "universities": [
+      {"name": "Ardahan Üniversitesi", "type": "state", "website": "https://www.ardahan.edu.tr"}
+    ]},
+    {"plate_code": 76, "name": "Iğdır", "universities": [
+      {"name": "Iğdır Üniversitesi", "type": "state", "website": "https://www.igdir.edu.tr"}
+    ]}
+  ]
+}

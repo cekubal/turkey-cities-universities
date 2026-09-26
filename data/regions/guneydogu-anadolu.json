@@ -1,0 +1,35 @@
+{
+  "region": "Güneydoğu Anadolu",
+  "cities": [
+    {"plate_code": 2, "name": "Adıyaman", "universities": [
+      {"name": "Adıyaman Üniversitesi", "type": "state", "website": "https://www.adiyaman.edu.tr"}
+    ]},
+    {"plate_code": 21, "name": "Diyarbakır", "universities": [
+      {"name": "Dicle Üniversitesi", "type": "state", "website": "https://www.dicle.edu.tr"}
+    ]},
+    {"plate_code": 27, "name": "Gaziantep", "universities": [
+      {"name": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi", "type": "state", "website": "https://www.gibtu.edu.tr"},
+      {"name": "Gaziantep Üniversitesi", "type": "state", "website": "https://www.gantep.edu.tr"},
+      {"name": "Hasan Kalyoncu Üniversitesi", "type": "foundation", "website": "https://www.hku.edu.tr"},
+      {"name": "SANKO Üniversitesi", "type": "foundation", "website": "https://www.sanko.edu.tr"}
+    ]},
+    {"plate_code": 47, "name": "Mardin", "universities": [
+      {"name": "Mardin Artuklu Üniversitesi", "type": "state", "website": "https://www.artuklu.edu.tr"}
+    ]},
+    {"plate_code": 56, "name": "Siirt", "universities": [
+      {"name": "Siirt Üniversitesi", "type": "state", "website": "https://www.siirt.edu.tr"}
+    ]},
+    {"plate_code": 63, "name": "Şanlıurfa", "universities": [
+      {"name": "Harran Üniversitesi", "type": "state", "website": "https://www.harran.edu.tr"}
+    ]},
+    {"plate_code": 72, "name": "Batman", "universities": [
+      {"name": "Batman Üniversitesi", "type": "state", "website": "https://www.batman.edu.tr"}
+    ]},
+    {"plate_code": 73, "name": "Şırnak", "universities": [
+      {"name": "Şırnak Üniversitesi", "type": "state", "website": "https://www.sirnak.edu.tr"}
+    ]},
+    {"plate_code": 79, "name": "Kilis", "universities": [
+      {"name": "Kilis 7 Aralık Üniversitesi", "type": "state", "website": "https://www.kilis.edu.tr"}
+    ]}
+  ]
+}
