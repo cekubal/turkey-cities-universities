@@ -1,0 +1,13 @@
+{
+  "code": "TR-22",
+  "plate_code": 22,
+  "name": "Edirne",
+  "region": "Marmara",
+  "universities": [
+    {
+      "name": "Trakya Üniversitesi",
+      "type": "state",
+      "website": "https://www.trakya.edu.tr"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "TR-77",
+  "plate_code": 77,
+  "name": "Yalova",
+  "region": "Marmara",
+  "universities": [
+    {
+      "name": "Yalova Üniversitesi",
+      "type": "state",
+      "website": "https://www.yalova.edu.tr"
+    }
+  ]
+}

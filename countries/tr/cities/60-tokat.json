@@ -1,0 +1,13 @@
+{
+  "code": "TR-60",
+  "plate_code": 60,
+  "name": "Tokat",
+  "region": "Karadeniz",
+  "universities": [
+    {
+      "name": "Tokat Gaziosmanpaşa Üniversitesi",
+      "type": "state",
+      "website": "https://www.gop.edu.tr"
+    }
+  ]
+}

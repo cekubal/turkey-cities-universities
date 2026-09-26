@@ -1,0 +1,13 @@
+{
+  "code": "TR-78",
+  "plate_code": 78,
+  "name": "Karabük",
+  "region": "Karadeniz",
+  "universities": [
+    {
+      "name": "Karabük Üniversitesi",
+      "type": "state",
+      "website": "https://www.karabuk.edu.tr"
+    }
+  ]
+}

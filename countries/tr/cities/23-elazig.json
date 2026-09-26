@@ -1,0 +1,13 @@
+{
+  "code": "TR-23",
+  "plate_code": 23,
+  "name": "Elazığ",
+  "region": "Doğu Anadolu",
+  "universities": [
+    {
+      "name": "Fırat Üniversitesi",
+      "type": "state",
+      "website": "https://www.firat.edu.tr"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "TR-69",
+  "plate_code": 69,
+  "name": "Bayburt",
+  "region": "Karadeniz",
+  "universities": [
+    {
+      "name": "Bayburt Üniversitesi",
+      "type": "state",
+      "website": "https://www.bayburt.edu.tr"
+    }
+  ]
+}

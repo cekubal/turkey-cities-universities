@@ -1,0 +1,18 @@
+{
+  "code": "TR-10",
+  "plate_code": 10,
+  "name": "Balıkesir",
+  "region": "Marmara",
+  "universities": [
+    {
+      "name": "Balıkesir Üniversitesi",
+      "type": "state",
+      "website": "https://www.balikesir.edu.tr"
+    },
+    {
+      "name": "Bandırma Onyedi Eylül Üniversitesi",
+      "type": "state",
+      "website": "https://www.bandirma.edu.tr"
+    }
+  ]
+}

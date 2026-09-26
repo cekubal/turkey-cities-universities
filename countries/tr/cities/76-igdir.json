@@ -1,0 +1,13 @@
+{
+  "code": "TR-76",
+  "plate_code": 76,
+  "name": "Iğdır",
+  "region": "Doğu Anadolu",
+  "universities": [
+    {
+      "name": "Iğdır Üniversitesi",
+      "type": "state",
+      "website": "https://www.igdir.edu.tr"
+    }
+  ]
+}

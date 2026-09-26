@@ -1,0 +1,13 @@
+{
+  "code": "TR-47",
+  "plate_code": 47,
+  "name": "Mardin",
+  "region": "Güneydoğu Anadolu",
+  "universities": [
+    {
+      "name": "Mardin Artuklu Üniversitesi",
+      "type": "state",
+      "website": "https://www.artuklu.edu.tr"
+    }
+  ]
+}

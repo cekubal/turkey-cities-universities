@@ -1,0 +1,33 @@
+{
+  "code": "TR-07",
+  "plate_code": 7,
+  "name": "Antalya",
+  "region": "Akdeniz",
+  "universities": [
+    {
+      "name": "Akdeniz Üniversitesi",
+      "type": "state",
+      "website": "https://www.akdeniz.edu.tr"
+    },
+    {
+      "name": "Alanya Alaaddin Keykubat Üniversitesi",
+      "type": "state",
+      "website": "https://www.alanya.edu.tr"
+    },
+    {
+      "name": "Alanya Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.alanyauniversity.edu.tr"
+    },
+    {
+      "name": "Antalya Belek Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.belek.edu.tr"
+    },
+    {
+      "name": "Antalya Bilim Üniversitesi",
+      "type": "foundation",
+      "website": "https://www.antalya.edu.tr"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "TR-66",
+  "plate_code": 66,
+  "name": "Yozgat",
+  "region": "İç Anadolu",
+  "universities": [
+    {
+      "name": "Yozgat Bozok Üniversitesi",
+      "type": "state",
+      "website": "https://www.bozok.edu.tr"
+    }
+  ]
+}

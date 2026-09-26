@@ -1,0 +1,13 @@
+{
+  "code": "TR-20",
+  "plate_code": 20,
+  "name": "Denizli",
+  "region": "Ege",
+  "universities": [
+    {
+      "name": "Pamukkale Üniversitesi",
+      "type": "state",
+      "website": "https://www.pau.edu.tr"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "TR-04",
+  "plate_code": 4,
+  "name": "Ağrı",
+  "region": "Doğu Anadolu",
+  "universities": [
+    {
+      "name": "Ağrı İbrahim Çeçen Üniversitesi",
+      "type": "state",
+      "website": "https://www.agri.edu.tr"
+    }
+  ]
+}

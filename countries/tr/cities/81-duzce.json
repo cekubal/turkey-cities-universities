@@ -1,0 +1,13 @@
+{
+  "code": "TR-81",
+  "plate_code": 81,
+  "name": "Düzce",
+  "region": "Karadeniz",
+  "universities": [
+    {
+      "name": "Düzce Üniversitesi",
+      "type": "state",
+      "website": "https://www.duzce.edu.tr"
+    }
+  ]
+}

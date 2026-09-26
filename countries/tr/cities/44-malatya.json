@@ -1,0 +1,18 @@
+{
+  "code": "TR-44",
+  "plate_code": 44,
+  "name": "Malatya",
+  "region": "Doğu Anadolu",
+  "universities": [
+    {
+      "name": "Malatya Turgut Özal Üniversitesi",
+      "type": "state",
+      "website": "https://www.ozal.edu.tr"
+    },
+    {
+      "name": "İnönü Üniversitesi",
+      "type": "state",
+      "website": "https://www.inonu.edu.tr"
+    }
+  ]
+}

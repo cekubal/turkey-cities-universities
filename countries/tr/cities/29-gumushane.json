@@ -1,0 +1,13 @@
+{
+  "code": "TR-29",
+  "plate_code": 29,
+  "name": "Gümüşhane",
+  "region": "Karadeniz",
+  "universities": [
+    {
+      "name": "Gümüşhane Üniversitesi",
+      "type": "state",
+      "website": "https://www.gumushane.edu.tr"
+    }
+  ]
+}

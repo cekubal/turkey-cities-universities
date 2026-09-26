@@ -1,0 +1,13 @@
+{
+  "code": "TR-71",
+  "plate_code": 71,
+  "name": "Kırıkkale",
+  "region": "İç Anadolu",
+  "universities": [
+    {
+      "name": "Kırıkkale Üniversitesi",
+      "type": "state",
+      "website": "https://www.kku.edu.tr"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "TR-80",
+  "plate_code": 80,
+  "name": "Osmaniye",
+  "region": "Akdeniz",
+  "universities": [
+    {
+      "name": "Osmaniye Korkut Ata Üniversitesi",
+      "type": "state",
+      "website": "https://www.osmaniye.edu.tr"
+    }
+  ]
+}

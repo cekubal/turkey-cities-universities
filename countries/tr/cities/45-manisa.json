@@ -1,0 +1,13 @@
+{
+  "code": "TR-45",
+  "plate_code": 45,
+  "name": "Manisa",
+  "region": "Ege",
+  "universities": [
+    {
+      "name": "Manisa Celal Bayar Üniversitesi",
+      "type": "state",
+      "website": "https://www.cbu.edu.tr"
+    }
+  ]
+}

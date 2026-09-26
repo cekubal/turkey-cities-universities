@@ -1,0 +1,23 @@
+{
+  "code": "TR-26",
+  "plate_code": 26,
+  "name": "Eskişehir",
+  "region": "İç Anadolu",
+  "universities": [
+    {
+      "name": "Anadolu Üniversitesi",
+      "type": "state",
+      "website": "https://www.anadolu.edu.tr"
+    },
+    {
+      "name": "Eskişehir Osmangazi Üniversitesi",
+      "type": "state",
+      "website": "https://www.ogu.edu.tr"
+    },
+    {
+      "name": "Eskişehir Teknik Üniversitesi",
+      "type": "state",
+      "website": "https://www.eskisehir.edu.tr"
+    }
+  ]
+}

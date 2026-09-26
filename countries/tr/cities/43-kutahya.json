@@ -1,0 +1,18 @@
+{
+  "code": "TR-43",
+  "plate_code": 43,
+  "name": "Kütahya",
+  "region": "Ege",
+  "universities": [
+    {
+      "name": "Kütahya Dumlupınar Üniversitesi",
+      "type": "state",
+      "website": "https://www.dpu.edu.tr"
+    },
+    {
+      "name": "Kütahya Sağlık Bilimleri Üniversitesi",
+      "type": "state",
+      "website": "https://www.ksbu.edu.tr"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": "TR-19",
+  "plate_code": 19,
+  "name": "Çorum",
+  "region": "Karadeniz",
+  "universities": [
+    {
+      "name": "Hitit Üniversitesi",
+      "type": "state",
+      "website": "https://www.hitit.edu.tr"
+    }
+  ]
+}

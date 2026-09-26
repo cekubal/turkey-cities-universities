@@ -1,0 +1,13 @@
+{
+  "code": "TR-51",
+  "plate_code": 51,
+  "name": "Niğde",
+  "region": "İç Anadolu",
+  "universities": [
+    {
+      "name": "Niğde Ömer Halisdemir Üniversitesi",
+      "type": "state",
+      "website": "https://www.ohu.edu.tr"
+    }
+  ]
+}

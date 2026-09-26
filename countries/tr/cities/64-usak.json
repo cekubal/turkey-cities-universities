@@ -1,0 +1,13 @@
+{
+  "code": "TR-64",
+  "plate_code": 64,
+  "name": "Uşak",
+  "region": "Ege",
+  "universities": [
+    {
+      "name": "Uşak Üniversitesi",
+      "type": "state",
+      "website": "https://www.usak.edu.tr"
+    }
+  ]
+}

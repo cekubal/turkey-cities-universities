@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Validate country.json + cities/*.json and generate dist/ outputs (JSON, CSV, SQL)."""
+"""Validate countries/<cc>/ data and generate dist/ outputs (JSON, CSV, SQL).
+
+Source layout:
+  countries/<cc>/country.json          {"code", "name", "name_en"}
+  countries/<cc>/cities/<file>.json    {"code" (ISO 3166-2), "name", ..., "universities": [...]}
+"""
 import csv
 import json
 import re
@@ -7,11 +12,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-CITIES_DIR = ROOT / "cities"
+COUNTRIES_DIR = ROOT / "countries"
 DIST = ROOT / "dist"
-COUNTRY = json.loads((ROOT / "country.json").read_text(encoding="utf-8"))
-EXPECTED_CITY_COUNT = 81
-TYPES = {"state", "foundation"}
+TYPES = {"state", "foundation", "private"}
 
 TR_MAP = str.maketrans("çğıöşüÇĞİÖŞÜâîûÂÎÛ", "cgiosuCGIOSUaiuAIU")
 
@@ -20,73 +23,103 @@ def slugify(text):
     return re.sub(r"[^a-z0-9]+", "-", text.translate(TR_MAP).lower()).strip("-")
 
 
-def load():
-    errors, cities = [], []
-    for path in sorted(CITIES_DIR.glob("*.json")):
-        city = json.loads(path.read_text(encoding="utf-8"))
-        cities.append(city)
+def load_country(folder):
+    errors = []
+    country = json.loads((folder / "country.json").read_text(encoding="utf-8"))
+    cc = country["code"]
+    if folder.name != cc.lower():
+        errors.append(f"{folder.name}: folder must match country code {cc}")
+
+    cities = [json.loads(p.read_text(encoding="utf-8")) for p in sorted((folder / "cities").glob("*.json"))]
+    if "city_count" in country and len(cities) != country["city_count"]:
+        errors.append(f"{cc}: expected {country['city_count']} cities, found {len(cities)}")
+
+    city_codes = [c["code"] for c in cities]
+    for dup in sorted({c for c in city_codes if city_codes.count(c) > 1}):
+        errors.append(f"{cc}: duplicate city code {dup}")
+
+    names = []
+    for city in cities:
+        if not city["code"].startswith(cc + "-"):
+            errors.append(f"{cc}: city code {city['code']} must start with {cc}-")
         for uni in city["universities"]:
+            names.append(uni["name"])
             if uni.get("type") not in TYPES:
                 errors.append(f"{city['name']}: {uni.get('name')} invalid type {uni.get('type')!r}")
             if not str(uni.get("website", "")).startswith("https://"):
                 errors.append(f"{city['name']}: {uni.get('name')} website must start with https://")
-
-    plates = [c["plate_code"] for c in cities]
-    if sorted(plates) != list(range(1, EXPECTED_CITY_COUNT + 1)):
-        missing = sorted(set(range(1, EXPECTED_CITY_COUNT + 1)) - set(plates))
-        dupes = sorted({p for p in plates if plates.count(p) > 1})
-        errors.append(f"plate codes wrong: missing={missing} duplicates={dupes}")
-
-    names = [u["name"] for c in cities for u in c["universities"]]
     for dup in sorted({n for n in names if names.count(n) > 1}):
-        errors.append(f"duplicate university: {dup}")
-    return sorted(cities, key=lambda c: c["plate_code"]), errors
+        errors.append(f"{cc}: duplicate university {dup}")
+
+    country["cities"] = cities
+    return country, errors
 
 
-def build(cities):
+def normalize(country):
+    """Add stable string ids and slugs; ids never depend on list order."""
+    cc = country["code"].lower()
+    cities = []
+    for c in sorted(country["cities"], key=lambda c: c["code"]):
+        unis = [{"id": f"{cc}-{slugify(u['name'])}", "name": u["name"], "slug": slugify(u["name"]),
+                 "type": u["type"], "website": u["website"]}
+                for u in sorted(c["universities"], key=lambda u: u["name"])]
+        extra = {k: v for k, v in c.items() if k not in ("code", "name", "universities")}
+        cities.append({"id": c["code"], "name": c["name"], "slug": slugify(c["name"]), **extra, "universities": unis})
+    meta = {k: v for k, v in country.items() if k not in ("cities", "city_count")}
+    return {**meta, "cities": cities}
+
+
+def dump(path, obj):
+    path.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def build(countries):
     DIST.mkdir(exist_ok=True)
-    uni_id = 0
-    out_cities, flat = [], []
-    for c in cities:
-        unis = []
-        for u in sorted(c["universities"], key=lambda u: u["name"]):
-            uni_id += 1
-            row = {"id": uni_id, "name": u["name"], "slug": slugify(u["name"]),
-                   "type": u["type"], "website": u["website"]}
-            unis.append(row)
-            flat.append({**row, "city_id": c["plate_code"], "city": c["name"]})
-        out_cities.append({"id": c["plate_code"], "plate_code": c["plate_code"], "name": c["name"],
-                           "slug": slugify(c["name"]), "region": c["region"], "universities": unis})
+    flat = []
+    summary = []
+    for country in countries:
+        dump(DIST / f"{country['code'].lower()}.json", country)
+        n = 0
+        for c in country["cities"]:
+            for u in c["universities"]:
+                n += 1
+                flat.append({**u, "city_id": c["id"], "city": c["name"], "country_code": country["code"]})
+        summary.append({"code": country["code"], "name": country["name"], "name_en": country["name_en"],
+                        "city_count": len(country["cities"]), "university_count": n})
 
-    def dump(name, obj):
-        (DIST / name).write_text(json.dumps(obj, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-
-    dump("turkey.json", {"country": COUNTRY, "cities": out_cities})
-    dump("cities.json", [{k: v for k, v in c.items() if k != "universities"} for c in out_cities])
-    dump("universities.json", flat)
+    dump(DIST / "countries.json", summary)
+    dump(DIST / "world.json", {"countries": countries})
 
     with open(DIST / "universities.csv", "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=["id", "name", "slug", "type", "website", "city_id", "city"])
+        w = csv.DictWriter(f, fieldnames=["id", "name", "slug", "type", "website", "city_id", "city", "country_code"])
         w.writeheader()
         w.writerows(flat)
 
     q = lambda s: "'" + str(s).replace("'", "''") + "'"
     sql = [
         "-- Generated by scripts/build.py",
-        "CREATE TABLE IF NOT EXISTS cities (id INTEGER PRIMARY KEY, name VARCHAR(64) NOT NULL, slug VARCHAR(64) NOT NULL, region VARCHAR(64) NOT NULL);",
-        "CREATE TABLE IF NOT EXISTS universities (id INTEGER PRIMARY KEY, city_id INTEGER NOT NULL REFERENCES cities(id), name VARCHAR(255) NOT NULL, slug VARCHAR(255) NOT NULL, type VARCHAR(16) NOT NULL, website VARCHAR(255));",
+        "CREATE TABLE IF NOT EXISTS countries (code CHAR(2) PRIMARY KEY, name VARCHAR(128) NOT NULL, name_en VARCHAR(128) NOT NULL);",
+        "CREATE TABLE IF NOT EXISTS cities (id VARCHAR(16) PRIMARY KEY, country_code CHAR(2) NOT NULL REFERENCES countries(code), name VARCHAR(128) NOT NULL, slug VARCHAR(128) NOT NULL);",
+        "CREATE TABLE IF NOT EXISTS universities (id VARCHAR(255) PRIMARY KEY, city_id VARCHAR(16) NOT NULL REFERENCES cities(id), name VARCHAR(255) NOT NULL, slug VARCHAR(255) NOT NULL, type VARCHAR(16) NOT NULL, website VARCHAR(255));",
     ]
-    sql += [f"INSERT INTO cities VALUES ({c['id']}, {q(c['name'])}, {q(c['slug'])}, {q(c['region'])});" for c in out_cities]
-    sql += [f"INSERT INTO universities VALUES ({u['id']}, {u['city_id']}, {q(u['name'])}, {q(u['slug'])}, {q(u['type'])}, {q(u['website'])});" for u in flat]
-    (DIST / "turkey.sql").write_text("\n".join(sql) + "\n", encoding="utf-8")
-    return flat
+    for country in countries:
+        sql.append(f"INSERT INTO countries VALUES ({q(country['code'])}, {q(country['name'])}, {q(country['name_en'])});")
+        sql += [f"INSERT INTO cities VALUES ({q(c['id'])}, {q(country['code'])}, {q(c['name'])}, {q(c['slug'])});"
+                for c in country["cities"]]
+    sql += [f"INSERT INTO universities VALUES ({q(u['id'])}, {q(u['city_id'])}, {q(u['name'])}, {q(u['slug'])}, {q(u['type'])}, {q(u['website'])});"
+            for u in flat]
+    (DIST / "world.sql").write_text("\n".join(sql) + "\n", encoding="utf-8")
+    return summary
 
 
 if __name__ == "__main__":
-    cities, errors = load()
+    countries, errors = [], []
+    for folder in sorted(p for p in COUNTRIES_DIR.iterdir() if p.is_dir()):
+        country, errs = load_country(folder)
+        errors += errs
+        countries.append(normalize(country))
     if errors:
         print("\n".join(errors))
         sys.exit(1)
-    flat = build(cities)
-    state = sum(u["type"] == "state" for u in flat)
-    print(f"OK: {len(cities)} cities, {len(flat)} universities ({state} state, {len(flat) - state} foundation)")
+    for s in build(countries):
+        print(f"OK {s['code']}: {s['city_count']} cities, {s['university_count']} universities")

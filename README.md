@@ -1,65 +1,59 @@
-# Turkey Cities & Universities
+# World Cities & Universities
 
-Form yapılarında (kayıt, başvuru, profil formları vb.) kullanılmak üzere **Türkiye'nin 81 ili ve her ildeki üniversitelerin** hazır veri seti.
+Form yapılarında (kayıt, başvuru, profil formları vb.) kullanılmak üzere **ülke → şehir → üniversite** hiyerarşisinde açık veri seti.
 
-A ready-to-use dataset of **Turkey's 81 provinces and the universities in each**, for cascading form selects (country → city → university).
+An open dataset of **countries → cities → universities** for cascading form selects.
 
-`Ülke → Şehir → Üniversite`
+## Ülkeler / Countries
 
-**81 il · 205 üniversite** (131 devlet, 74 vakıf) — askeri/güvenlik akademileri dahil, meslek yüksekokulları hariç.
+| Ülke | Kod | Şehir | Üniversite | Dosya |
+|---|---|---|---|---|
+| 🇹🇷 Türkiye | TR | 81 | 205 | [`dist/tr.json`](dist/tr.json) |
+
+Yeni ülkeler eklenmeye devam ediyor. / More countries coming.
 
 ## Klasör Yapısı / Structure
 
 ```
-turkey-cities-universities/
-├── country.json              ← Ülke (Türkiye)
-├── cities/                   ← Şehirler (her il ayrı dosya, plaka koduna göre)
-│   ├── 01-adana.json         ← Adana ve Adana'daki üniversiteler
-│   ├── 06-ankara.json
-│   ├── 34-istanbul.json
-│   └── ...                   (81 il)
-├── dist/                     ← Hazır kullanım dosyaları (otomatik üretilir)
+world-cities-universities/
+├── countries/
+│   └── tr/                          ← Ülke
+│       ├── country.json
+│       └── cities/                  ← Şehirler (her şehir ayrı dosya)
+│           ├── 01-adana.json        ← Şehir + o şehirdeki üniversiteler
+│           ├── 06-ankara.json
+│           └── ...
+├── dist/                            ← Hazır kullanım dosyaları (otomatik üretilir)
 └── scripts/build.py
-```
-
-Her şehir dosyası / Each city file:
-
-```json
-{
-  "plate_code": 1,
-  "name": "Adana",
-  "region": "Akdeniz",
-  "universities": [
-    { "name": "Çukurova Üniversitesi", "type": "state", "website": "https://www.cu.edu.tr" }
-  ]
-}
 ```
 
 ## Hazır Dosyalar / Files
 
 | Dosya | Açıklama |
 |---|---|
-| [`dist/turkey.json`](dist/turkey.json) | İç içe yapı: ülke → iller → üniversiteler |
-| [`dist/cities.json`](dist/cities.json) | Sadece iller (plaka kodu, ad, slug, bölge) |
-| [`dist/universities.json`](dist/universities.json) | Düz üniversite listesi (`city_id` ile) |
-| [`dist/universities.csv`](dist/universities.csv) | CSV formatı |
-| [`dist/turkey.sql`](dist/turkey.sql) | `cities` ve `universities` tabloları + INSERT'ler |
+| [`dist/countries.json`](dist/countries.json) | Ülke listesi (şehir ve üniversite sayılarıyla) |
+| `dist/<ülke-kodu>.json` | Tek ülke: şehirler → üniversiteler (ör. [`dist/tr.json`](dist/tr.json)) |
+| [`dist/world.json`](dist/world.json) | Tüm ülkeler tek dosyada |
+| [`dist/universities.csv`](dist/universities.csv) | Tüm üniversiteler, düz CSV |
+| [`dist/world.sql`](dist/world.sql) | `countries`, `cities`, `universities` tabloları + INSERT'ler |
 
 ## Veri Yapısı / Schema
 
 ```json
 {
-  "country": { "code": "TR", "name": "Türkiye", "name_en": "Turkey" },
+  "code": "TR",
+  "name": "Türkiye",
+  "name_en": "Turkey",
   "cities": [
     {
-      "id": 6,
-      "plate_code": 6,
+      "id": "TR-06",
       "name": "Ankara",
       "slug": "ankara",
+      "plate_code": 6,
       "region": "İç Anadolu",
       "universities": [
         {
-          "id": 12,
+          "id": "tr-ankara-universitesi",
           "name": "Ankara Üniversitesi",
           "slug": "ankara-universitesi",
           "type": "state",
@@ -71,39 +65,50 @@ Her şehir dosyası / Each city file:
 }
 ```
 
-- `id` (şehir) = plaka kodu
-- `type`: `state` (devlet) veya `foundation` (vakıf)
+- Şehir `id`: [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) kodu (ör. `TR-06`)
+- Üniversite `id`: `<ülke>-<slug>` — sabittir, liste değişse de değişmez; formlarda değer olarak güvenle kaydedilebilir
+- `type`: `state` (devlet), `foundation` (vakıf) veya `private` (özel)
+- Ülkeye özel ek alanlar olabilir (ör. Türkiye için `plate_code`, `region`)
 
 ## Kullanım / Usage
 
 **JavaScript (fetch)**
 
 ```js
-const url = "https://raw.githubusercontent.com/cekubal/turkey-cities-universities/main/dist/turkey.json";
-const { cities } = await (await fetch(url)).json();
+const base = "https://raw.githubusercontent.com/cekubal/world-cities-universities/main/dist";
 
-citySelect.innerHTML = cities.map(c => `<option value="${c.id}">${c.name}</option>`).join("");
-citySelect.onchange = () => {
-  const city = cities.find(c => c.id == citySelect.value);
-  uniSelect.innerHTML = city.universities.map(u => `<option value="${u.id}">${u.name}</option>`).join("");
+const countries = await (await fetch(`${base}/countries.json`)).json();
+countrySelect.innerHTML = countries.map(c => `<option value="${c.code}">${c.name}</option>`).join("");
+
+countrySelect.onchange = async () => {
+  const { cities } = await (await fetch(`${base}/${countrySelect.value.toLowerCase()}.json`)).json();
+  citySelect.innerHTML = cities.map(c => `<option value="${c.id}">${c.name}</option>`).join("");
+  citySelect.onchange = () => {
+    const city = cities.find(c => c.id === citySelect.value);
+    uniSelect.innerHTML = city.universities.map(u => `<option value="${u.id}">${u.name}</option>`).join("");
+  };
 };
 ```
 
 **SQL**
 
 ```bash
-sqlite3 app.db < dist/turkey.sql
+sqlite3 app.db < dist/world.sql
 ```
 
 ## Katkı / Contributing
 
-Kaynak veri `cities/` altındaki il dosyalarındadır. `dist/` klasörü otomatik üretilir — doğrudan düzenlemeyin.
+Kaynak veri `countries/<ülke-kodu>/cities/` altındaki şehir dosyalarındadır. `dist/` otomatik üretilir — doğrudan düzenlemeyin.
 
-1. İlgili il dosyasını düzenleyin (ör. `cities/34-istanbul.json`)
+1. İlgili şehir dosyasını düzenleyin (ör. `countries/tr/cities/34-istanbul.json`)
 2. `python3 scripts/build.py` çalıştırın (doğrulama + `dist/` üretimi)
 3. Pull request açın
 
-Eksik, kapanmış veya adı değişmiş bir üniversite görürseniz issue açabilirsiniz. Güncel resmi liste için: [YÖK Atlas](https://yokatlas.yok.gov.tr) / [YÖK](https://www.yok.gov.tr).
+Eksik, kapanmış veya adı değişmiş bir üniversite görürseniz issue açabilirsiniz.
+
+## Kaynaklar / Sources
+
+- Türkiye: [YÖK](https://www.yok.gov.tr), [Vikipedi – Türkiye'deki üniversiteler listesi](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_%C3%BCniversiteler_listesi)
 
 ## Lisans / License
 

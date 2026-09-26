@@ -1,0 +1,18 @@
+{
+  "code": "TR-54",
+  "plate_code": 54,
+  "name": "Sakarya",
+  "region": "Marmara",
+  "universities": [
+    {
+      "name": "Sakarya Uygulamalı Bilimler Üniversitesi",
+      "type": "state",
+      "website": "https://www.subu.edu.tr"
+    },
+    {
+      "name": "Sakarya Üniversitesi",
+      "type": "state",
+      "website": "https://www.sakarya.edu.tr"
+    }
+  ]
+}

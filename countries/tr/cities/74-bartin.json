@@ -1,0 +1,13 @@
+{
+  "code": "TR-74",
+  "plate_code": 74,
+  "name": "Bartın",
+  "region": "Karadeniz",
+  "universities": [
+    {
+      "name": "Bartın Üniversitesi",
+      "type": "state",
+      "website": "https://www.bartin.edu.tr"
+    }
+  ]
+}

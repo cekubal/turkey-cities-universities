@@ -1,0 +1,13 @@
+{
+  "code": "TR-70",
+  "plate_code": 70,
+  "name": "Karaman",
+  "region": "İç Anadolu",
+  "universities": [
+    {
+      "name": "Karamanoğlu Mehmetbey Üniversitesi",
+      "type": "state",
+      "website": "https://www.kmu.edu.tr"
+    }
+  ]
+}

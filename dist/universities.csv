@@ -1,206 +1,206 @@
-id,name,slug,type,website,city_id,city
-1,Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi,adana-alparslan-turkes-bilim-ve-teknoloji-universitesi,state,https://www.atu.edu.tr,1,Adana
-2,Çukurova Üniversitesi,cukurova-universitesi,state,https://www.cu.edu.tr,1,Adana
-3,Adıyaman Üniversitesi,adiyaman-universitesi,state,https://www.adiyaman.edu.tr,2,Adıyaman
-4,Afyon Kocatepe Üniversitesi,afyon-kocatepe-universitesi,state,https://www.aku.edu.tr,3,Afyonkarahisar
-5,Afyonkarahisar Sağlık Bilimleri Üniversitesi,afyonkarahisar-saglik-bilimleri-universitesi,state,https://www.afsu.edu.tr,3,Afyonkarahisar
-6,Ağrı İbrahim Çeçen Üniversitesi,agri-ibrahim-cecen-universitesi,state,https://www.agri.edu.tr,4,Ağrı
-7,Amasya Üniversitesi,amasya-universitesi,state,https://www.amasya.edu.tr,5,Amasya
-8,Ankara Bilim Üniversitesi,ankara-bilim-universitesi,foundation,https://www.ankarabilim.edu.tr,6,Ankara
-9,Ankara Hacı Bayram Veli Üniversitesi,ankara-haci-bayram-veli-universitesi,state,https://www.hbv.edu.tr,6,Ankara
-10,Ankara Medipol Üniversitesi,ankara-medipol-universitesi,foundation,https://www.ankaramedipol.edu.tr,6,Ankara
-11,Ankara Müzik ve Güzel Sanatlar Üniversitesi,ankara-muzik-ve-guzel-sanatlar-universitesi,state,https://www.mgu.edu.tr,6,Ankara
-12,Ankara Sosyal Bilimler Üniversitesi,ankara-sosyal-bilimler-universitesi,state,https://www.asbu.edu.tr,6,Ankara
-13,Ankara Yıldırım Beyazıt Üniversitesi,ankara-yildirim-beyazit-universitesi,state,https://www.aybu.edu.tr,6,Ankara
-14,Ankara Üniversitesi,ankara-universitesi,state,https://www.ankara.edu.tr,6,Ankara
-15,Atılım Üniversitesi,atilim-universitesi,foundation,https://www.atilim.edu.tr,6,Ankara
-16,Başkent Üniversitesi,baskent-universitesi,foundation,https://www.baskent.edu.tr,6,Ankara
-17,Gazi Üniversitesi,gazi-universitesi,state,https://www.gazi.edu.tr,6,Ankara
-18,Hacettepe Üniversitesi,hacettepe-universitesi,state,https://www.hacettepe.edu.tr,6,Ankara
-19,Jandarma ve Sahil Güvenlik Akademisi,jandarma-ve-sahil-guvenlik-akademisi,state,https://www.jsga.edu.tr,6,Ankara
-20,Lokman Hekim Üniversitesi,lokman-hekim-universitesi,foundation,https://www.lokmanhekim.edu.tr,6,Ankara
-21,Orta Doğu Teknik Üniversitesi,orta-dogu-teknik-universitesi,state,https://www.metu.edu.tr,6,Ankara
-22,Ostim Teknik Üniversitesi,ostim-teknik-universitesi,foundation,https://www.ostimteknik.edu.tr,6,Ankara
-23,Polis Akademisi,polis-akademisi,state,https://www.pa.edu.tr,6,Ankara
-24,TED Üniversitesi,ted-universitesi,foundation,https://www.tedu.edu.tr,6,Ankara
-25,TOBB Ekonomi ve Teknoloji Üniversitesi,tobb-ekonomi-ve-teknoloji-universitesi,foundation,https://www.etu.edu.tr,6,Ankara
-26,Türk Hava Kurumu Üniversitesi,turk-hava-kurumu-universitesi,foundation,https://www.thk.edu.tr,6,Ankara
-27,Ufuk Üniversitesi,ufuk-universitesi,foundation,https://www.ufuk.edu.tr,6,Ankara
-28,Yüksek İhtisas Üniversitesi,yuksek-ihtisas-universitesi,foundation,https://www.yuksekihtisasuniversitesi.edu.tr,6,Ankara
-29,Çankaya Üniversitesi,cankaya-universitesi,foundation,https://www.cankaya.edu.tr,6,Ankara
-30,İhsan Doğramacı Bilkent Üniversitesi,ihsan-dogramaci-bilkent-universitesi,foundation,https://www.bilkent.edu.tr,6,Ankara
-31,Akdeniz Üniversitesi,akdeniz-universitesi,state,https://www.akdeniz.edu.tr,7,Antalya
-32,Alanya Alaaddin Keykubat Üniversitesi,alanya-alaaddin-keykubat-universitesi,state,https://www.alanya.edu.tr,7,Antalya
-33,Alanya Üniversitesi,alanya-universitesi,foundation,https://www.alanyauniversity.edu.tr,7,Antalya
-34,Antalya Belek Üniversitesi,antalya-belek-universitesi,foundation,https://www.belek.edu.tr,7,Antalya
-35,Antalya Bilim Üniversitesi,antalya-bilim-universitesi,foundation,https://www.antalya.edu.tr,7,Antalya
-36,Artvin Çoruh Üniversitesi,artvin-coruh-universitesi,state,https://www.artvin.edu.tr,8,Artvin
-37,Aydın Adnan Menderes Üniversitesi,aydin-adnan-menderes-universitesi,state,https://www.adu.edu.tr,9,Aydın
-38,Balıkesir Üniversitesi,balikesir-universitesi,state,https://www.balikesir.edu.tr,10,Balıkesir
-39,Bandırma Onyedi Eylül Üniversitesi,bandirma-onyedi-eylul-universitesi,state,https://www.bandirma.edu.tr,10,Balıkesir
-40,Bilecik Şeyh Edebali Üniversitesi,bilecik-seyh-edebali-universitesi,state,https://www.bilecik.edu.tr,11,Bilecik
-41,Bingöl Üniversitesi,bingol-universitesi,state,https://www.bingol.edu.tr,12,Bingöl
-42,Bitlis Eren Üniversitesi,bitlis-eren-universitesi,state,https://www.beu.edu.tr,13,Bitlis
-43,Bolu Abant İzzet Baysal Üniversitesi,bolu-abant-izzet-baysal-universitesi,state,https://www.ibu.edu.tr,14,Bolu
-44,Burdur Mehmet Akif Ersoy Üniversitesi,burdur-mehmet-akif-ersoy-universitesi,state,https://www.mehmetakif.edu.tr,15,Burdur
-45,Bursa Teknik Üniversitesi,bursa-teknik-universitesi,state,https://www.btu.edu.tr,16,Bursa
-46,Bursa Uludağ Üniversitesi,bursa-uludag-universitesi,state,https://www.uludag.edu.tr,16,Bursa
-47,Mudanya Üniversitesi,mudanya-universitesi,foundation,https://www.mudanya.edu.tr,16,Bursa
-48,Çanakkale Onsekiz Mart Üniversitesi,canakkale-onsekiz-mart-universitesi,state,https://www.comu.edu.tr,17,Çanakkale
-49,Çankırı Karatekin Üniversitesi,cankiri-karatekin-universitesi,state,https://www.karatekin.edu.tr,18,Çankırı
-50,Hitit Üniversitesi,hitit-universitesi,state,https://www.hitit.edu.tr,19,Çorum
-51,Pamukkale Üniversitesi,pamukkale-universitesi,state,https://www.pau.edu.tr,20,Denizli
-52,Dicle Üniversitesi,dicle-universitesi,state,https://www.dicle.edu.tr,21,Diyarbakır
-53,Trakya Üniversitesi,trakya-universitesi,state,https://www.trakya.edu.tr,22,Edirne
-54,Fırat Üniversitesi,firat-universitesi,state,https://www.firat.edu.tr,23,Elazığ
-55,Erzincan Binali Yıldırım Üniversitesi,erzincan-binali-yildirim-universitesi,state,https://www.erzincan.edu.tr,24,Erzincan
-56,Atatürk Üniversitesi,ataturk-universitesi,state,https://www.atauni.edu.tr,25,Erzurum
-57,Erzurum Teknik Üniversitesi,erzurum-teknik-universitesi,state,https://www.erzurum.edu.tr,25,Erzurum
-58,Anadolu Üniversitesi,anadolu-universitesi,state,https://www.anadolu.edu.tr,26,Eskişehir
-59,Eskişehir Osmangazi Üniversitesi,eskisehir-osmangazi-universitesi,state,https://www.ogu.edu.tr,26,Eskişehir
-60,Eskişehir Teknik Üniversitesi,eskisehir-teknik-universitesi,state,https://www.eskisehir.edu.tr,26,Eskişehir
-61,Gaziantep Üniversitesi,gaziantep-universitesi,state,https://www.gantep.edu.tr,27,Gaziantep
-62,Gaziantep İslam Bilim ve Teknoloji Üniversitesi,gaziantep-islam-bilim-ve-teknoloji-universitesi,state,https://www.gibtu.edu.tr,27,Gaziantep
-63,Hasan Kalyoncu Üniversitesi,hasan-kalyoncu-universitesi,foundation,https://www.hku.edu.tr,27,Gaziantep
-64,SANKO Üniversitesi,sanko-universitesi,foundation,https://www.sanko.edu.tr,27,Gaziantep
-65,Giresun Üniversitesi,giresun-universitesi,state,https://www.giresun.edu.tr,28,Giresun
-66,Gümüşhane Üniversitesi,gumushane-universitesi,state,https://www.gumushane.edu.tr,29,Gümüşhane
-67,Hakkari Üniversitesi,hakkari-universitesi,state,https://www.hakkari.edu.tr,30,Hakkari
-68,Hatay Mustafa Kemal Üniversitesi,hatay-mustafa-kemal-universitesi,state,https://www.mku.edu.tr,31,Hatay
-69,İskenderun Teknik Üniversitesi,iskenderun-teknik-universitesi,state,https://www.iste.edu.tr,31,Hatay
-70,Isparta Uygulamalı Bilimler Üniversitesi,isparta-uygulamali-bilimler-universitesi,state,https://www.isparta.edu.tr,32,Isparta
-71,Süleyman Demirel Üniversitesi,suleyman-demirel-universitesi,state,https://www.sdu.edu.tr,32,Isparta
-72,Mersin Üniversitesi,mersin-universitesi,state,https://www.mersin.edu.tr,33,Mersin
-73,Tarsus Üniversitesi,tarsus-universitesi,state,https://www.tarsus.edu.tr,33,Mersin
-74,Toros Üniversitesi,toros-universitesi,foundation,https://www.toros.edu.tr,33,Mersin
-75,Çağ Üniversitesi,cag-universitesi,foundation,https://www.cag.edu.tr,33,Mersin
-76,Acıbadem Mehmet Ali Aydınlar Üniversitesi,acibadem-mehmet-ali-aydinlar-universitesi,foundation,https://www.acibadem.edu.tr,34,İstanbul
-77,Altınbaş Üniversitesi,altinbas-universitesi,foundation,https://www.altinbas.edu.tr,34,İstanbul
-78,Bahçeşehir Üniversitesi,bahcesehir-universitesi,foundation,https://www.bau.edu.tr,34,İstanbul
-79,Beykoz Üniversitesi,beykoz-universitesi,foundation,https://www.beykoz.edu.tr,34,İstanbul
-80,Bezmiâlem Vakıf Üniversitesi,bezmialem-vakif-universitesi,foundation,https://www.bezmialem.edu.tr,34,İstanbul
-81,Biruni Üniversitesi,biruni-universitesi,foundation,https://www.biruni.edu.tr,34,İstanbul
-82,Boğaziçi Üniversitesi,bogazici-universitesi,state,https://www.boun.edu.tr,34,İstanbul
-83,Demiroğlu Bilim Üniversitesi,demiroglu-bilim-universitesi,foundation,https://demiroglu.bilim.edu.tr,34,İstanbul
-84,Doğuş Üniversitesi,dogus-universitesi,foundation,https://www.dogus.edu.tr,34,İstanbul
-85,Fatih Sultan Mehmet Vakıf Üniversitesi,fatih-sultan-mehmet-vakif-universitesi,foundation,https://www.fsm.edu.tr,34,İstanbul
-86,Fenerbahçe Üniversitesi,fenerbahce-universitesi,foundation,https://www.fbu.edu.tr,34,İstanbul
-87,Galatasaray Üniversitesi,galatasaray-universitesi,state,https://www.gsu.edu.tr,34,İstanbul
-88,Haliç Üniversitesi,halic-universitesi,foundation,https://www.halic.edu.tr,34,İstanbul
-89,Işık Üniversitesi,isik-universitesi,foundation,https://www.isikun.edu.tr,34,İstanbul
-90,Kadir Has Üniversitesi,kadir-has-universitesi,foundation,https://www.khas.edu.tr,34,İstanbul
-91,Koç Üniversitesi,koc-universitesi,foundation,https://www.ku.edu.tr,34,İstanbul
-92,MEF Üniversitesi,mef-universitesi,foundation,https://www.mef.edu.tr,34,İstanbul
-93,Maltepe Üniversitesi,maltepe-universitesi,foundation,https://www.maltepe.edu.tr,34,İstanbul
-94,Marmara Üniversitesi,marmara-universitesi,state,https://www.marmara.edu.tr,34,İstanbul
-95,Milli Savunma Üniversitesi,milli-savunma-universitesi,state,https://www.msu.edu.tr,34,İstanbul
-96,Mimar Sinan Güzel Sanatlar Üniversitesi,mimar-sinan-guzel-sanatlar-universitesi,state,https://www.msgsu.edu.tr,34,İstanbul
-97,Piri Reis Üniversitesi,piri-reis-universitesi,foundation,https://www.pirireis.edu.tr,34,İstanbul
-98,Sabancı Üniversitesi,sabanci-universitesi,foundation,https://www.sabanciuniv.edu,34,İstanbul
-99,Sağlık Bilimleri Üniversitesi,saglik-bilimleri-universitesi,state,https://www.sbu.edu.tr,34,İstanbul
-100,Türk-Alman Üniversitesi,turk-alman-universitesi,state,https://www.tau.edu.tr,34,İstanbul
-101,Türk-Japon Bilim ve Teknoloji Üniversitesi,turk-japon-bilim-ve-teknoloji-universitesi,state,https://tju.edu.tr,34,İstanbul
-102,Yeditepe Üniversitesi,yeditepe-universitesi,foundation,https://www.yeditepe.edu.tr,34,İstanbul
-103,Yıldız Teknik Üniversitesi,yildiz-teknik-universitesi,state,https://www.yildiz.edu.tr,34,İstanbul
-104,Özyeğin Üniversitesi,ozyegin-universitesi,foundation,https://www.ozyegin.edu.tr,34,İstanbul
-105,Üsküdar Üniversitesi,uskudar-universitesi,foundation,https://www.uskudar.edu.tr,34,İstanbul
-106,İbn Haldun Üniversitesi,ibn-haldun-universitesi,foundation,https://www.ihu.edu.tr,34,İstanbul
-107,İstanbul 29 Mayıs Üniversitesi,istanbul-29-mayis-universitesi,foundation,https://www.29mayis.edu.tr,34,İstanbul
-108,İstanbul Arel Üniversitesi,istanbul-arel-universitesi,foundation,https://www.arel.edu.tr,34,İstanbul
-109,İstanbul Atlas Üniversitesi,istanbul-atlas-universitesi,foundation,https://www.atlas.edu.tr,34,İstanbul
-110,İstanbul Aydın Üniversitesi,istanbul-aydin-universitesi,foundation,https://www.aydin.edu.tr,34,İstanbul
-111,İstanbul Beykent Üniversitesi,istanbul-beykent-universitesi,foundation,https://www.beykent.edu.tr,34,İstanbul
-112,İstanbul Bilgi Üniversitesi,istanbul-bilgi-universitesi,foundation,https://www.bilgi.edu.tr,34,İstanbul
-113,İstanbul Esenyurt Üniversitesi,istanbul-esenyurt-universitesi,foundation,https://www.esenyurt.edu.tr,34,İstanbul
-114,İstanbul Galata Üniversitesi,istanbul-galata-universitesi,foundation,https://www.galata.edu.tr,34,İstanbul
-115,İstanbul Gedik Üniversitesi,istanbul-gedik-universitesi,foundation,https://www.gedik.edu.tr,34,İstanbul
-116,İstanbul Gelişim Üniversitesi,istanbul-gelisim-universitesi,foundation,https://www.gelisim.edu.tr,34,İstanbul
-117,İstanbul Kent Üniversitesi,istanbul-kent-universitesi,foundation,https://www.kent.edu.tr,34,İstanbul
-118,İstanbul Kültür Üniversitesi,istanbul-kultur-universitesi,foundation,https://www.iku.edu.tr,34,İstanbul
-119,İstanbul Medeniyet Üniversitesi,istanbul-medeniyet-universitesi,state,https://www.medeniyet.edu.tr,34,İstanbul
-120,İstanbul Medipol Üniversitesi,istanbul-medipol-universitesi,foundation,https://www.medipol.edu.tr,34,İstanbul
-121,İstanbul Nişantaşı Üniversitesi,istanbul-nisantasi-universitesi,foundation,https://www.nisantasi.edu.tr,34,İstanbul
-122,İstanbul Okan Üniversitesi,istanbul-okan-universitesi,foundation,https://www.okan.edu.tr,34,İstanbul
-123,İstanbul Rumeli Üniversitesi,istanbul-rumeli-universitesi,foundation,https://www.rumeli.edu.tr,34,İstanbul
-124,İstanbul Sabahattin Zaim Üniversitesi,istanbul-sabahattin-zaim-universitesi,foundation,https://www.izu.edu.tr,34,İstanbul
-125,İstanbul Sağlık ve Teknoloji Üniversitesi,istanbul-saglik-ve-teknoloji-universitesi,foundation,https://www.istun.edu.tr,34,İstanbul
-126,İstanbul Teknik Üniversitesi,istanbul-teknik-universitesi,state,https://www.itu.edu.tr,34,İstanbul
-127,İstanbul Ticaret Üniversitesi,istanbul-ticaret-universitesi,foundation,https://www.ticaret.edu.tr,34,İstanbul
-128,İstanbul Topkapı Üniversitesi,istanbul-topkapi-universitesi,foundation,https://www.topkapi.edu.tr,34,İstanbul
-129,İstanbul Yeni Yüzyıl Üniversitesi,istanbul-yeni-yuzyil-universitesi,foundation,https://www.yeniyuzyil.edu.tr,34,İstanbul
-130,İstanbul Üniversitesi,istanbul-universitesi,state,https://www.istanbul.edu.tr,34,İstanbul
-131,İstanbul Üniversitesi-Cerrahpaşa,istanbul-universitesi-cerrahpasa,state,https://www.iuc.edu.tr,34,İstanbul
-132,İstinye Üniversitesi,istinye-universitesi,foundation,https://www.istinye.edu.tr,34,İstanbul
-133,Dokuz Eylül Üniversitesi,dokuz-eylul-universitesi,state,https://www.deu.edu.tr,35,İzmir
-134,Ege Üniversitesi,ege-universitesi,state,https://www.ege.edu.tr,35,İzmir
-135,Yaşar Üniversitesi,yasar-universitesi,foundation,https://www.yasar.edu.tr,35,İzmir
-136,İzmir Bakırçay Üniversitesi,izmir-bakircay-universitesi,state,https://www.bakircay.edu.tr,35,İzmir
-137,İzmir Demokrasi Üniversitesi,izmir-demokrasi-universitesi,state,https://www.idu.edu.tr,35,İzmir
-138,İzmir Ekonomi Üniversitesi,izmir-ekonomi-universitesi,foundation,https://www.ieu.edu.tr,35,İzmir
-139,İzmir Katip Çelebi Üniversitesi,izmir-katip-celebi-universitesi,state,https://www.ikcu.edu.tr,35,İzmir
-140,İzmir Tınaztepe Üniversitesi,izmir-tinaztepe-universitesi,foundation,https://www.tinaztepe.edu.tr,35,İzmir
-141,İzmir Yüksek Teknoloji Enstitüsü,izmir-yuksek-teknoloji-enstitusu,state,https://www.iyte.edu.tr,35,İzmir
-142,Kafkas Üniversitesi,kafkas-universitesi,state,https://www.kafkas.edu.tr,36,Kars
-143,Kastamonu Üniversitesi,kastamonu-universitesi,state,https://www.kastamonu.edu.tr,37,Kastamonu
-144,Abdullah Gül Üniversitesi,abdullah-gul-universitesi,state,https://www.agu.edu.tr,38,Kayseri
-145,Erciyes Üniversitesi,erciyes-universitesi,state,https://www.erciyes.edu.tr,38,Kayseri
-146,Kayseri Üniversitesi,kayseri-universitesi,state,https://www.kayseri.edu.tr,38,Kayseri
-147,Nuh Naci Yazgan Üniversitesi,nuh-naci-yazgan-universitesi,foundation,https://www.nny.edu.tr,38,Kayseri
-148,Kırklareli Üniversitesi,kirklareli-universitesi,state,https://www.klu.edu.tr,39,Kırklareli
-149,Kırşehir Ahi Evran Üniversitesi,kirsehir-ahi-evran-universitesi,state,https://www.ahievran.edu.tr,40,Kırşehir
-150,Gebze Teknik Üniversitesi,gebze-teknik-universitesi,state,https://www.gtu.edu.tr,41,Kocaeli
-151,Kocaeli Sağlık ve Teknoloji Üniversitesi,kocaeli-saglik-ve-teknoloji-universitesi,foundation,https://www.kocaelisaglik.edu.tr,41,Kocaeli
-152,Kocaeli Üniversitesi,kocaeli-universitesi,state,https://www.kocaeli.edu.tr,41,Kocaeli
-153,KTO Karatay Üniversitesi,kto-karatay-universitesi,foundation,https://www.karatay.edu.tr,42,Konya
-154,Konya Gıda ve Tarım Üniversitesi,konya-gida-ve-tarim-universitesi,foundation,https://www.gidatarim.edu.tr,42,Konya
-155,Konya Teknik Üniversitesi,konya-teknik-universitesi,state,https://www.ktun.edu.tr,42,Konya
-156,Necmettin Erbakan Üniversitesi,necmettin-erbakan-universitesi,state,https://www.erbakan.edu.tr,42,Konya
-157,Selçuk Üniversitesi,selcuk-universitesi,state,https://www.selcuk.edu.tr,42,Konya
-158,Kütahya Dumlupınar Üniversitesi,kutahya-dumlupinar-universitesi,state,https://www.dpu.edu.tr,43,Kütahya
-159,Kütahya Sağlık Bilimleri Üniversitesi,kutahya-saglik-bilimleri-universitesi,state,https://www.ksbu.edu.tr,43,Kütahya
-160,Malatya Turgut Özal Üniversitesi,malatya-turgut-ozal-universitesi,state,https://www.ozal.edu.tr,44,Malatya
-161,İnönü Üniversitesi,inonu-universitesi,state,https://www.inonu.edu.tr,44,Malatya
-162,Manisa Celal Bayar Üniversitesi,manisa-celal-bayar-universitesi,state,https://www.cbu.edu.tr,45,Manisa
-163,Kahramanmaraş Sütçü İmam Üniversitesi,kahramanmaras-sutcu-imam-universitesi,state,https://www.ksu.edu.tr,46,Kahramanmaraş
-164,Kahramanmaraş İstiklal Üniversitesi,kahramanmaras-istiklal-universitesi,state,https://www.istiklal.edu.tr,46,Kahramanmaraş
-165,Mardin Artuklu Üniversitesi,mardin-artuklu-universitesi,state,https://www.artuklu.edu.tr,47,Mardin
-166,Muğla Sıtkı Koçman Üniversitesi,mugla-sitki-kocman-universitesi,state,https://www.mu.edu.tr,48,Muğla
-167,Muş Alparslan Üniversitesi,mus-alparslan-universitesi,state,https://www.alparslan.edu.tr,49,Muş
-168,Kapadokya Üniversitesi,kapadokya-universitesi,foundation,https://kapadokya.edu.tr,50,Nevşehir
-169,Nevşehir Hacı Bektaş Veli Üniversitesi,nevsehir-haci-bektas-veli-universitesi,state,https://www.nevsehir.edu.tr,50,Nevşehir
-170,Niğde Ömer Halisdemir Üniversitesi,nigde-omer-halisdemir-universitesi,state,https://www.ohu.edu.tr,51,Niğde
-171,Ordu Üniversitesi,ordu-universitesi,state,https://www.odu.edu.tr,52,Ordu
-172,Recep Tayyip Erdoğan Üniversitesi,recep-tayyip-erdogan-universitesi,state,https://www.erdogan.edu.tr,53,Rize
-173,Sakarya Uygulamalı Bilimler Üniversitesi,sakarya-uygulamali-bilimler-universitesi,state,https://www.subu.edu.tr,54,Sakarya
-174,Sakarya Üniversitesi,sakarya-universitesi,state,https://www.sakarya.edu.tr,54,Sakarya
-175,Ondokuz Mayıs Üniversitesi,ondokuz-mayis-universitesi,state,https://www.omu.edu.tr,55,Samsun
-176,Samsun Üniversitesi,samsun-universitesi,state,https://www.samsun.edu.tr,55,Samsun
-177,Siirt Üniversitesi,siirt-universitesi,state,https://www.siirt.edu.tr,56,Siirt
-178,Sinop Üniversitesi,sinop-universitesi,state,https://www.sinop.edu.tr,57,Sinop
-179,Sivas Bilim ve Teknoloji Üniversitesi,sivas-bilim-ve-teknoloji-universitesi,state,https://www.sivas.edu.tr,58,Sivas
-180,Sivas Cumhuriyet Üniversitesi,sivas-cumhuriyet-universitesi,state,https://www.cumhuriyet.edu.tr,58,Sivas
-181,Tekirdağ Namık Kemal Üniversitesi,tekirdag-namik-kemal-universitesi,state,https://www.nku.edu.tr,59,Tekirdağ
-182,Tokat Gaziosmanpaşa Üniversitesi,tokat-gaziosmanpasa-universitesi,state,https://www.gop.edu.tr,60,Tokat
-183,Avrasya Üniversitesi,avrasya-universitesi,foundation,https://www.avrasya.edu.tr,61,Trabzon
-184,Karadeniz Teknik Üniversitesi,karadeniz-teknik-universitesi,state,https://www.ktu.edu.tr,61,Trabzon
-185,Trabzon Üniversitesi,trabzon-universitesi,state,https://www.trabzon.edu.tr,61,Trabzon
-186,Munzur Üniversitesi,munzur-universitesi,state,https://www.munzur.edu.tr,62,Tunceli
-187,Harran Üniversitesi,harran-universitesi,state,https://www.harran.edu.tr,63,Şanlıurfa
-188,Uşak Üniversitesi,usak-universitesi,state,https://www.usak.edu.tr,64,Uşak
-189,Van Yüzüncü Yıl Üniversitesi,van-yuzuncu-yil-universitesi,state,https://www.yyu.edu.tr,65,Van
-190,Yozgat Bozok Üniversitesi,yozgat-bozok-universitesi,state,https://www.bozok.edu.tr,66,Yozgat
-191,Zonguldak Bülent Ecevit Üniversitesi,zonguldak-bulent-ecevit-universitesi,state,https://www.beun.edu.tr,67,Zonguldak
-192,Aksaray Üniversitesi,aksaray-universitesi,state,https://www.aksaray.edu.tr,68,Aksaray
-193,Bayburt Üniversitesi,bayburt-universitesi,state,https://www.bayburt.edu.tr,69,Bayburt
-194,Karamanoğlu Mehmetbey Üniversitesi,karamanoglu-mehmetbey-universitesi,state,https://www.kmu.edu.tr,70,Karaman
-195,Kırıkkale Üniversitesi,kirikkale-universitesi,state,https://www.kku.edu.tr,71,Kırıkkale
-196,Batman Üniversitesi,batman-universitesi,state,https://www.batman.edu.tr,72,Batman
-197,Şırnak Üniversitesi,sirnak-universitesi,state,https://www.sirnak.edu.tr,73,Şırnak
-198,Bartın Üniversitesi,bartin-universitesi,state,https://www.bartin.edu.tr,74,Bartın
-199,Ardahan Üniversitesi,ardahan-universitesi,state,https://www.ardahan.edu.tr,75,Ardahan
-200,Iğdır Üniversitesi,igdir-universitesi,state,https://www.igdir.edu.tr,76,Iğdır
-201,Yalova Üniversitesi,yalova-universitesi,state,https://www.yalova.edu.tr,77,Yalova
-202,Karabük Üniversitesi,karabuk-universitesi,state,https://www.karabuk.edu.tr,78,Karabük
-203,Kilis 7 Aralık Üniversitesi,kilis-7-aralik-universitesi,state,https://www.kilis.edu.tr,79,Kilis
-204,Osmaniye Korkut Ata Üniversitesi,osmaniye-korkut-ata-universitesi,state,https://www.osmaniye.edu.tr,80,Osmaniye
-205,Düzce Üniversitesi,duzce-universitesi,state,https://www.duzce.edu.tr,81,Düzce
+id,name,slug,type,website,city_id,city,country_code
+tr-adana-alparslan-turkes-bilim-ve-teknoloji-universitesi,Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi,adana-alparslan-turkes-bilim-ve-teknoloji-universitesi,state,https://www.atu.edu.tr,TR-01,Adana,TR
+tr-cukurova-universitesi,Çukurova Üniversitesi,cukurova-universitesi,state,https://www.cu.edu.tr,TR-01,Adana,TR
+tr-adiyaman-universitesi,Adıyaman Üniversitesi,adiyaman-universitesi,state,https://www.adiyaman.edu.tr,TR-02,Adıyaman,TR
+tr-afyon-kocatepe-universitesi,Afyon Kocatepe Üniversitesi,afyon-kocatepe-universitesi,state,https://www.aku.edu.tr,TR-03,Afyonkarahisar,TR
+tr-afyonkarahisar-saglik-bilimleri-universitesi,Afyonkarahisar Sağlık Bilimleri Üniversitesi,afyonkarahisar-saglik-bilimleri-universitesi,state,https://www.afsu.edu.tr,TR-03,Afyonkarahisar,TR
+tr-agri-ibrahim-cecen-universitesi,Ağrı İbrahim Çeçen Üniversitesi,agri-ibrahim-cecen-universitesi,state,https://www.agri.edu.tr,TR-04,Ağrı,TR
+tr-amasya-universitesi,Amasya Üniversitesi,amasya-universitesi,state,https://www.amasya.edu.tr,TR-05,Amasya,TR
+tr-ankara-bilim-universitesi,Ankara Bilim Üniversitesi,ankara-bilim-universitesi,foundation,https://www.ankarabilim.edu.tr,TR-06,Ankara,TR
+tr-ankara-haci-bayram-veli-universitesi,Ankara Hacı Bayram Veli Üniversitesi,ankara-haci-bayram-veli-universitesi,state,https://www.hbv.edu.tr,TR-06,Ankara,TR
+tr-ankara-medipol-universitesi,Ankara Medipol Üniversitesi,ankara-medipol-universitesi,foundation,https://www.ankaramedipol.edu.tr,TR-06,Ankara,TR
+tr-ankara-muzik-ve-guzel-sanatlar-universitesi,Ankara Müzik ve Güzel Sanatlar Üniversitesi,ankara-muzik-ve-guzel-sanatlar-universitesi,state,https://www.mgu.edu.tr,TR-06,Ankara,TR
+tr-ankara-sosyal-bilimler-universitesi,Ankara Sosyal Bilimler Üniversitesi,ankara-sosyal-bilimler-universitesi,state,https://www.asbu.edu.tr,TR-06,Ankara,TR
+tr-ankara-yildirim-beyazit-universitesi,Ankara Yıldırım Beyazıt Üniversitesi,ankara-yildirim-beyazit-universitesi,state,https://www.aybu.edu.tr,TR-06,Ankara,TR
+tr-ankara-universitesi,Ankara Üniversitesi,ankara-universitesi,state,https://www.ankara.edu.tr,TR-06,Ankara,TR
+tr-atilim-universitesi,Atılım Üniversitesi,atilim-universitesi,foundation,https://www.atilim.edu.tr,TR-06,Ankara,TR
+tr-baskent-universitesi,Başkent Üniversitesi,baskent-universitesi,foundation,https://www.baskent.edu.tr,TR-06,Ankara,TR
+tr-gazi-universitesi,Gazi Üniversitesi,gazi-universitesi,state,https://www.gazi.edu.tr,TR-06,Ankara,TR
+tr-hacettepe-universitesi,Hacettepe Üniversitesi,hacettepe-universitesi,state,https://www.hacettepe.edu.tr,TR-06,Ankara,TR
+tr-jandarma-ve-sahil-guvenlik-akademisi,Jandarma ve Sahil Güvenlik Akademisi,jandarma-ve-sahil-guvenlik-akademisi,state,https://www.jsga.edu.tr,TR-06,Ankara,TR
+tr-lokman-hekim-universitesi,Lokman Hekim Üniversitesi,lokman-hekim-universitesi,foundation,https://www.lokmanhekim.edu.tr,TR-06,Ankara,TR
+tr-orta-dogu-teknik-universitesi,Orta Doğu Teknik Üniversitesi,orta-dogu-teknik-universitesi,state,https://www.metu.edu.tr,TR-06,Ankara,TR
+tr-ostim-teknik-universitesi,Ostim Teknik Üniversitesi,ostim-teknik-universitesi,foundation,https://www.ostimteknik.edu.tr,TR-06,Ankara,TR
+tr-polis-akademisi,Polis Akademisi,polis-akademisi,state,https://www.pa.edu.tr,TR-06,Ankara,TR
+tr-ted-universitesi,TED Üniversitesi,ted-universitesi,foundation,https://www.tedu.edu.tr,TR-06,Ankara,TR
+tr-tobb-ekonomi-ve-teknoloji-universitesi,TOBB Ekonomi ve Teknoloji Üniversitesi,tobb-ekonomi-ve-teknoloji-universitesi,foundation,https://www.etu.edu.tr,TR-06,Ankara,TR
+tr-turk-hava-kurumu-universitesi,Türk Hava Kurumu Üniversitesi,turk-hava-kurumu-universitesi,foundation,https://www.thk.edu.tr,TR-06,Ankara,TR
+tr-ufuk-universitesi,Ufuk Üniversitesi,ufuk-universitesi,foundation,https://www.ufuk.edu.tr,TR-06,Ankara,TR
+tr-yuksek-ihtisas-universitesi,Yüksek İhtisas Üniversitesi,yuksek-ihtisas-universitesi,foundation,https://www.yuksekihtisasuniversitesi.edu.tr,TR-06,Ankara,TR
+tr-cankaya-universitesi,Çankaya Üniversitesi,cankaya-universitesi,foundation,https://www.cankaya.edu.tr,TR-06,Ankara,TR
+tr-ihsan-dogramaci-bilkent-universitesi,İhsan Doğramacı Bilkent Üniversitesi,ihsan-dogramaci-bilkent-universitesi,foundation,https://www.bilkent.edu.tr,TR-06,Ankara,TR
+tr-akdeniz-universitesi,Akdeniz Üniversitesi,akdeniz-universitesi,state,https://www.akdeniz.edu.tr,TR-07,Antalya,TR
+tr-alanya-alaaddin-keykubat-universitesi,Alanya Alaaddin Keykubat Üniversitesi,alanya-alaaddin-keykubat-universitesi,state,https://www.alanya.edu.tr,TR-07,Antalya,TR
+tr-alanya-universitesi,Alanya Üniversitesi,alanya-universitesi,foundation,https://www.alanyauniversity.edu.tr,TR-07,Antalya,TR
+tr-antalya-belek-universitesi,Antalya Belek Üniversitesi,antalya-belek-universitesi,foundation,https://www.belek.edu.tr,TR-07,Antalya,TR
+tr-antalya-bilim-universitesi,Antalya Bilim Üniversitesi,antalya-bilim-universitesi,foundation,https://www.antalya.edu.tr,TR-07,Antalya,TR
+tr-artvin-coruh-universitesi,Artvin Çoruh Üniversitesi,artvin-coruh-universitesi,state,https://www.artvin.edu.tr,TR-08,Artvin,TR
+tr-aydin-adnan-menderes-universitesi,Aydın Adnan Menderes Üniversitesi,aydin-adnan-menderes-universitesi,state,https://www.adu.edu.tr,TR-09,Aydın,TR
+tr-balikesir-universitesi,Balıkesir Üniversitesi,balikesir-universitesi,state,https://www.balikesir.edu.tr,TR-10,Balıkesir,TR
+tr-bandirma-onyedi-eylul-universitesi,Bandırma Onyedi Eylül Üniversitesi,bandirma-onyedi-eylul-universitesi,state,https://www.bandirma.edu.tr,TR-10,Balıkesir,TR
+tr-bilecik-seyh-edebali-universitesi,Bilecik Şeyh Edebali Üniversitesi,bilecik-seyh-edebali-universitesi,state,https://www.bilecik.edu.tr,TR-11,Bilecik,TR
+tr-bingol-universitesi,Bingöl Üniversitesi,bingol-universitesi,state,https://www.bingol.edu.tr,TR-12,Bingöl,TR
+tr-bitlis-eren-universitesi,Bitlis Eren Üniversitesi,bitlis-eren-universitesi,state,https://www.beu.edu.tr,TR-13,Bitlis,TR
+tr-bolu-abant-izzet-baysal-universitesi,Bolu Abant İzzet Baysal Üniversitesi,bolu-abant-izzet-baysal-universitesi,state,https://www.ibu.edu.tr,TR-14,Bolu,TR
+tr-burdur-mehmet-akif-ersoy-universitesi,Burdur Mehmet Akif Ersoy Üniversitesi,burdur-mehmet-akif-ersoy-universitesi,state,https://www.mehmetakif.edu.tr,TR-15,Burdur,TR
+tr-bursa-teknik-universitesi,Bursa Teknik Üniversitesi,bursa-teknik-universitesi,state,https://www.btu.edu.tr,TR-16,Bursa,TR
+tr-bursa-uludag-universitesi,Bursa Uludağ Üniversitesi,bursa-uludag-universitesi,state,https://www.uludag.edu.tr,TR-16,Bursa,TR
+tr-mudanya-universitesi,Mudanya Üniversitesi,mudanya-universitesi,foundation,https://www.mudanya.edu.tr,TR-16,Bursa,TR
+tr-canakkale-onsekiz-mart-universitesi,Çanakkale Onsekiz Mart Üniversitesi,canakkale-onsekiz-mart-universitesi,state,https://www.comu.edu.tr,TR-17,Çanakkale,TR
+tr-cankiri-karatekin-universitesi,Çankırı Karatekin Üniversitesi,cankiri-karatekin-universitesi,state,https://www.karatekin.edu.tr,TR-18,Çankırı,TR
+tr-hitit-universitesi,Hitit Üniversitesi,hitit-universitesi,state,https://www.hitit.edu.tr,TR-19,Çorum,TR
+tr-pamukkale-universitesi,Pamukkale Üniversitesi,pamukkale-universitesi,state,https://www.pau.edu.tr,TR-20,Denizli,TR
+tr-dicle-universitesi,Dicle Üniversitesi,dicle-universitesi,state,https://www.dicle.edu.tr,TR-21,Diyarbakır,TR
+tr-trakya-universitesi,Trakya Üniversitesi,trakya-universitesi,state,https://www.trakya.edu.tr,TR-22,Edirne,TR
+tr-firat-universitesi,Fırat Üniversitesi,firat-universitesi,state,https://www.firat.edu.tr,TR-23,Elazığ,TR
+tr-erzincan-binali-yildirim-universitesi,Erzincan Binali Yıldırım Üniversitesi,erzincan-binali-yildirim-universitesi,state,https://www.erzincan.edu.tr,TR-24,Erzincan,TR
+tr-ataturk-universitesi,Atatürk Üniversitesi,ataturk-universitesi,state,https://www.atauni.edu.tr,TR-25,Erzurum,TR
+tr-erzurum-teknik-universitesi,Erzurum Teknik Üniversitesi,erzurum-teknik-universitesi,state,https://www.erzurum.edu.tr,TR-25,Erzurum,TR
+tr-anadolu-universitesi,Anadolu Üniversitesi,anadolu-universitesi,state,https://www.anadolu.edu.tr,TR-26,Eskişehir,TR
+tr-eskisehir-osmangazi-universitesi,Eskişehir Osmangazi Üniversitesi,eskisehir-osmangazi-universitesi,state,https://www.ogu.edu.tr,TR-26,Eskişehir,TR
+tr-eskisehir-teknik-universitesi,Eskişehir Teknik Üniversitesi,eskisehir-teknik-universitesi,state,https://www.eskisehir.edu.tr,TR-26,Eskişehir,TR
+tr-gaziantep-universitesi,Gaziantep Üniversitesi,gaziantep-universitesi,state,https://www.gantep.edu.tr,TR-27,Gaziantep,TR
+tr-gaziantep-islam-bilim-ve-teknoloji-universitesi,Gaziantep İslam Bilim ve Teknoloji Üniversitesi,gaziantep-islam-bilim-ve-teknoloji-universitesi,state,https://www.gibtu.edu.tr,TR-27,Gaziantep,TR
+tr-hasan-kalyoncu-universitesi,Hasan Kalyoncu Üniversitesi,hasan-kalyoncu-universitesi,foundation,https://www.hku.edu.tr,TR-27,Gaziantep,TR
+tr-sanko-universitesi,SANKO Üniversitesi,sanko-universitesi,foundation,https://www.sanko.edu.tr,TR-27,Gaziantep,TR
+tr-giresun-universitesi,Giresun Üniversitesi,giresun-universitesi,state,https://www.giresun.edu.tr,TR-28,Giresun,TR
+tr-gumushane-universitesi,Gümüşhane Üniversitesi,gumushane-universitesi,state,https://www.gumushane.edu.tr,TR-29,Gümüşhane,TR
+tr-hakkari-universitesi,Hakkari Üniversitesi,hakkari-universitesi,state,https://www.hakkari.edu.tr,TR-30,Hakkari,TR
+tr-hatay-mustafa-kemal-universitesi,Hatay Mustafa Kemal Üniversitesi,hatay-mustafa-kemal-universitesi,state,https://www.mku.edu.tr,TR-31,Hatay,TR
+tr-iskenderun-teknik-universitesi,İskenderun Teknik Üniversitesi,iskenderun-teknik-universitesi,state,https://www.iste.edu.tr,TR-31,Hatay,TR
+tr-isparta-uygulamali-bilimler-universitesi,Isparta Uygulamalı Bilimler Üniversitesi,isparta-uygulamali-bilimler-universitesi,state,https://www.isparta.edu.tr,TR-32,Isparta,TR
+tr-suleyman-demirel-universitesi,Süleyman Demirel Üniversitesi,suleyman-demirel-universitesi,state,https://www.sdu.edu.tr,TR-32,Isparta,TR
+tr-mersin-universitesi,Mersin Üniversitesi,mersin-universitesi,state,https://www.mersin.edu.tr,TR-33,Mersin,TR
+tr-tarsus-universitesi,Tarsus Üniversitesi,tarsus-universitesi,state,https://www.tarsus.edu.tr,TR-33,Mersin,TR
+tr-toros-universitesi,Toros Üniversitesi,toros-universitesi,foundation,https://www.toros.edu.tr,TR-33,Mersin,TR
+tr-cag-universitesi,Çağ Üniversitesi,cag-universitesi,foundation,https://www.cag.edu.tr,TR-33,Mersin,TR
+tr-acibadem-mehmet-ali-aydinlar-universitesi,Acıbadem Mehmet Ali Aydınlar Üniversitesi,acibadem-mehmet-ali-aydinlar-universitesi,foundation,https://www.acibadem.edu.tr,TR-34,İstanbul,TR
+tr-altinbas-universitesi,Altınbaş Üniversitesi,altinbas-universitesi,foundation,https://www.altinbas.edu.tr,TR-34,İstanbul,TR
+tr-bahcesehir-universitesi,Bahçeşehir Üniversitesi,bahcesehir-universitesi,foundation,https://www.bau.edu.tr,TR-34,İstanbul,TR
+tr-beykoz-universitesi,Beykoz Üniversitesi,beykoz-universitesi,foundation,https://www.beykoz.edu.tr,TR-34,İstanbul,TR
+tr-bezmialem-vakif-universitesi,Bezmiâlem Vakıf Üniversitesi,bezmialem-vakif-universitesi,foundation,https://www.bezmialem.edu.tr,TR-34,İstanbul,TR
+tr-biruni-universitesi,Biruni Üniversitesi,biruni-universitesi,foundation,https://www.biruni.edu.tr,TR-34,İstanbul,TR
+tr-bogazici-universitesi,Boğaziçi Üniversitesi,bogazici-universitesi,state,https://www.boun.edu.tr,TR-34,İstanbul,TR
+tr-demiroglu-bilim-universitesi,Demiroğlu Bilim Üniversitesi,demiroglu-bilim-universitesi,foundation,https://demiroglu.bilim.edu.tr,TR-34,İstanbul,TR
+tr-dogus-universitesi,Doğuş Üniversitesi,dogus-universitesi,foundation,https://www.dogus.edu.tr,TR-34,İstanbul,TR
+tr-fatih-sultan-mehmet-vakif-universitesi,Fatih Sultan Mehmet Vakıf Üniversitesi,fatih-sultan-mehmet-vakif-universitesi,foundation,https://www.fsm.edu.tr,TR-34,İstanbul,TR
+tr-fenerbahce-universitesi,Fenerbahçe Üniversitesi,fenerbahce-universitesi,foundation,https://www.fbu.edu.tr,TR-34,İstanbul,TR
+tr-galatasaray-universitesi,Galatasaray Üniversitesi,galatasaray-universitesi,state,https://www.gsu.edu.tr,TR-34,İstanbul,TR
+tr-halic-universitesi,Haliç Üniversitesi,halic-universitesi,foundation,https://www.halic.edu.tr,TR-34,İstanbul,TR
+tr-isik-universitesi,Işık Üniversitesi,isik-universitesi,foundation,https://www.isikun.edu.tr,TR-34,İstanbul,TR
+tr-kadir-has-universitesi,Kadir Has Üniversitesi,kadir-has-universitesi,foundation,https://www.khas.edu.tr,TR-34,İstanbul,TR
+tr-koc-universitesi,Koç Üniversitesi,koc-universitesi,foundation,https://www.ku.edu.tr,TR-34,İstanbul,TR
+tr-mef-universitesi,MEF Üniversitesi,mef-universitesi,foundation,https://www.mef.edu.tr,TR-34,İstanbul,TR
+tr-maltepe-universitesi,Maltepe Üniversitesi,maltepe-universitesi,foundation,https://www.maltepe.edu.tr,TR-34,İstanbul,TR
+tr-marmara-universitesi,Marmara Üniversitesi,marmara-universitesi,state,https://www.marmara.edu.tr,TR-34,İstanbul,TR
+tr-milli-savunma-universitesi,Milli Savunma Üniversitesi,milli-savunma-universitesi,state,https://www.msu.edu.tr,TR-34,İstanbul,TR
+tr-mimar-sinan-guzel-sanatlar-universitesi,Mimar Sinan Güzel Sanatlar Üniversitesi,mimar-sinan-guzel-sanatlar-universitesi,state,https://www.msgsu.edu.tr,TR-34,İstanbul,TR
+tr-piri-reis-universitesi,Piri Reis Üniversitesi,piri-reis-universitesi,foundation,https://www.pirireis.edu.tr,TR-34,İstanbul,TR
+tr-sabanci-universitesi,Sabancı Üniversitesi,sabanci-universitesi,foundation,https://www.sabanciuniv.edu,TR-34,İstanbul,TR
+tr-saglik-bilimleri-universitesi,Sağlık Bilimleri Üniversitesi,saglik-bilimleri-universitesi,state,https://www.sbu.edu.tr,TR-34,İstanbul,TR
+tr-turk-alman-universitesi,Türk-Alman Üniversitesi,turk-alman-universitesi,state,https://www.tau.edu.tr,TR-34,İstanbul,TR
+tr-turk-japon-bilim-ve-teknoloji-universitesi,Türk-Japon Bilim ve Teknoloji Üniversitesi,turk-japon-bilim-ve-teknoloji-universitesi,state,https://tju.edu.tr,TR-34,İstanbul,TR
+tr-yeditepe-universitesi,Yeditepe Üniversitesi,yeditepe-universitesi,foundation,https://www.yeditepe.edu.tr,TR-34,İstanbul,TR
+tr-yildiz-teknik-universitesi,Yıldız Teknik Üniversitesi,yildiz-teknik-universitesi,state,https://www.yildiz.edu.tr,TR-34,İstanbul,TR
+tr-ozyegin-universitesi,Özyeğin Üniversitesi,ozyegin-universitesi,foundation,https://www.ozyegin.edu.tr,TR-34,İstanbul,TR
+tr-uskudar-universitesi,Üsküdar Üniversitesi,uskudar-universitesi,foundation,https://www.uskudar.edu.tr,TR-34,İstanbul,TR
+tr-ibn-haldun-universitesi,İbn Haldun Üniversitesi,ibn-haldun-universitesi,foundation,https://www.ihu.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-29-mayis-universitesi,İstanbul 29 Mayıs Üniversitesi,istanbul-29-mayis-universitesi,foundation,https://www.29mayis.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-arel-universitesi,İstanbul Arel Üniversitesi,istanbul-arel-universitesi,foundation,https://www.arel.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-atlas-universitesi,İstanbul Atlas Üniversitesi,istanbul-atlas-universitesi,foundation,https://www.atlas.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-aydin-universitesi,İstanbul Aydın Üniversitesi,istanbul-aydin-universitesi,foundation,https://www.aydin.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-beykent-universitesi,İstanbul Beykent Üniversitesi,istanbul-beykent-universitesi,foundation,https://www.beykent.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-bilgi-universitesi,İstanbul Bilgi Üniversitesi,istanbul-bilgi-universitesi,foundation,https://www.bilgi.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-esenyurt-universitesi,İstanbul Esenyurt Üniversitesi,istanbul-esenyurt-universitesi,foundation,https://www.esenyurt.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-galata-universitesi,İstanbul Galata Üniversitesi,istanbul-galata-universitesi,foundation,https://www.galata.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-gedik-universitesi,İstanbul Gedik Üniversitesi,istanbul-gedik-universitesi,foundation,https://www.gedik.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-gelisim-universitesi,İstanbul Gelişim Üniversitesi,istanbul-gelisim-universitesi,foundation,https://www.gelisim.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-kent-universitesi,İstanbul Kent Üniversitesi,istanbul-kent-universitesi,foundation,https://www.kent.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-kultur-universitesi,İstanbul Kültür Üniversitesi,istanbul-kultur-universitesi,foundation,https://www.iku.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-medeniyet-universitesi,İstanbul Medeniyet Üniversitesi,istanbul-medeniyet-universitesi,state,https://www.medeniyet.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-medipol-universitesi,İstanbul Medipol Üniversitesi,istanbul-medipol-universitesi,foundation,https://www.medipol.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-nisantasi-universitesi,İstanbul Nişantaşı Üniversitesi,istanbul-nisantasi-universitesi,foundation,https://www.nisantasi.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-okan-universitesi,İstanbul Okan Üniversitesi,istanbul-okan-universitesi,foundation,https://www.okan.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-rumeli-universitesi,İstanbul Rumeli Üniversitesi,istanbul-rumeli-universitesi,foundation,https://www.rumeli.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-sabahattin-zaim-universitesi,İstanbul Sabahattin Zaim Üniversitesi,istanbul-sabahattin-zaim-universitesi,foundation,https://www.izu.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-saglik-ve-teknoloji-universitesi,İstanbul Sağlık ve Teknoloji Üniversitesi,istanbul-saglik-ve-teknoloji-universitesi,foundation,https://www.istun.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-teknik-universitesi,İstanbul Teknik Üniversitesi,istanbul-teknik-universitesi,state,https://www.itu.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-ticaret-universitesi,İstanbul Ticaret Üniversitesi,istanbul-ticaret-universitesi,foundation,https://www.ticaret.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-topkapi-universitesi,İstanbul Topkapı Üniversitesi,istanbul-topkapi-universitesi,foundation,https://www.topkapi.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-yeni-yuzyil-universitesi,İstanbul Yeni Yüzyıl Üniversitesi,istanbul-yeni-yuzyil-universitesi,foundation,https://www.yeniyuzyil.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-universitesi,İstanbul Üniversitesi,istanbul-universitesi,state,https://www.istanbul.edu.tr,TR-34,İstanbul,TR
+tr-istanbul-universitesi-cerrahpasa,İstanbul Üniversitesi-Cerrahpaşa,istanbul-universitesi-cerrahpasa,state,https://www.iuc.edu.tr,TR-34,İstanbul,TR
+tr-istinye-universitesi,İstinye Üniversitesi,istinye-universitesi,foundation,https://www.istinye.edu.tr,TR-34,İstanbul,TR
+tr-dokuz-eylul-universitesi,Dokuz Eylül Üniversitesi,dokuz-eylul-universitesi,state,https://www.deu.edu.tr,TR-35,İzmir,TR
+tr-ege-universitesi,Ege Üniversitesi,ege-universitesi,state,https://www.ege.edu.tr,TR-35,İzmir,TR
+tr-yasar-universitesi,Yaşar Üniversitesi,yasar-universitesi,foundation,https://www.yasar.edu.tr,TR-35,İzmir,TR
+tr-izmir-bakircay-universitesi,İzmir Bakırçay Üniversitesi,izmir-bakircay-universitesi,state,https://www.bakircay.edu.tr,TR-35,İzmir,TR
+tr-izmir-demokrasi-universitesi,İzmir Demokrasi Üniversitesi,izmir-demokrasi-universitesi,state,https://www.idu.edu.tr,TR-35,İzmir,TR
+tr-izmir-ekonomi-universitesi,İzmir Ekonomi Üniversitesi,izmir-ekonomi-universitesi,foundation,https://www.ieu.edu.tr,TR-35,İzmir,TR
+tr-izmir-katip-celebi-universitesi,İzmir Katip Çelebi Üniversitesi,izmir-katip-celebi-universitesi,state,https://www.ikcu.edu.tr,TR-35,İzmir,TR
+tr-izmir-tinaztepe-universitesi,İzmir Tınaztepe Üniversitesi,izmir-tinaztepe-universitesi,foundation,https://www.tinaztepe.edu.tr,TR-35,İzmir,TR
+tr-izmir-yuksek-teknoloji-enstitusu,İzmir Yüksek Teknoloji Enstitüsü,izmir-yuksek-teknoloji-enstitusu,state,https://www.iyte.edu.tr,TR-35,İzmir,TR
+tr-kafkas-universitesi,Kafkas Üniversitesi,kafkas-universitesi,state,https://www.kafkas.edu.tr,TR-36,Kars,TR
+tr-kastamonu-universitesi,Kastamonu Üniversitesi,kastamonu-universitesi,state,https://www.kastamonu.edu.tr,TR-37,Kastamonu,TR
+tr-abdullah-gul-universitesi,Abdullah Gül Üniversitesi,abdullah-gul-universitesi,state,https://www.agu.edu.tr,TR-38,Kayseri,TR
+tr-erciyes-universitesi,Erciyes Üniversitesi,erciyes-universitesi,state,https://www.erciyes.edu.tr,TR-38,Kayseri,TR
+tr-kayseri-universitesi,Kayseri Üniversitesi,kayseri-universitesi,state,https://www.kayseri.edu.tr,TR-38,Kayseri,TR
+tr-nuh-naci-yazgan-universitesi,Nuh Naci Yazgan Üniversitesi,nuh-naci-yazgan-universitesi,foundation,https://www.nny.edu.tr,TR-38,Kayseri,TR
+tr-kirklareli-universitesi,Kırklareli Üniversitesi,kirklareli-universitesi,state,https://www.klu.edu.tr,TR-39,Kırklareli,TR
+tr-kirsehir-ahi-evran-universitesi,Kırşehir Ahi Evran Üniversitesi,kirsehir-ahi-evran-universitesi,state,https://www.ahievran.edu.tr,TR-40,Kırşehir,TR
+tr-gebze-teknik-universitesi,Gebze Teknik Üniversitesi,gebze-teknik-universitesi,state,https://www.gtu.edu.tr,TR-41,Kocaeli,TR
+tr-kocaeli-saglik-ve-teknoloji-universitesi,Kocaeli Sağlık ve Teknoloji Üniversitesi,kocaeli-saglik-ve-teknoloji-universitesi,foundation,https://www.kocaelisaglik.edu.tr,TR-41,Kocaeli,TR
+tr-kocaeli-universitesi,Kocaeli Üniversitesi,kocaeli-universitesi,state,https://www.kocaeli.edu.tr,TR-41,Kocaeli,TR
+tr-kto-karatay-universitesi,KTO Karatay Üniversitesi,kto-karatay-universitesi,foundation,https://www.karatay.edu.tr,TR-42,Konya,TR
+tr-konya-gida-ve-tarim-universitesi,Konya Gıda ve Tarım Üniversitesi,konya-gida-ve-tarim-universitesi,foundation,https://www.gidatarim.edu.tr,TR-42,Konya,TR
+tr-konya-teknik-universitesi,Konya Teknik Üniversitesi,konya-teknik-universitesi,state,https://www.ktun.edu.tr,TR-42,Konya,TR
+tr-necmettin-erbakan-universitesi,Necmettin Erbakan Üniversitesi,necmettin-erbakan-universitesi,state,https://www.erbakan.edu.tr,TR-42,Konya,TR
+tr-selcuk-universitesi,Selçuk Üniversitesi,selcuk-universitesi,state,https://www.selcuk.edu.tr,TR-42,Konya,TR
+tr-kutahya-dumlupinar-universitesi,Kütahya Dumlupınar Üniversitesi,kutahya-dumlupinar-universitesi,state,https://www.dpu.edu.tr,TR-43,Kütahya,TR
+tr-kutahya-saglik-bilimleri-universitesi,Kütahya Sağlık Bilimleri Üniversitesi,kutahya-saglik-bilimleri-universitesi,state,https://www.ksbu.edu.tr,TR-43,Kütahya,TR
+tr-malatya-turgut-ozal-universitesi,Malatya Turgut Özal Üniversitesi,malatya-turgut-ozal-universitesi,state,https://www.ozal.edu.tr,TR-44,Malatya,TR
+tr-inonu-universitesi,İnönü Üniversitesi,inonu-universitesi,state,https://www.inonu.edu.tr,TR-44,Malatya,TR
+tr-manisa-celal-bayar-universitesi,Manisa Celal Bayar Üniversitesi,manisa-celal-bayar-universitesi,state,https://www.cbu.edu.tr,TR-45,Manisa,TR
+tr-kahramanmaras-sutcu-imam-universitesi,Kahramanmaraş Sütçü İmam Üniversitesi,kahramanmaras-sutcu-imam-universitesi,state,https://www.ksu.edu.tr,TR-46,Kahramanmaraş,TR
+tr-kahramanmaras-istiklal-universitesi,Kahramanmaraş İstiklal Üniversitesi,kahramanmaras-istiklal-universitesi,state,https://www.istiklal.edu.tr,TR-46,Kahramanmaraş,TR
+tr-mardin-artuklu-universitesi,Mardin Artuklu Üniversitesi,mardin-artuklu-universitesi,state,https://www.artuklu.edu.tr,TR-47,Mardin,TR
+tr-mugla-sitki-kocman-universitesi,Muğla Sıtkı Koçman Üniversitesi,mugla-sitki-kocman-universitesi,state,https://www.mu.edu.tr,TR-48,Muğla,TR
+tr-mus-alparslan-universitesi,Muş Alparslan Üniversitesi,mus-alparslan-universitesi,state,https://www.alparslan.edu.tr,TR-49,Muş,TR
+tr-kapadokya-universitesi,Kapadokya Üniversitesi,kapadokya-universitesi,foundation,https://kapadokya.edu.tr,TR-50,Nevşehir,TR
+tr-nevsehir-haci-bektas-veli-universitesi,Nevşehir Hacı Bektaş Veli Üniversitesi,nevsehir-haci-bektas-veli-universitesi,state,https://www.nevsehir.edu.tr,TR-50,Nevşehir,TR
+tr-nigde-omer-halisdemir-universitesi,Niğde Ömer Halisdemir Üniversitesi,nigde-omer-halisdemir-universitesi,state,https://www.ohu.edu.tr,TR-51,Niğde,TR
+tr-ordu-universitesi,Ordu Üniversitesi,ordu-universitesi,state,https://www.odu.edu.tr,TR-52,Ordu,TR
+tr-recep-tayyip-erdogan-universitesi,Recep Tayyip Erdoğan Üniversitesi,recep-tayyip-erdogan-universitesi,state,https://www.erdogan.edu.tr,TR-53,Rize,TR
+tr-sakarya-uygulamali-bilimler-universitesi,Sakarya Uygulamalı Bilimler Üniversitesi,sakarya-uygulamali-bilimler-universitesi,state,https://www.subu.edu.tr,TR-54,Sakarya,TR
+tr-sakarya-universitesi,Sakarya Üniversitesi,sakarya-universitesi,state,https://www.sakarya.edu.tr,TR-54,Sakarya,TR
+tr-ondokuz-mayis-universitesi,Ondokuz Mayıs Üniversitesi,ondokuz-mayis-universitesi,state,https://www.omu.edu.tr,TR-55,Samsun,TR
+tr-samsun-universitesi,Samsun Üniversitesi,samsun-universitesi,state,https://www.samsun.edu.tr,TR-55,Samsun,TR
+tr-siirt-universitesi,Siirt Üniversitesi,siirt-universitesi,state,https://www.siirt.edu.tr,TR-56,Siirt,TR
+tr-sinop-universitesi,Sinop Üniversitesi,sinop-universitesi,state,https://www.sinop.edu.tr,TR-57,Sinop,TR
+tr-sivas-bilim-ve-teknoloji-universitesi,Sivas Bilim ve Teknoloji Üniversitesi,sivas-bilim-ve-teknoloji-universitesi,state,https://www.sivas.edu.tr,TR-58,Sivas,TR
+tr-sivas-cumhuriyet-universitesi,Sivas Cumhuriyet Üniversitesi,sivas-cumhuriyet-universitesi,state,https://www.cumhuriyet.edu.tr,TR-58,Sivas,TR
+tr-tekirdag-namik-kemal-universitesi,Tekirdağ Namık Kemal Üniversitesi,tekirdag-namik-kemal-universitesi,state,https://www.nku.edu.tr,TR-59,Tekirdağ,TR
+tr-tokat-gaziosmanpasa-universitesi,Tokat Gaziosmanpaşa Üniversitesi,tokat-gaziosmanpasa-universitesi,state,https://www.gop.edu.tr,TR-60,Tokat,TR
+tr-avrasya-universitesi,Avrasya Üniversitesi,avrasya-universitesi,foundation,https://www.avrasya.edu.tr,TR-61,Trabzon,TR
+tr-karadeniz-teknik-universitesi,Karadeniz Teknik Üniversitesi,karadeniz-teknik-universitesi,state,https://www.ktu.edu.tr,TR-61,Trabzon,TR
+tr-trabzon-universitesi,Trabzon Üniversitesi,trabzon-universitesi,state,https://www.trabzon.edu.tr,TR-61,Trabzon,TR
+tr-munzur-universitesi,Munzur Üniversitesi,munzur-universitesi,state,https://www.munzur.edu.tr,TR-62,Tunceli,TR
+tr-harran-universitesi,Harran Üniversitesi,harran-universitesi,state,https://www.harran.edu.tr,TR-63,Şanlıurfa,TR
+tr-usak-universitesi,Uşak Üniversitesi,usak-universitesi,state,https://www.usak.edu.tr,TR-64,Uşak,TR
+tr-van-yuzuncu-yil-universitesi,Van Yüzüncü Yıl Üniversitesi,van-yuzuncu-yil-universitesi,state,https://www.yyu.edu.tr,TR-65,Van,TR
+tr-yozgat-bozok-universitesi,Yozgat Bozok Üniversitesi,yozgat-bozok-universitesi,state,https://www.bozok.edu.tr,TR-66,Yozgat,TR
+tr-zonguldak-bulent-ecevit-universitesi,Zonguldak Bülent Ecevit Üniversitesi,zonguldak-bulent-ecevit-universitesi,state,https://www.beun.edu.tr,TR-67,Zonguldak,TR
+tr-aksaray-universitesi,Aksaray Üniversitesi,aksaray-universitesi,state,https://www.aksaray.edu.tr,TR-68,Aksaray,TR
+tr-bayburt-universitesi,Bayburt Üniversitesi,bayburt-universitesi,state,https://www.bayburt.edu.tr,TR-69,Bayburt,TR
+tr-karamanoglu-mehmetbey-universitesi,Karamanoğlu Mehmetbey Üniversitesi,karamanoglu-mehmetbey-universitesi,state,https://www.kmu.edu.tr,TR-70,Karaman,TR
+tr-kirikkale-universitesi,Kırıkkale Üniversitesi,kirikkale-universitesi,state,https://www.kku.edu.tr,TR-71,Kırıkkale,TR
+tr-batman-universitesi,Batman Üniversitesi,batman-universitesi,state,https://www.batman.edu.tr,TR-72,Batman,TR
+tr-sirnak-universitesi,Şırnak Üniversitesi,sirnak-universitesi,state,https://www.sirnak.edu.tr,TR-73,Şırnak,TR
+tr-bartin-universitesi,Bartın Üniversitesi,bartin-universitesi,state,https://www.bartin.edu.tr,TR-74,Bartın,TR
+tr-ardahan-universitesi,Ardahan Üniversitesi,ardahan-universitesi,state,https://www.ardahan.edu.tr,TR-75,Ardahan,TR
+tr-igdir-universitesi,Iğdır Üniversitesi,igdir-universitesi,state,https://www.igdir.edu.tr,TR-76,Iğdır,TR
+tr-yalova-universitesi,Yalova Üniversitesi,yalova-universitesi,state,https://www.yalova.edu.tr,TR-77,Yalova,TR
+tr-karabuk-universitesi,Karabük Üniversitesi,karabuk-universitesi,state,https://www.karabuk.edu.tr,TR-78,Karabük,TR
+tr-kilis-7-aralik-universitesi,Kilis 7 Aralık Üniversitesi,kilis-7-aralik-universitesi,state,https://www.kilis.edu.tr,TR-79,Kilis,TR
+tr-osmaniye-korkut-ata-universitesi,Osmaniye Korkut Ata Üniversitesi,osmaniye-korkut-ata-universitesi,state,https://www.osmaniye.edu.tr,TR-80,Osmaniye,TR
+tr-duzce-universitesi,Düzce Üniversitesi,duzce-universitesi,state,https://www.duzce.edu.tr,TR-81,Düzce,TR

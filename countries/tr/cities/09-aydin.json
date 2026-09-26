@@ -1,0 +1,13 @@
+{
+  "code": "TR-09",
+  "plate_code": 9,
+  "name": "Aydın",
+  "region": "Ege",
+  "universities": [
+    {
+      "name": "Aydın Adnan Menderes Üniversitesi",
+      "type": "state",
+      "website": "https://www.adu.edu.tr"
+    }
+  ]
+}

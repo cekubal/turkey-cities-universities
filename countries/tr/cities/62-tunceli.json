@@ -1,0 +1,13 @@
+{
+  "code": "TR-62",
+  "plate_code": 62,
+  "name": "Tunceli",
+  "region": "Doğu Anadolu",
+  "universities": [
+    {
+      "name": "Munzur Üniversitesi",
+      "type": "state",
+      "website": "https://www.munzur.edu.tr"
+    }
+  ]
+}

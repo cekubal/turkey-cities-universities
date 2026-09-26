@@ -1,0 +1,13 @@
+{
+  "code": "TR-08",
+  "plate_code": 8,
+  "name": "Artvin",
+  "region": "Karadeniz",
+  "universities": [
+    {
+      "name": "Artvin Çoruh Üniversitesi",
+      "type": "state",
+      "website": "https://www.artvin.edu.tr"
+    }
+  ]
+}

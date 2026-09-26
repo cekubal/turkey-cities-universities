@@ -1,0 +1,13 @@
+{
+  "code": "TR-79",
+  "plate_code": 79,
+  "name": "Kilis",
+  "region": "Güneydoğu Anadolu",
+  "universities": [
+    {
+      "name": "Kilis 7 Aralık Üniversitesi",
+      "type": "state",
+      "website": "https://www.kilis.edu.tr"
+    }
+  ]
+}
