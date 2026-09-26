@@ -1,0 +1,9 @@
+{
+  "code": "ES-A",
+  "name": "Alicante",
+  "region": "Comunidad Valenciana",
+  "universities": [
+    {"name": "Universidad de Alicante", "type": "state", "website": "https://www.ua.es"},
+    {"name": "Universidad Miguel Hernández de Elche", "type": "state", "website": "https://www.umh.es"}
+  ]
+}

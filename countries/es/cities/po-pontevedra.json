@@ -1,0 +1,8 @@
+{
+  "code": "ES-PO",
+  "name": "Pontevedra",
+  "region": "Galicia",
+  "universities": [
+    {"name": "Universidade de Vigo", "type": "state", "website": "https://www.uvigo.gal"}
+  ]
+}

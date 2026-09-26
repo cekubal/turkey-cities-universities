@@ -1,0 +1,8 @@
+{
+  "code": "ES-CA",
+  "name": "Cádiz",
+  "region": "Andalucía",
+  "universities": [
+    {"name": "Universidad de Cádiz", "type": "state", "website": "https://www.uca.es"}
+  ]
+}

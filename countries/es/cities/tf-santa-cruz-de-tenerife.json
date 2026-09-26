@@ -1,0 +1,9 @@
+{
+  "code": "ES-TF",
+  "name": "Santa Cruz de Tenerife",
+  "region": "Canarias",
+  "universities": [
+    {"name": "Universidad de La Laguna", "type": "state", "website": "https://www.ull.es"},
+    {"name": "Universidad Europea de Canarias", "type": "private", "website": "https://universidadeuropea.com/canarias"}
+  ]
+}

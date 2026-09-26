@@ -1,0 +1,8 @@
+{
+  "code": "ES-H",
+  "name": "Huelva",
+  "region": "Andalucía",
+  "universities": [
+    {"name": "Universidad de Huelva", "type": "state", "website": "https://www.uhu.es"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "code": "ES-LE",
+  "name": "León",
+  "region": "Castilla y León",
+  "universities": [
+    {
+      "name": "Universidad de León",
+      "type": "state",
+      "website": "https://www.unileon.es"
+    }
+  ]
+}

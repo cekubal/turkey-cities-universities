@@ -1,0 +1,13 @@
+{
+  "code": "ES-V",
+  "name": "Valencia",
+  "region": "Comunidad Valenciana",
+  "universities": [
+    {"name": "Universidad Católica de Valencia San Vicente Mártir", "type": "private", "website": "https://www.ucv.es"},
+    {"name": "Universidad CEU Cardenal Herrera", "type": "private", "website": "https://www.uchceu.es"},
+    {"name": "Universidad Europea de Valencia", "type": "private", "website": "https://universidadeuropea.com/valencia/"},
+    {"name": "Universidad Internacional de Valencia", "type": "private", "website": "https://www.universidadviu.com"},
+    {"name": "Universitat de València", "type": "state", "website": "https://www.uv.es"},
+    {"name": "Universitat Politècnica de València", "type": "state", "website": "https://www.upv.es"}
+  ]
+}

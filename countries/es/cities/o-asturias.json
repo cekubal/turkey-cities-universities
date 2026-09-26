@@ -1,0 +1,8 @@
+{
+  "code": "ES-O",
+  "name": "Asturias",
+  "region": "Principado de Asturias",
+  "universities": [
+    {"name": "Universidad de Oviedo", "type": "state", "website": "https://www.uniovi.es"}
+  ]
+}

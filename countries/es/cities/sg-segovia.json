@@ -1,0 +1,12 @@
+{
+  "code": "ES-SG",
+  "name": "Segovia",
+  "region": "Castilla y León",
+  "universities": [
+    {
+      "name": "IE Universidad",
+      "type": "private",
+      "website": "https://www.ie.edu"
+    }
+  ]
+}

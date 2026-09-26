@@ -1,0 +1,8 @@
+{
+  "code": "ES-T",
+  "name": "Tarragona",
+  "region": "Cataluña",
+  "universities": [
+    {"name": "Universitat Rovira i Virgili", "type": "state", "website": "https://www.urv.cat"}
+  ]
+}

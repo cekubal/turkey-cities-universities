@@ -1,0 +1,9 @@
+{
+  "code": "ES-BI",
+  "name": "Bizkaia",
+  "region": "País Vasco",
+  "universities": [
+    {"name": "Universidad de Deusto", "type": "private", "website": "https://www.deusto.es"},
+    {"name": "Universidad del País Vasco/Euskal Herriko Unibertsitatea", "type": "state", "website": "https://www.ehu.eus"}
+  ]
+}

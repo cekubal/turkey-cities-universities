@@ -1,0 +1,9 @@
+{
+  "code": "ES-NA",
+  "name": "Navarra",
+  "region": "Comunidad Foral de Navarra",
+  "universities": [
+    {"name": "Universidad de Navarra", "type": "private", "website": "https://www.unav.edu"},
+    {"name": "Universidad Pública de Navarra", "type": "state", "website": "https://www.unavarra.es"}
+  ]
+}

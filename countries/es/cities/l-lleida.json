@@ -1,0 +1,8 @@
+{
+  "code": "ES-L",
+  "name": "Lleida",
+  "region": "Cataluña",
+  "universities": [
+    {"name": "Universitat de Lleida", "type": "state", "website": "https://www.udl.cat"}
+  ]
+}

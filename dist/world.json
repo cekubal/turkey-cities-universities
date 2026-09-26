@@ -1,6 +1,1094 @@
 {
   "countries": [
     {
+      "code": "ES",
+      "name": "España",
+      "name_en": "Spain",
+      "cities": [
+        {
+          "id": "ES-A",
+          "name": "Alicante",
+          "slug": "alicante",
+          "region": "Comunidad Valenciana",
+          "universities": [
+            {
+              "id": "es-universidad-miguel-hern-ndez-de-elche",
+              "name": "Universidad Miguel Hernández de Elche",
+              "slug": "universidad-miguel-hern-ndez-de-elche",
+              "type": "state",
+              "website": "https://www.umh.es"
+            },
+            {
+              "id": "es-universidad-de-alicante",
+              "name": "Universidad de Alicante",
+              "slug": "universidad-de-alicante",
+              "type": "state",
+              "website": "https://www.ua.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-AB",
+          "name": "Albacete",
+          "slug": "albacete",
+          "region": "Castilla-La Mancha",
+          "universities": []
+        },
+        {
+          "id": "ES-AL",
+          "name": "Almería",
+          "slug": "almer-a",
+          "region": "Andalucía",
+          "universities": [
+            {
+              "id": "es-universidad-de-almer-a",
+              "name": "Universidad de Almería",
+              "slug": "universidad-de-almer-a",
+              "type": "state",
+              "website": "https://www.ual.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-AV",
+          "name": "Ávila",
+          "slug": "vila",
+          "region": "Castilla y León",
+          "universities": [
+            {
+              "id": "es-universidad-cat-lica-de-vila",
+              "name": "Universidad Católica de Ávila",
+              "slug": "universidad-cat-lica-de-vila",
+              "type": "private",
+              "website": "https://www.ucavila.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-B",
+          "name": "Barcelona",
+          "slug": "barcelona",
+          "region": "Cataluña",
+          "universities": [
+            {
+              "id": "es-universitat-abat-oliba-ceu",
+              "name": "Universitat Abat Oliba CEU",
+              "slug": "universitat-abat-oliba-ceu",
+              "type": "private",
+              "website": "https://www.uao.es"
+            },
+            {
+              "id": "es-universitat-aut-noma-de-barcelona",
+              "name": "Universitat Autònoma de Barcelona",
+              "slug": "universitat-aut-noma-de-barcelona",
+              "type": "state",
+              "website": "https://www.uab.cat"
+            },
+            {
+              "id": "es-universitat-internacional-de-catalunya",
+              "name": "Universitat Internacional de Catalunya",
+              "slug": "universitat-internacional-de-catalunya",
+              "type": "private",
+              "website": "https://www.uic.es"
+            },
+            {
+              "id": "es-universitat-oberta-de-catalunya",
+              "name": "Universitat Oberta de Catalunya",
+              "slug": "universitat-oberta-de-catalunya",
+              "type": "private",
+              "website": "https://www.uoc.edu"
+            },
+            {
+              "id": "es-universitat-polit-cnica-de-catalunya",
+              "name": "Universitat Politècnica de Catalunya",
+              "slug": "universitat-polit-cnica-de-catalunya",
+              "type": "state",
+              "website": "https://www.upc.edu"
+            },
+            {
+              "id": "es-universitat-pompeu-fabra",
+              "name": "Universitat Pompeu Fabra",
+              "slug": "universitat-pompeu-fabra",
+              "type": "state",
+              "website": "https://www.upf.edu"
+            },
+            {
+              "id": "es-universitat-ramon-llull",
+              "name": "Universitat Ramon Llull",
+              "slug": "universitat-ramon-llull",
+              "type": "private",
+              "website": "https://www.url.edu"
+            },
+            {
+              "id": "es-universitat-de-barcelona",
+              "name": "Universitat de Barcelona",
+              "slug": "universitat-de-barcelona",
+              "type": "state",
+              "website": "https://www.ub.edu"
+            },
+            {
+              "id": "es-universitat-de-vic-universitat-central-de-catalunya",
+              "name": "Universitat de Vic - Universitat Central de Catalunya",
+              "slug": "universitat-de-vic-universitat-central-de-catalunya",
+              "type": "private",
+              "website": "https://www.uvic.cat"
+            }
+          ]
+        },
+        {
+          "id": "ES-BA",
+          "name": "Badajoz",
+          "slug": "badajoz",
+          "region": "Extremadura",
+          "universities": [
+            {
+              "id": "es-universidad-de-extremadura",
+              "name": "Universidad de Extremadura",
+              "slug": "universidad-de-extremadura",
+              "type": "state",
+              "website": "https://www.unex.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-BI",
+          "name": "Bizkaia",
+          "slug": "bizkaia",
+          "region": "País Vasco",
+          "universities": [
+            {
+              "id": "es-universidad-de-deusto",
+              "name": "Universidad de Deusto",
+              "slug": "universidad-de-deusto",
+              "type": "private",
+              "website": "https://www.deusto.es"
+            },
+            {
+              "id": "es-universidad-del-pa-s-vasco-euskal-herriko-unibertsitatea",
+              "name": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
+              "slug": "universidad-del-pa-s-vasco-euskal-herriko-unibertsitatea",
+              "type": "state",
+              "website": "https://www.ehu.eus"
+            }
+          ]
+        },
+        {
+          "id": "ES-BU",
+          "name": "Burgos",
+          "slug": "burgos",
+          "region": "Castilla y León",
+          "universities": [
+            {
+              "id": "es-universidad-isabel-i",
+              "name": "Universidad Isabel I",
+              "slug": "universidad-isabel-i",
+              "type": "private",
+              "website": "https://www.ui1.es"
+            },
+            {
+              "id": "es-universidad-de-burgos",
+              "name": "Universidad de Burgos",
+              "slug": "universidad-de-burgos",
+              "type": "state",
+              "website": "https://www.ubu.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-C",
+          "name": "A Coruña",
+          "slug": "a-coru-a",
+          "region": "Galicia",
+          "universities": [
+            {
+              "id": "es-universidad-intercontinental-de-la-empresa",
+              "name": "Universidad Intercontinental de la Empresa",
+              "slug": "universidad-intercontinental-de-la-empresa",
+              "type": "private",
+              "website": "https://www.uie.edu"
+            },
+            {
+              "id": "es-universidade-da-coru-a",
+              "name": "Universidade da Coruña",
+              "slug": "universidade-da-coru-a",
+              "type": "state",
+              "website": "https://www.udc.es"
+            },
+            {
+              "id": "es-universidade-de-santiago-de-compostela",
+              "name": "Universidade de Santiago de Compostela",
+              "slug": "universidade-de-santiago-de-compostela",
+              "type": "state",
+              "website": "https://www.usc.gal"
+            }
+          ]
+        },
+        {
+          "id": "ES-CA",
+          "name": "Cádiz",
+          "slug": "c-diz",
+          "region": "Andalucía",
+          "universities": [
+            {
+              "id": "es-universidad-de-c-diz",
+              "name": "Universidad de Cádiz",
+              "slug": "universidad-de-c-diz",
+              "type": "state",
+              "website": "https://www.uca.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-CC",
+          "name": "Cáceres",
+          "slug": "c-ceres",
+          "region": "Extremadura",
+          "universities": []
+        },
+        {
+          "id": "ES-CE",
+          "name": "Ceuta",
+          "slug": "ceuta",
+          "region": "Ceuta",
+          "universities": []
+        },
+        {
+          "id": "ES-CO",
+          "name": "Córdoba",
+          "slug": "c-rdoba",
+          "region": "Andalucía",
+          "universities": [
+            {
+              "id": "es-universidad-de-c-rdoba",
+              "name": "Universidad de Córdoba",
+              "slug": "universidad-de-c-rdoba",
+              "type": "state",
+              "website": "https://www.uco.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-CR",
+          "name": "Ciudad Real",
+          "slug": "ciudad-real",
+          "region": "Castilla-La Mancha",
+          "universities": [
+            {
+              "id": "es-universidad-de-castilla-la-mancha",
+              "name": "Universidad de Castilla-La Mancha",
+              "slug": "universidad-de-castilla-la-mancha",
+              "type": "state",
+              "website": "https://www.uclm.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-CS",
+          "name": "Castellón",
+          "slug": "castell-n",
+          "region": "Comunidad Valenciana",
+          "universities": [
+            {
+              "id": "es-universitat-jaume-i",
+              "name": "Universitat Jaume I",
+              "slug": "universitat-jaume-i",
+              "type": "state",
+              "website": "https://www.uji.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-CU",
+          "name": "Cuenca",
+          "slug": "cuenca",
+          "region": "Castilla-La Mancha",
+          "universities": []
+        },
+        {
+          "id": "ES-GC",
+          "name": "Las Palmas",
+          "slug": "las-palmas",
+          "region": "Canarias",
+          "universities": [
+            {
+              "id": "es-universidad-atl-ntico-medio",
+              "name": "Universidad Atlántico Medio",
+              "slug": "universidad-atl-ntico-medio",
+              "type": "private",
+              "website": "https://www.universidadatlanticomedio.es"
+            },
+            {
+              "id": "es-universidad-fernando-pessoa-canarias",
+              "name": "Universidad Fernando Pessoa Canarias",
+              "slug": "universidad-fernando-pessoa-canarias",
+              "type": "private",
+              "website": "https://www.ufpcanarias.es"
+            },
+            {
+              "id": "es-universidad-de-las-palmas-de-gran-canaria",
+              "name": "Universidad de Las Palmas de Gran Canaria",
+              "slug": "universidad-de-las-palmas-de-gran-canaria",
+              "type": "state",
+              "website": "https://www.ulpgc.es"
+            },
+            {
+              "id": "es-universidad-de-las-hesp-rides",
+              "name": "Universidad de las Hespérides",
+              "slug": "universidad-de-las-hesp-rides",
+              "type": "private",
+              "website": "https://hesperides.edu.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-GI",
+          "name": "Girona",
+          "slug": "girona",
+          "region": "Cataluña",
+          "universities": [
+            {
+              "id": "es-universitat-de-girona",
+              "name": "Universitat de Girona",
+              "slug": "universitat-de-girona",
+              "type": "state",
+              "website": "https://www.udg.edu"
+            }
+          ]
+        },
+        {
+          "id": "ES-GR",
+          "name": "Granada",
+          "slug": "granada",
+          "region": "Andalucía",
+          "universities": [
+            {
+              "id": "es-universidad-de-granada",
+              "name": "Universidad de Granada",
+              "slug": "universidad-de-granada",
+              "type": "state",
+              "website": "https://www.ugr.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-GU",
+          "name": "Guadalajara",
+          "slug": "guadalajara",
+          "region": "Castilla-La Mancha",
+          "universities": []
+        },
+        {
+          "id": "ES-H",
+          "name": "Huelva",
+          "slug": "huelva",
+          "region": "Andalucía",
+          "universities": [
+            {
+              "id": "es-universidad-de-huelva",
+              "name": "Universidad de Huelva",
+              "slug": "universidad-de-huelva",
+              "type": "state",
+              "website": "https://www.uhu.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-HU",
+          "name": "Huesca",
+          "slug": "huesca",
+          "region": "Aragón",
+          "universities": []
+        },
+        {
+          "id": "ES-J",
+          "name": "Jaén",
+          "slug": "ja-n",
+          "region": "Andalucía",
+          "universities": [
+            {
+              "id": "es-universidad-de-ja-n",
+              "name": "Universidad de Jaén",
+              "slug": "universidad-de-ja-n",
+              "type": "state",
+              "website": "https://www.ujaen.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-L",
+          "name": "Lleida",
+          "slug": "lleida",
+          "region": "Cataluña",
+          "universities": [
+            {
+              "id": "es-universitat-de-lleida",
+              "name": "Universitat de Lleida",
+              "slug": "universitat-de-lleida",
+              "type": "state",
+              "website": "https://www.udl.cat"
+            }
+          ]
+        },
+        {
+          "id": "ES-LE",
+          "name": "León",
+          "slug": "le-n",
+          "region": "Castilla y León",
+          "universities": [
+            {
+              "id": "es-universidad-de-le-n",
+              "name": "Universidad de León",
+              "slug": "universidad-de-le-n",
+              "type": "state",
+              "website": "https://www.unileon.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-LO",
+          "name": "La Rioja",
+          "slug": "la-rioja",
+          "region": "La Rioja",
+          "universities": [
+            {
+              "id": "es-universidad-internacional-de-la-rioja",
+              "name": "Universidad Internacional de La Rioja",
+              "slug": "universidad-internacional-de-la-rioja",
+              "type": "private",
+              "website": "https://www.unir.net"
+            },
+            {
+              "id": "es-universidad-de-la-rioja",
+              "name": "Universidad de La Rioja",
+              "slug": "universidad-de-la-rioja",
+              "type": "state",
+              "website": "https://www.unirioja.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-LU",
+          "name": "Lugo",
+          "slug": "lugo",
+          "region": "Galicia",
+          "universities": []
+        },
+        {
+          "id": "ES-M",
+          "name": "Madrid",
+          "slug": "madrid",
+          "region": "Comunidad de Madrid",
+          "universities": [
+            {
+              "id": "es-cunef-universidad",
+              "name": "CUNEF Universidad",
+              "slug": "cunef-universidad",
+              "type": "private",
+              "website": "https://www.cunef.edu"
+            },
+            {
+              "id": "es-esic-universidad",
+              "name": "ESIC Universidad",
+              "slug": "esic-universidad",
+              "type": "private",
+              "website": "https://www.esic.edu"
+            },
+            {
+              "id": "es-ie-universidad-madrid",
+              "name": "IE Universidad Madrid",
+              "slug": "ie-universidad-madrid",
+              "type": "private",
+              "website": "https://www.ie.edu"
+            },
+            {
+              "id": "es-unie-universidad",
+              "name": "UNIE Universidad",
+              "slug": "unie-universidad",
+              "type": "private",
+              "website": "https://www.universidadunie.com"
+            },
+            {
+              "id": "es-universidad-alfonso-x-el-sabio",
+              "name": "Universidad Alfonso X el Sabio",
+              "slug": "universidad-alfonso-x-el-sabio",
+              "type": "private",
+              "website": "https://www.uax.com"
+            },
+            {
+              "id": "es-universidad-antonio-de-nebrija",
+              "name": "Universidad Antonio de Nebrija",
+              "slug": "universidad-antonio-de-nebrija",
+              "type": "private",
+              "website": "https://www.nebrija.com"
+            },
+            {
+              "id": "es-universidad-aut-noma-de-madrid",
+              "name": "Universidad Autónoma de Madrid",
+              "slug": "universidad-aut-noma-de-madrid",
+              "type": "state",
+              "website": "https://www.uam.es"
+            },
+            {
+              "id": "es-universidad-ceu-san-pablo",
+              "name": "Universidad CEU San Pablo",
+              "slug": "universidad-ceu-san-pablo",
+              "type": "private",
+              "website": "https://www.uspceu.com"
+            },
+            {
+              "id": "es-universidad-camilo-jos-cela",
+              "name": "Universidad Camilo José Cela",
+              "slug": "universidad-camilo-jos-cela",
+              "type": "private",
+              "website": "https://www.ucjc.edu"
+            },
+            {
+              "id": "es-universidad-carlos-iii-de-madrid",
+              "name": "Universidad Carlos III de Madrid",
+              "slug": "universidad-carlos-iii-de-madrid",
+              "type": "state",
+              "website": "https://www.uc3m.es"
+            },
+            {
+              "id": "es-universidad-complutense-de-madrid",
+              "name": "Universidad Complutense de Madrid",
+              "slug": "universidad-complutense-de-madrid",
+              "type": "state",
+              "website": "https://www.ucm.es"
+            },
+            {
+              "id": "es-universidad-eclesi-stica-san-d-maso",
+              "name": "Universidad Eclesiástica San Dámaso",
+              "slug": "universidad-eclesi-stica-san-d-maso",
+              "type": "private",
+              "website": "https://sandamaso.es"
+            },
+            {
+              "id": "es-universidad-europea-de-madrid",
+              "name": "Universidad Europea de Madrid",
+              "slug": "universidad-europea-de-madrid",
+              "type": "private",
+              "website": "https://universidadeuropea.com"
+            },
+            {
+              "id": "es-universidad-francisco-de-vitoria",
+              "name": "Universidad Francisco de Vitoria",
+              "slug": "universidad-francisco-de-vitoria",
+              "type": "private",
+              "website": "https://www.ufv.es"
+            },
+            {
+              "id": "es-universidad-internacional-men-ndez-pelayo",
+              "name": "Universidad Internacional Menéndez Pelayo",
+              "slug": "universidad-internacional-men-ndez-pelayo",
+              "type": "state",
+              "website": "https://www.uimp.es"
+            },
+            {
+              "id": "es-universidad-internacional-villanueva",
+              "name": "Universidad Internacional Villanueva",
+              "slug": "universidad-internacional-villanueva",
+              "type": "private",
+              "website": "https://www.villanueva.edu"
+            },
+            {
+              "id": "es-universidad-nacional-de-educaci-n-a-distancia",
+              "name": "Universidad Nacional de Educación a Distancia",
+              "slug": "universidad-nacional-de-educaci-n-a-distancia",
+              "type": "state",
+              "website": "https://www.uned.es"
+            },
+            {
+              "id": "es-universidad-polit-cnica-de-madrid",
+              "name": "Universidad Politécnica de Madrid",
+              "slug": "universidad-polit-cnica-de-madrid",
+              "type": "state",
+              "website": "https://www.upm.es"
+            },
+            {
+              "id": "es-universidad-pontificia-comillas",
+              "name": "Universidad Pontificia Comillas",
+              "slug": "universidad-pontificia-comillas",
+              "type": "private",
+              "website": "https://www.comillas.edu"
+            },
+            {
+              "id": "es-universidad-rey-juan-carlos",
+              "name": "Universidad Rey Juan Carlos",
+              "slug": "universidad-rey-juan-carlos",
+              "type": "state",
+              "website": "https://www.urjc.es"
+            },
+            {
+              "id": "es-universidad-a-distancia-de-madrid-udima",
+              "name": "Universidad a Distancia de Madrid (UDIMA)",
+              "slug": "universidad-a-distancia-de-madrid-udima",
+              "type": "private",
+              "website": "https://www.udima.es"
+            },
+            {
+              "id": "es-universidad-de-alcal",
+              "name": "Universidad de Alcalá",
+              "slug": "universidad-de-alcal",
+              "type": "state",
+              "website": "https://www.uah.es"
+            },
+            {
+              "id": "es-universidad-de-dise-o-innovaci-n-y-tecnolog-a-udit",
+              "name": "Universidad de Diseño, Innovación y Tecnología (UDIT)",
+              "slug": "universidad-de-dise-o-innovaci-n-y-tecnolog-a-udit",
+              "type": "private",
+              "website": "https://www.udit.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-MA",
+          "name": "Málaga",
+          "slug": "m-laga",
+          "region": "Andalucía",
+          "universities": [
+            {
+              "id": "es-universidad-alfonso-x-el-sabio-mare-nostrum",
+              "name": "Universidad Alfonso X el Sabio Mare Nostrum",
+              "slug": "universidad-alfonso-x-el-sabio-mare-nostrum",
+              "type": "private",
+              "website": "https://www.uax.com"
+            },
+            {
+              "id": "es-universidad-europea-de-andaluc-a",
+              "name": "Universidad Europea de Andalucía",
+              "slug": "universidad-europea-de-andaluc-a",
+              "type": "private",
+              "website": "https://universidadeuropea.com"
+            },
+            {
+              "id": "es-universidad-tecnol-gica-atl-ntico-mediterr-neo",
+              "name": "Universidad Tecnológica Atlántico-Mediterráneo",
+              "slug": "universidad-tecnol-gica-atl-ntico-mediterr-neo",
+              "type": "private",
+              "website": "https://utamed.es"
+            },
+            {
+              "id": "es-universidad-de-m-laga",
+              "name": "Universidad de Málaga",
+              "slug": "universidad-de-m-laga",
+              "type": "state",
+              "website": "https://www.uma.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-ML",
+          "name": "Melilla",
+          "slug": "melilla",
+          "region": "Melilla",
+          "universities": []
+        },
+        {
+          "id": "ES-MU",
+          "name": "Murcia",
+          "slug": "murcia",
+          "region": "Región de Murcia",
+          "universities": [
+            {
+              "id": "es-universidad-cat-lica-san-antonio-de-murcia",
+              "name": "Universidad Católica San Antonio de Murcia",
+              "slug": "universidad-cat-lica-san-antonio-de-murcia",
+              "type": "private",
+              "website": "https://www.ucam.edu"
+            },
+            {
+              "id": "es-universidad-polit-cnica-de-cartagena",
+              "name": "Universidad Politécnica de Cartagena",
+              "slug": "universidad-polit-cnica-de-cartagena",
+              "type": "state",
+              "website": "https://www.upct.es"
+            },
+            {
+              "id": "es-universidad-de-murcia",
+              "name": "Universidad de Murcia",
+              "slug": "universidad-de-murcia",
+              "type": "state",
+              "website": "https://www.um.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-NA",
+          "name": "Navarra",
+          "slug": "navarra",
+          "region": "Comunidad Foral de Navarra",
+          "universities": [
+            {
+              "id": "es-universidad-p-blica-de-navarra",
+              "name": "Universidad Pública de Navarra",
+              "slug": "universidad-p-blica-de-navarra",
+              "type": "state",
+              "website": "https://www.unavarra.es"
+            },
+            {
+              "id": "es-universidad-de-navarra",
+              "name": "Universidad de Navarra",
+              "slug": "universidad-de-navarra",
+              "type": "private",
+              "website": "https://www.unav.edu"
+            }
+          ]
+        },
+        {
+          "id": "ES-O",
+          "name": "Asturias",
+          "slug": "asturias",
+          "region": "Principado de Asturias",
+          "universities": [
+            {
+              "id": "es-universidad-de-oviedo",
+              "name": "Universidad de Oviedo",
+              "slug": "universidad-de-oviedo",
+              "type": "state",
+              "website": "https://www.uniovi.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-OR",
+          "name": "Ourense",
+          "slug": "ourense",
+          "region": "Galicia",
+          "universities": []
+        },
+        {
+          "id": "ES-P",
+          "name": "Palencia",
+          "slug": "palencia",
+          "region": "Castilla y León",
+          "universities": []
+        },
+        {
+          "id": "ES-PM",
+          "name": "Illes Balears",
+          "slug": "illes-balears",
+          "region": "Illes Balears",
+          "universities": [
+            {
+              "id": "es-universitat-de-les-illes-balears",
+              "name": "Universitat de les Illes Balears",
+              "slug": "universitat-de-les-illes-balears",
+              "type": "state",
+              "website": "https://www.uib.eu"
+            }
+          ]
+        },
+        {
+          "id": "ES-PO",
+          "name": "Pontevedra",
+          "slug": "pontevedra",
+          "region": "Galicia",
+          "universities": [
+            {
+              "id": "es-universidade-de-vigo",
+              "name": "Universidade de Vigo",
+              "slug": "universidade-de-vigo",
+              "type": "state",
+              "website": "https://www.uvigo.gal"
+            }
+          ]
+        },
+        {
+          "id": "ES-S",
+          "name": "Cantabria",
+          "slug": "cantabria",
+          "region": "Cantabria",
+          "universities": [
+            {
+              "id": "es-universidad-europea-del-atl-ntico",
+              "name": "Universidad Europea del Atlántico",
+              "slug": "universidad-europea-del-atl-ntico",
+              "type": "private",
+              "website": "https://www.uneatlantico.es"
+            },
+            {
+              "id": "es-universidad-de-cantabria",
+              "name": "Universidad de Cantabria",
+              "slug": "universidad-de-cantabria",
+              "type": "state",
+              "website": "https://www.unican.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-SA",
+          "name": "Salamanca",
+          "slug": "salamanca",
+          "region": "Castilla y León",
+          "universities": [
+            {
+              "id": "es-universidad-pontificia-de-salamanca",
+              "name": "Universidad Pontificia de Salamanca",
+              "slug": "universidad-pontificia-de-salamanca",
+              "type": "private",
+              "website": "https://www.upsa.es"
+            },
+            {
+              "id": "es-universidad-de-salamanca",
+              "name": "Universidad de Salamanca",
+              "slug": "universidad-de-salamanca",
+              "type": "state",
+              "website": "https://www.usal.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-SE",
+          "name": "Sevilla",
+          "slug": "sevilla",
+          "region": "Andalucía",
+          "universities": [
+            {
+              "id": "es-universidad-ceu-fernando-iii",
+              "name": "Universidad CEU Fernando III",
+              "slug": "universidad-ceu-fernando-iii",
+              "type": "private",
+              "website": "https://uf3ceu.es"
+            },
+            {
+              "id": "es-universidad-internacional-de-andaluc-a",
+              "name": "Universidad Internacional de Andalucía",
+              "slug": "universidad-internacional-de-andaluc-a",
+              "type": "state",
+              "website": "https://www.unia.es"
+            },
+            {
+              "id": "es-universidad-loyola-andaluc-a",
+              "name": "Universidad Loyola Andalucía",
+              "slug": "universidad-loyola-andaluc-a",
+              "type": "private",
+              "website": "https://www.uloyola.es"
+            },
+            {
+              "id": "es-universidad-pablo-de-olavide",
+              "name": "Universidad Pablo de Olavide",
+              "slug": "universidad-pablo-de-olavide",
+              "type": "state",
+              "website": "https://www.upo.es"
+            },
+            {
+              "id": "es-universidad-de-sevilla",
+              "name": "Universidad de Sevilla",
+              "slug": "universidad-de-sevilla",
+              "type": "state",
+              "website": "https://www.us.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-SG",
+          "name": "Segovia",
+          "slug": "segovia",
+          "region": "Castilla y León",
+          "universities": [
+            {
+              "id": "es-ie-universidad",
+              "name": "IE Universidad",
+              "slug": "ie-universidad",
+              "type": "private",
+              "website": "https://www.ie.edu"
+            }
+          ]
+        },
+        {
+          "id": "ES-SO",
+          "name": "Soria",
+          "slug": "soria",
+          "region": "Castilla y León",
+          "universities": []
+        },
+        {
+          "id": "ES-SS",
+          "name": "Gipuzkoa",
+          "slug": "gipuzkoa",
+          "region": "País Vasco",
+          "universities": [
+            {
+              "id": "es-mondragon-unibertsitatea",
+              "name": "Mondragon Unibertsitatea",
+              "slug": "mondragon-unibertsitatea",
+              "type": "private",
+              "website": "https://www.mondragon.edu"
+            }
+          ]
+        },
+        {
+          "id": "ES-T",
+          "name": "Tarragona",
+          "slug": "tarragona",
+          "region": "Cataluña",
+          "universities": [
+            {
+              "id": "es-universitat-rovira-i-virgili",
+              "name": "Universitat Rovira i Virgili",
+              "slug": "universitat-rovira-i-virgili",
+              "type": "state",
+              "website": "https://www.urv.cat"
+            }
+          ]
+        },
+        {
+          "id": "ES-TE",
+          "name": "Teruel",
+          "slug": "teruel",
+          "region": "Aragón",
+          "universities": []
+        },
+        {
+          "id": "ES-TF",
+          "name": "Santa Cruz de Tenerife",
+          "slug": "santa-cruz-de-tenerife",
+          "region": "Canarias",
+          "universities": [
+            {
+              "id": "es-universidad-europea-de-canarias",
+              "name": "Universidad Europea de Canarias",
+              "slug": "universidad-europea-de-canarias",
+              "type": "private",
+              "website": "https://universidadeuropea.com/canarias"
+            },
+            {
+              "id": "es-universidad-de-la-laguna",
+              "name": "Universidad de La Laguna",
+              "slug": "universidad-de-la-laguna",
+              "type": "state",
+              "website": "https://www.ull.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-TO",
+          "name": "Toledo",
+          "slug": "toledo",
+          "region": "Castilla-La Mancha",
+          "universities": []
+        },
+        {
+          "id": "ES-V",
+          "name": "Valencia",
+          "slug": "valencia",
+          "region": "Comunidad Valenciana",
+          "universities": [
+            {
+              "id": "es-universidad-ceu-cardenal-herrera",
+              "name": "Universidad CEU Cardenal Herrera",
+              "slug": "universidad-ceu-cardenal-herrera",
+              "type": "private",
+              "website": "https://www.uchceu.es"
+            },
+            {
+              "id": "es-universidad-cat-lica-de-valencia-san-vicente-m-rtir",
+              "name": "Universidad Católica de Valencia San Vicente Mártir",
+              "slug": "universidad-cat-lica-de-valencia-san-vicente-m-rtir",
+              "type": "private",
+              "website": "https://www.ucv.es"
+            },
+            {
+              "id": "es-universidad-europea-de-valencia",
+              "name": "Universidad Europea de Valencia",
+              "slug": "universidad-europea-de-valencia",
+              "type": "private",
+              "website": "https://universidadeuropea.com/valencia/"
+            },
+            {
+              "id": "es-universidad-internacional-de-valencia",
+              "name": "Universidad Internacional de Valencia",
+              "slug": "universidad-internacional-de-valencia",
+              "type": "private",
+              "website": "https://www.universidadviu.com"
+            },
+            {
+              "id": "es-universitat-polit-cnica-de-val-ncia",
+              "name": "Universitat Politècnica de València",
+              "slug": "universitat-polit-cnica-de-val-ncia",
+              "type": "state",
+              "website": "https://www.upv.es"
+            },
+            {
+              "id": "es-universitat-de-val-ncia",
+              "name": "Universitat de València",
+              "slug": "universitat-de-val-ncia",
+              "type": "state",
+              "website": "https://www.uv.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-VA",
+          "name": "Valladolid",
+          "slug": "valladolid",
+          "region": "Castilla y León",
+          "universities": [
+            {
+              "id": "es-universidad-europea-miguel-de-cervantes",
+              "name": "Universidad Europea Miguel de Cervantes",
+              "slug": "universidad-europea-miguel-de-cervantes",
+              "type": "private",
+              "website": "https://www.uemc.es"
+            },
+            {
+              "id": "es-universidad-de-valladolid",
+              "name": "Universidad de Valladolid",
+              "slug": "universidad-de-valladolid",
+              "type": "state",
+              "website": "https://www.uva.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-VI",
+          "name": "Álava",
+          "slug": "lava",
+          "region": "País Vasco",
+          "universities": [
+            {
+              "id": "es-universidad-euneiz",
+              "name": "Universidad EUNEIZ",
+              "slug": "universidad-euneiz",
+              "type": "private",
+              "website": "https://euneiz.com"
+            }
+          ]
+        },
+        {
+          "id": "ES-Z",
+          "name": "Zaragoza",
+          "slug": "zaragoza",
+          "region": "Aragón",
+          "universities": [
+            {
+              "id": "es-universidad-san-jorge",
+              "name": "Universidad San Jorge",
+              "slug": "universidad-san-jorge",
+              "type": "private",
+              "website": "https://www.usj.es"
+            },
+            {
+              "id": "es-universidad-de-zaragoza",
+              "name": "Universidad de Zaragoza",
+              "slug": "universidad-de-zaragoza",
+              "type": "state",
+              "website": "https://www.unizar.es"
+            }
+          ]
+        },
+        {
+          "id": "ES-ZA",
+          "name": "Zamora",
+          "slug": "zamora",
+          "region": "Castilla y León",
+          "universities": []
+        }
+      ]
+    },
+    {
       "code": "TR",
       "name": "Türkiye",
       "name_en": "Turkey",

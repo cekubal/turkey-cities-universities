@@ -1,0 +1,8 @@
+{
+  "code": "ES-GI",
+  "name": "Girona",
+  "region": "Cataluña",
+  "universities": [
+    {"name": "Universitat de Girona", "type": "state", "website": "https://www.udg.edu"}
+  ]
+}

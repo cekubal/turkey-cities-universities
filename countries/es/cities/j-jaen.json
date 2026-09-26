@@ -1,0 +1,8 @@
+{
+  "code": "ES-J",
+  "name": "Jaén",
+  "region": "Andalucía",
+  "universities": [
+    {"name": "Universidad de Jaén", "type": "state", "website": "https://www.ujaen.es"}
+  ]
+}

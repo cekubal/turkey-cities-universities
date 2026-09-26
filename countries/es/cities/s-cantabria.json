@@ -1,0 +1,17 @@
+{
+  "code": "ES-S",
+  "name": "Cantabria",
+  "region": "Cantabria",
+  "universities": [
+    {
+      "name": "Universidad Europea del Atlántico",
+      "type": "private",
+      "website": "https://www.uneatlantico.es"
+    },
+    {
+      "name": "Universidad de Cantabria",
+      "type": "state",
+      "website": "https://www.unican.es"
+    }
+  ]
+}

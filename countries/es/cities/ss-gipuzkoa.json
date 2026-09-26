@@ -1,0 +1,8 @@
+{
+  "code": "ES-SS",
+  "name": "Gipuzkoa",
+  "region": "País Vasco",
+  "universities": [
+    {"name": "Mondragon Unibertsitatea", "type": "private", "website": "https://www.mondragon.edu"}
+  ]
+}

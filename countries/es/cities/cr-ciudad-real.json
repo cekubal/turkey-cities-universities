@@ -1,0 +1,12 @@
+{
+  "code": "ES-CR",
+  "name": "Ciudad Real",
+  "region": "Castilla-La Mancha",
+  "universities": [
+    {
+      "name": "Universidad de Castilla-La Mancha",
+      "type": "state",
+      "website": "https://www.uclm.es"
+    }
+  ]
+}

@@ -1,5 +1,12 @@
 [
   {
+    "code": "ES",
+    "name": "España",
+    "name_en": "Spain",
+    "city_count": 52,
+    "university_count": 97
+  },
+  {
     "code": "TR",
     "name": "Türkiye",
     "name_en": "Turkey",

@@ -8,6 +8,7 @@ An open dataset of **countries → cities → universities** for cascading form 
 
 | Ülke | Kod | Şehir | Üniversite | Dosya |
 |---|---|---|---|---|
+| 🇪🇸 España (Spain) | ES | 52 | 97 | [`dist/es.json`](dist/es.json) |
 | 🇹🇷 Türkiye | TR | 81 | 205 | [`dist/tr.json`](dist/tr.json) |
 
 Yeni ülkeler eklenmeye devam ediyor. / More countries coming.
@@ -69,6 +70,7 @@ world-cities-universities/
 - Üniversite `id`: `<ülke>-<slug>` — sabittir, liste değişse de değişmez; formlarda değer olarak güvenle kaydedilebilir
 - `type`: `state` (devlet), `foundation` (vakıf) veya `private` (özel)
 - Ülkeye özel ek alanlar olabilir (ör. Türkiye için `plate_code`, `region`)
+- Üniversiteler resmi merkezlerinin (rektörlük) bulunduğu şehirde listelenir
 
 ## Kullanım / Usage
 
@@ -108,6 +110,7 @@ Eksik, kapanmış veya adı değişmiş bir üniversite görürseniz issue açab
 
 ## Kaynaklar / Sources
 
+- España: [RUCT – Ministerio de Ciencia, Innovación y Universidades](https://www.educacion.gob.es/ruct/), [Wikipedia – Anexo:Universidades de España](https://es.wikipedia.org/wiki/Anexo:Universidades_de_Espa%C3%B1a)
 - Türkiye: [YÖK](https://www.yok.gov.tr), [Vikipedi – Türkiye'deki üniversiteler listesi](https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_%C3%BCniversiteler_listesi)
 
 ## Lisans / License

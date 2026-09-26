@@ -1,0 +1,27 @@
+{
+  "code": "ES-MA",
+  "name": "Málaga",
+  "region": "Andalucía",
+  "universities": [
+    {
+      "name": "Universidad Alfonso X el Sabio Mare Nostrum",
+      "type": "private",
+      "website": "https://www.uax.com"
+    },
+    {
+      "name": "Universidad Europea de Andalucía",
+      "type": "private",
+      "website": "https://universidadeuropea.com"
+    },
+    {
+      "name": "Universidad Tecnológica Atlántico-Mediterráneo",
+      "type": "private",
+      "website": "https://utamed.es"
+    },
+    {
+      "name": "Universidad de Málaga",
+      "type": "state",
+      "website": "https://www.uma.es"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "ES-SA",
+  "name": "Salamanca",
+  "region": "Castilla y León",
+  "universities": [
+    {
+      "name": "Universidad de Salamanca",
+      "type": "state",
+      "website": "https://www.usal.es"
+    },
+    {
+      "name": "Universidad Pontificia de Salamanca",
+      "type": "private",
+      "website": "https://www.upsa.es"
+    }
+  ]
+}

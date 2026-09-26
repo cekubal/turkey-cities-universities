@@ -1,0 +1,122 @@
+{
+  "code": "ES-M",
+  "name": "Madrid",
+  "region": "Comunidad de Madrid",
+  "universities": [
+    {
+      "name": "CUNEF Universidad",
+      "type": "private",
+      "website": "https://www.cunef.edu"
+    },
+    {
+      "name": "ESIC Universidad",
+      "type": "private",
+      "website": "https://www.esic.edu"
+    },
+    {
+      "name": "IE Universidad Madrid",
+      "type": "private",
+      "website": "https://www.ie.edu"
+    },
+    {
+      "name": "UNIE Universidad",
+      "type": "private",
+      "website": "https://www.universidadunie.com"
+    },
+    {
+      "name": "Universidad Alfonso X el Sabio",
+      "type": "private",
+      "website": "https://www.uax.com"
+    },
+    {
+      "name": "Universidad Antonio de Nebrija",
+      "type": "private",
+      "website": "https://www.nebrija.com"
+    },
+    {
+      "name": "Universidad Autónoma de Madrid",
+      "type": "state",
+      "website": "https://www.uam.es"
+    },
+    {
+      "name": "Universidad CEU San Pablo",
+      "type": "private",
+      "website": "https://www.uspceu.com"
+    },
+    {
+      "name": "Universidad Camilo José Cela",
+      "type": "private",
+      "website": "https://www.ucjc.edu"
+    },
+    {
+      "name": "Universidad Carlos III de Madrid",
+      "type": "state",
+      "website": "https://www.uc3m.es"
+    },
+    {
+      "name": "Universidad Complutense de Madrid",
+      "type": "state",
+      "website": "https://www.ucm.es"
+    },
+    {
+      "name": "Universidad Eclesiástica San Dámaso",
+      "type": "private",
+      "website": "https://sandamaso.es"
+    },
+    {
+      "name": "Universidad Europea de Madrid",
+      "type": "private",
+      "website": "https://universidadeuropea.com"
+    },
+    {
+      "name": "Universidad Francisco de Vitoria",
+      "type": "private",
+      "website": "https://www.ufv.es"
+    },
+    {
+      "name": "Universidad Internacional Menéndez Pelayo",
+      "type": "state",
+      "website": "https://www.uimp.es"
+    },
+    {
+      "name": "Universidad Internacional Villanueva",
+      "type": "private",
+      "website": "https://www.villanueva.edu"
+    },
+    {
+      "name": "Universidad Nacional de Educación a Distancia",
+      "type": "state",
+      "website": "https://www.uned.es"
+    },
+    {
+      "name": "Universidad Politécnica de Madrid",
+      "type": "state",
+      "website": "https://www.upm.es"
+    },
+    {
+      "name": "Universidad Pontificia Comillas",
+      "type": "private",
+      "website": "https://www.comillas.edu"
+    },
+    {
+      "name": "Universidad Rey Juan Carlos",
+      "type": "state",
+      "website": "https://www.urjc.es"
+    },
+    {
+      "name": "Universidad a Distancia de Madrid (UDIMA)",
+      "type": "private",
+      "website": "https://www.udima.es"
+    },
+    {
+      "name": "Universidad de Alcalá",
+      "type": "state",
+      "website": "https://www.uah.es"
+    },
+    {
+      "name": "Universidad de Diseño, Innovación y Tecnología (UDIT)",
+      "type": "private",
+      "website": "https://www.udit.es"
+    }
+  ]
+}

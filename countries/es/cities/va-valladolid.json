@@ -1,0 +1,17 @@
+{
+  "code": "ES-VA",
+  "name": "Valladolid",
+  "region": "Castilla y León",
+  "universities": [
+    {
+      "name": "Universidad de Valladolid",
+      "type": "state",
+      "website": "https://www.uva.es"
+    },
+    {
+      "name": "Universidad Europea Miguel de Cervantes",
+      "type": "private",
+      "website": "https://www.uemc.es"
+    }
+  ]
+}

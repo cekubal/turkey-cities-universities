@@ -1,0 +1,12 @@
+{
+  "code": "ES-AV",
+  "name": "Ávila",
+  "region": "Castilla y León",
+  "universities": [
+    {
+      "name": "Universidad Católica de Ávila",
+      "type": "private",
+      "website": "https://www.ucavila.es"
+    }
+  ]
+}

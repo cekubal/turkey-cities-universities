@@ -1,0 +1,12 @@
+{
+  "code": "ES-VI",
+  "name": "Álava",
+  "region": "País Vasco",
+  "universities": [
+    {
+      "name": "Universidad EUNEIZ",
+      "type": "private",
+      "website": "https://euneiz.com"
+    }
+  ]
+}

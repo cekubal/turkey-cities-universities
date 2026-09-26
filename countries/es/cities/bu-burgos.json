@@ -1,0 +1,17 @@
+{
+  "code": "ES-BU",
+  "name": "Burgos",
+  "region": "Castilla y León",
+  "universities": [
+    {
+      "name": "Universidad de Burgos",
+      "type": "state",
+      "website": "https://www.ubu.es"
+    },
+    {
+      "name": "Universidad Isabel I",
+      "type": "private",
+      "website": "https://www.ui1.es"
+    }
+  ]
+}

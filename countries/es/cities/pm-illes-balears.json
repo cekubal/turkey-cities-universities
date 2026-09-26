@@ -1,0 +1,8 @@
+{
+  "code": "ES-PM",
+  "name": "Illes Balears",
+  "region": "Illes Balears",
+  "universities": [
+    {"name": "Universitat de les Illes Balears", "type": "state", "website": "https://www.uib.eu"}
+  ]
+}

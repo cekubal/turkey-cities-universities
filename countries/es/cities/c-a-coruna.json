@@ -1,0 +1,22 @@
+{
+  "code": "ES-C",
+  "name": "A Coruña",
+  "region": "Galicia",
+  "universities": [
+    {
+      "name": "Universidad Intercontinental de la Empresa",
+      "type": "private",
+      "website": "https://www.uie.edu"
+    },
+    {
+      "name": "Universidade da Coruña",
+      "type": "state",
+      "website": "https://www.udc.es"
+    },
+    {
+      "name": "Universidade de Santiago de Compostela",
+      "type": "state",
+      "website": "https://www.usc.gal"
+    }
+  ]
+}

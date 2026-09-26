@@ -1,0 +1,8 @@
+{
+  "code": "ES-GR",
+  "name": "Granada",
+  "region": "Andalucía",
+  "universities": [
+    {"name": "Universidad de Granada", "type": "state", "website": "https://www.ugr.es"}
+  ]
+}

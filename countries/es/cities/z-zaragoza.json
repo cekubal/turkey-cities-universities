@@ -1,0 +1,9 @@
+{
+  "code": "ES-Z",
+  "name": "Zaragoza",
+  "region": "Aragón",
+  "universities": [
+    {"name": "Universidad de Zaragoza", "type": "state", "website": "https://www.unizar.es"},
+    {"name": "Universidad San Jorge", "type": "private", "website": "https://www.usj.es"}
+  ]
+}

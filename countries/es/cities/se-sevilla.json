@@ -1,0 +1,12 @@
+{
+  "code": "ES-SE",
+  "name": "Sevilla",
+  "region": "Andalucía",
+  "universities": [
+    {"name": "Universidad CEU Fernando III", "type": "private", "website": "https://uf3ceu.es"},
+    {"name": "Universidad de Sevilla", "type": "state", "website": "https://www.us.es"},
+    {"name": "Universidad Internacional de Andalucía", "type": "state", "website": "https://www.unia.es"},
+    {"name": "Universidad Loyola Andalucía", "type": "private", "website": "https://www.uloyola.es"},
+    {"name": "Universidad Pablo de Olavide", "type": "state", "website": "https://www.upo.es"}
+  ]
+}

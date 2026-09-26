@@ -1,0 +1,11 @@
+{
+  "code": "ES-GC",
+  "name": "Las Palmas",
+  "region": "Canarias",
+  "universities": [
+    {"name": "Universidad Atlántico Medio", "type": "private", "website": "https://www.universidadatlanticomedio.es"},
+    {"name": "Universidad de las Hespérides", "type": "private", "website": "https://hesperides.edu.es"},
+    {"name": "Universidad de Las Palmas de Gran Canaria", "type": "state", "website": "https://www.ulpgc.es"},
+    {"name": "Universidad Fernando Pessoa Canarias", "type": "private", "website": "https://www.ufpcanarias.es"}
+  ]
+}

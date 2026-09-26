@@ -1,0 +1,9 @@
+{
+  "code": "ES-LO",
+  "name": "La Rioja",
+  "region": "La Rioja",
+  "universities": [
+    {"name": "Universidad de La Rioja", "type": "state", "website": "https://www.unirioja.es"},
+    {"name": "Universidad Internacional de La Rioja", "type": "private", "website": "https://www.unir.net"}
+  ]
+}

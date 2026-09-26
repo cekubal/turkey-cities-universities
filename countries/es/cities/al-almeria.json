@@ -1,0 +1,8 @@
+{
+  "code": "ES-AL",
+  "name": "Almería",
+  "region": "Andalucía",
+  "universities": [
+    {"name": "Universidad de Almería", "type": "state", "website": "https://www.ual.es"}
+  ]
+}

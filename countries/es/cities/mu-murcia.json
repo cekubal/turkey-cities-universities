@@ -1,0 +1,10 @@
+{
+  "code": "ES-MU",
+  "name": "Murcia",
+  "region": "Región de Murcia",
+  "universities": [
+    {"name": "Universidad Católica San Antonio de Murcia", "type": "private", "website": "https://www.ucam.edu"},
+    {"name": "Universidad de Murcia", "type": "state", "website": "https://www.um.es"},
+    {"name": "Universidad Politécnica de Cartagena", "type": "state", "website": "https://www.upct.es"}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "code": "ES-CS",
+  "name": "Castellón",
+  "region": "Comunidad Valenciana",
+  "universities": [
+    {"name": "Universitat Jaume I", "type": "state", "website": "https://www.uji.es"}
+  ]
+}

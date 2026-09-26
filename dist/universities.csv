@@ -1,4 +1,101 @@
 id,name,slug,type,website,city_id,city,country_code
+es-universidad-miguel-hern-ndez-de-elche,Universidad Miguel Hernández de Elche,universidad-miguel-hern-ndez-de-elche,state,https://www.umh.es,ES-A,Alicante,ES
+es-universidad-de-alicante,Universidad de Alicante,universidad-de-alicante,state,https://www.ua.es,ES-A,Alicante,ES
+es-universidad-de-almer-a,Universidad de Almería,universidad-de-almer-a,state,https://www.ual.es,ES-AL,Almería,ES
+es-universidad-cat-lica-de-vila,Universidad Católica de Ávila,universidad-cat-lica-de-vila,private,https://www.ucavila.es,ES-AV,Ávila,ES
+es-universitat-abat-oliba-ceu,Universitat Abat Oliba CEU,universitat-abat-oliba-ceu,private,https://www.uao.es,ES-B,Barcelona,ES
+es-universitat-aut-noma-de-barcelona,Universitat Autònoma de Barcelona,universitat-aut-noma-de-barcelona,state,https://www.uab.cat,ES-B,Barcelona,ES
+es-universitat-internacional-de-catalunya,Universitat Internacional de Catalunya,universitat-internacional-de-catalunya,private,https://www.uic.es,ES-B,Barcelona,ES
+es-universitat-oberta-de-catalunya,Universitat Oberta de Catalunya,universitat-oberta-de-catalunya,private,https://www.uoc.edu,ES-B,Barcelona,ES
+es-universitat-polit-cnica-de-catalunya,Universitat Politècnica de Catalunya,universitat-polit-cnica-de-catalunya,state,https://www.upc.edu,ES-B,Barcelona,ES
+es-universitat-pompeu-fabra,Universitat Pompeu Fabra,universitat-pompeu-fabra,state,https://www.upf.edu,ES-B,Barcelona,ES
+es-universitat-ramon-llull,Universitat Ramon Llull,universitat-ramon-llull,private,https://www.url.edu,ES-B,Barcelona,ES
+es-universitat-de-barcelona,Universitat de Barcelona,universitat-de-barcelona,state,https://www.ub.edu,ES-B,Barcelona,ES
+es-universitat-de-vic-universitat-central-de-catalunya,Universitat de Vic - Universitat Central de Catalunya,universitat-de-vic-universitat-central-de-catalunya,private,https://www.uvic.cat,ES-B,Barcelona,ES
+es-universidad-de-extremadura,Universidad de Extremadura,universidad-de-extremadura,state,https://www.unex.es,ES-BA,Badajoz,ES
+es-universidad-de-deusto,Universidad de Deusto,universidad-de-deusto,private,https://www.deusto.es,ES-BI,Bizkaia,ES
+es-universidad-del-pa-s-vasco-euskal-herriko-unibertsitatea,Universidad del País Vasco/Euskal Herriko Unibertsitatea,universidad-del-pa-s-vasco-euskal-herriko-unibertsitatea,state,https://www.ehu.eus,ES-BI,Bizkaia,ES
+es-universidad-isabel-i,Universidad Isabel I,universidad-isabel-i,private,https://www.ui1.es,ES-BU,Burgos,ES
+es-universidad-de-burgos,Universidad de Burgos,universidad-de-burgos,state,https://www.ubu.es,ES-BU,Burgos,ES
+es-universidad-intercontinental-de-la-empresa,Universidad Intercontinental de la Empresa,universidad-intercontinental-de-la-empresa,private,https://www.uie.edu,ES-C,A Coruña,ES
+es-universidade-da-coru-a,Universidade da Coruña,universidade-da-coru-a,state,https://www.udc.es,ES-C,A Coruña,ES
+es-universidade-de-santiago-de-compostela,Universidade de Santiago de Compostela,universidade-de-santiago-de-compostela,state,https://www.usc.gal,ES-C,A Coruña,ES
+es-universidad-de-c-diz,Universidad de Cádiz,universidad-de-c-diz,state,https://www.uca.es,ES-CA,Cádiz,ES
+es-universidad-de-c-rdoba,Universidad de Córdoba,universidad-de-c-rdoba,state,https://www.uco.es,ES-CO,Córdoba,ES
+es-universidad-de-castilla-la-mancha,Universidad de Castilla-La Mancha,universidad-de-castilla-la-mancha,state,https://www.uclm.es,ES-CR,Ciudad Real,ES
+es-universitat-jaume-i,Universitat Jaume I,universitat-jaume-i,state,https://www.uji.es,ES-CS,Castellón,ES
+es-universidad-atl-ntico-medio,Universidad Atlántico Medio,universidad-atl-ntico-medio,private,https://www.universidadatlanticomedio.es,ES-GC,Las Palmas,ES
+es-universidad-fernando-pessoa-canarias,Universidad Fernando Pessoa Canarias,universidad-fernando-pessoa-canarias,private,https://www.ufpcanarias.es,ES-GC,Las Palmas,ES
+es-universidad-de-las-palmas-de-gran-canaria,Universidad de Las Palmas de Gran Canaria,universidad-de-las-palmas-de-gran-canaria,state,https://www.ulpgc.es,ES-GC,Las Palmas,ES
+es-universidad-de-las-hesp-rides,Universidad de las Hespérides,universidad-de-las-hesp-rides,private,https://hesperides.edu.es,ES-GC,Las Palmas,ES
+es-universitat-de-girona,Universitat de Girona,universitat-de-girona,state,https://www.udg.edu,ES-GI,Girona,ES
+es-universidad-de-granada,Universidad de Granada,universidad-de-granada,state,https://www.ugr.es,ES-GR,Granada,ES
+es-universidad-de-huelva,Universidad de Huelva,universidad-de-huelva,state,https://www.uhu.es,ES-H,Huelva,ES
+es-universidad-de-ja-n,Universidad de Jaén,universidad-de-ja-n,state,https://www.ujaen.es,ES-J,Jaén,ES
+es-universitat-de-lleida,Universitat de Lleida,universitat-de-lleida,state,https://www.udl.cat,ES-L,Lleida,ES
+es-universidad-de-le-n,Universidad de León,universidad-de-le-n,state,https://www.unileon.es,ES-LE,León,ES
+es-universidad-internacional-de-la-rioja,Universidad Internacional de La Rioja,universidad-internacional-de-la-rioja,private,https://www.unir.net,ES-LO,La Rioja,ES
+es-universidad-de-la-rioja,Universidad de La Rioja,universidad-de-la-rioja,state,https://www.unirioja.es,ES-LO,La Rioja,ES
+es-cunef-universidad,CUNEF Universidad,cunef-universidad,private,https://www.cunef.edu,ES-M,Madrid,ES
+es-esic-universidad,ESIC Universidad,esic-universidad,private,https://www.esic.edu,ES-M,Madrid,ES
+es-ie-universidad-madrid,IE Universidad Madrid,ie-universidad-madrid,private,https://www.ie.edu,ES-M,Madrid,ES
+es-unie-universidad,UNIE Universidad,unie-universidad,private,https://www.universidadunie.com,ES-M,Madrid,ES
+es-universidad-alfonso-x-el-sabio,Universidad Alfonso X el Sabio,universidad-alfonso-x-el-sabio,private,https://www.uax.com,ES-M,Madrid,ES
+es-universidad-antonio-de-nebrija,Universidad Antonio de Nebrija,universidad-antonio-de-nebrija,private,https://www.nebrija.com,ES-M,Madrid,ES
+es-universidad-aut-noma-de-madrid,Universidad Autónoma de Madrid,universidad-aut-noma-de-madrid,state,https://www.uam.es,ES-M,Madrid,ES
+es-universidad-ceu-san-pablo,Universidad CEU San Pablo,universidad-ceu-san-pablo,private,https://www.uspceu.com,ES-M,Madrid,ES
+es-universidad-camilo-jos-cela,Universidad Camilo José Cela,universidad-camilo-jos-cela,private,https://www.ucjc.edu,ES-M,Madrid,ES
+es-universidad-carlos-iii-de-madrid,Universidad Carlos III de Madrid,universidad-carlos-iii-de-madrid,state,https://www.uc3m.es,ES-M,Madrid,ES
+es-universidad-complutense-de-madrid,Universidad Complutense de Madrid,universidad-complutense-de-madrid,state,https://www.ucm.es,ES-M,Madrid,ES
+es-universidad-eclesi-stica-san-d-maso,Universidad Eclesiástica San Dámaso,universidad-eclesi-stica-san-d-maso,private,https://sandamaso.es,ES-M,Madrid,ES
+es-universidad-europea-de-madrid,Universidad Europea de Madrid,universidad-europea-de-madrid,private,https://universidadeuropea.com,ES-M,Madrid,ES
+es-universidad-francisco-de-vitoria,Universidad Francisco de Vitoria,universidad-francisco-de-vitoria,private,https://www.ufv.es,ES-M,Madrid,ES
+es-universidad-internacional-men-ndez-pelayo,Universidad Internacional Menéndez Pelayo,universidad-internacional-men-ndez-pelayo,state,https://www.uimp.es,ES-M,Madrid,ES
+es-universidad-internacional-villanueva,Universidad Internacional Villanueva,universidad-internacional-villanueva,private,https://www.villanueva.edu,ES-M,Madrid,ES
+es-universidad-nacional-de-educaci-n-a-distancia,Universidad Nacional de Educación a Distancia,universidad-nacional-de-educaci-n-a-distancia,state,https://www.uned.es,ES-M,Madrid,ES
+es-universidad-polit-cnica-de-madrid,Universidad Politécnica de Madrid,universidad-polit-cnica-de-madrid,state,https://www.upm.es,ES-M,Madrid,ES
+es-universidad-pontificia-comillas,Universidad Pontificia Comillas,universidad-pontificia-comillas,private,https://www.comillas.edu,ES-M,Madrid,ES
+es-universidad-rey-juan-carlos,Universidad Rey Juan Carlos,universidad-rey-juan-carlos,state,https://www.urjc.es,ES-M,Madrid,ES
+es-universidad-a-distancia-de-madrid-udima,Universidad a Distancia de Madrid (UDIMA),universidad-a-distancia-de-madrid-udima,private,https://www.udima.es,ES-M,Madrid,ES
+es-universidad-de-alcal,Universidad de Alcalá,universidad-de-alcal,state,https://www.uah.es,ES-M,Madrid,ES
+es-universidad-de-dise-o-innovaci-n-y-tecnolog-a-udit,"Universidad de Diseño, Innovación y Tecnología (UDIT)",universidad-de-dise-o-innovaci-n-y-tecnolog-a-udit,private,https://www.udit.es,ES-M,Madrid,ES
+es-universidad-alfonso-x-el-sabio-mare-nostrum,Universidad Alfonso X el Sabio Mare Nostrum,universidad-alfonso-x-el-sabio-mare-nostrum,private,https://www.uax.com,ES-MA,Málaga,ES
+es-universidad-europea-de-andaluc-a,Universidad Europea de Andalucía,universidad-europea-de-andaluc-a,private,https://universidadeuropea.com,ES-MA,Málaga,ES
+es-universidad-tecnol-gica-atl-ntico-mediterr-neo,Universidad Tecnológica Atlántico-Mediterráneo,universidad-tecnol-gica-atl-ntico-mediterr-neo,private,https://utamed.es,ES-MA,Málaga,ES
+es-universidad-de-m-laga,Universidad de Málaga,universidad-de-m-laga,state,https://www.uma.es,ES-MA,Málaga,ES
+es-universidad-cat-lica-san-antonio-de-murcia,Universidad Católica San Antonio de Murcia,universidad-cat-lica-san-antonio-de-murcia,private,https://www.ucam.edu,ES-MU,Murcia,ES
+es-universidad-polit-cnica-de-cartagena,Universidad Politécnica de Cartagena,universidad-polit-cnica-de-cartagena,state,https://www.upct.es,ES-MU,Murcia,ES
+es-universidad-de-murcia,Universidad de Murcia,universidad-de-murcia,state,https://www.um.es,ES-MU,Murcia,ES
+es-universidad-p-blica-de-navarra,Universidad Pública de Navarra,universidad-p-blica-de-navarra,state,https://www.unavarra.es,ES-NA,Navarra,ES
+es-universidad-de-navarra,Universidad de Navarra,universidad-de-navarra,private,https://www.unav.edu,ES-NA,Navarra,ES
+es-universidad-de-oviedo,Universidad de Oviedo,universidad-de-oviedo,state,https://www.uniovi.es,ES-O,Asturias,ES
+es-universitat-de-les-illes-balears,Universitat de les Illes Balears,universitat-de-les-illes-balears,state,https://www.uib.eu,ES-PM,Illes Balears,ES
+es-universidade-de-vigo,Universidade de Vigo,universidade-de-vigo,state,https://www.uvigo.gal,ES-PO,Pontevedra,ES
+es-universidad-europea-del-atl-ntico,Universidad Europea del Atlántico,universidad-europea-del-atl-ntico,private,https://www.uneatlantico.es,ES-S,Cantabria,ES
+es-universidad-de-cantabria,Universidad de Cantabria,universidad-de-cantabria,state,https://www.unican.es,ES-S,Cantabria,ES
+es-universidad-pontificia-de-salamanca,Universidad Pontificia de Salamanca,universidad-pontificia-de-salamanca,private,https://www.upsa.es,ES-SA,Salamanca,ES
+es-universidad-de-salamanca,Universidad de Salamanca,universidad-de-salamanca,state,https://www.usal.es,ES-SA,Salamanca,ES
+es-universidad-ceu-fernando-iii,Universidad CEU Fernando III,universidad-ceu-fernando-iii,private,https://uf3ceu.es,ES-SE,Sevilla,ES
+es-universidad-internacional-de-andaluc-a,Universidad Internacional de Andalucía,universidad-internacional-de-andaluc-a,state,https://www.unia.es,ES-SE,Sevilla,ES
+es-universidad-loyola-andaluc-a,Universidad Loyola Andalucía,universidad-loyola-andaluc-a,private,https://www.uloyola.es,ES-SE,Sevilla,ES
+es-universidad-pablo-de-olavide,Universidad Pablo de Olavide,universidad-pablo-de-olavide,state,https://www.upo.es,ES-SE,Sevilla,ES
+es-universidad-de-sevilla,Universidad de Sevilla,universidad-de-sevilla,state,https://www.us.es,ES-SE,Sevilla,ES
+es-ie-universidad,IE Universidad,ie-universidad,private,https://www.ie.edu,ES-SG,Segovia,ES
+es-mondragon-unibertsitatea,Mondragon Unibertsitatea,mondragon-unibertsitatea,private,https://www.mondragon.edu,ES-SS,Gipuzkoa,ES
+es-universitat-rovira-i-virgili,Universitat Rovira i Virgili,universitat-rovira-i-virgili,state,https://www.urv.cat,ES-T,Tarragona,ES
+es-universidad-europea-de-canarias,Universidad Europea de Canarias,universidad-europea-de-canarias,private,https://universidadeuropea.com/canarias,ES-TF,Santa Cruz de Tenerife,ES
+es-universidad-de-la-laguna,Universidad de La Laguna,universidad-de-la-laguna,state,https://www.ull.es,ES-TF,Santa Cruz de Tenerife,ES
+es-universidad-ceu-cardenal-herrera,Universidad CEU Cardenal Herrera,universidad-ceu-cardenal-herrera,private,https://www.uchceu.es,ES-V,Valencia,ES
+es-universidad-cat-lica-de-valencia-san-vicente-m-rtir,Universidad Católica de Valencia San Vicente Mártir,universidad-cat-lica-de-valencia-san-vicente-m-rtir,private,https://www.ucv.es,ES-V,Valencia,ES
+es-universidad-europea-de-valencia,Universidad Europea de Valencia,universidad-europea-de-valencia,private,https://universidadeuropea.com/valencia/,ES-V,Valencia,ES
+es-universidad-internacional-de-valencia,Universidad Internacional de Valencia,universidad-internacional-de-valencia,private,https://www.universidadviu.com,ES-V,Valencia,ES
+es-universitat-polit-cnica-de-val-ncia,Universitat Politècnica de València,universitat-polit-cnica-de-val-ncia,state,https://www.upv.es,ES-V,Valencia,ES
+es-universitat-de-val-ncia,Universitat de València,universitat-de-val-ncia,state,https://www.uv.es,ES-V,Valencia,ES
+es-universidad-europea-miguel-de-cervantes,Universidad Europea Miguel de Cervantes,universidad-europea-miguel-de-cervantes,private,https://www.uemc.es,ES-VA,Valladolid,ES
+es-universidad-de-valladolid,Universidad de Valladolid,universidad-de-valladolid,state,https://www.uva.es,ES-VA,Valladolid,ES
+es-universidad-euneiz,Universidad EUNEIZ,universidad-euneiz,private,https://euneiz.com,ES-VI,Álava,ES
+es-universidad-san-jorge,Universidad San Jorge,universidad-san-jorge,private,https://www.usj.es,ES-Z,Zaragoza,ES
+es-universidad-de-zaragoza,Universidad de Zaragoza,universidad-de-zaragoza,state,https://www.unizar.es,ES-Z,Zaragoza,ES
 tr-adana-alparslan-turkes-bilim-ve-teknoloji-universitesi,Adana Alparslan Türkeş Bilim ve Teknoloji Üniversitesi,adana-alparslan-turkes-bilim-ve-teknoloji-universitesi,state,https://www.atu.edu.tr,TR-01,Adana,TR
 tr-cukurova-universitesi,Çukurova Üniversitesi,cukurova-universitesi,state,https://www.cu.edu.tr,TR-01,Adana,TR
 tr-adiyaman-universitesi,Adıyaman Üniversitesi,adiyaman-universitesi,state,https://www.adiyaman.edu.tr,TR-02,Adıyaman,TR

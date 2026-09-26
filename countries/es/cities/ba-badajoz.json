@@ -1,0 +1,8 @@
+{
+  "code": "ES-BA",
+  "name": "Badajoz",
+  "region": "Extremadura",
+  "universities": [
+    {"name": "Universidad de Extremadura", "type": "state", "website": "https://www.unex.es"}
+  ]
+}
