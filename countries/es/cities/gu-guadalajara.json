@@ -2,5 +2,10 @@
   "code": "ES-GU",
   "name": "Guadalajara",
   "region": "Castilla-La Mancha",
-  "universities": []
+  "universities": [
+    {
+      "name": "Universidad de Alcalá",
+      "campus": true
+    }
+  ]
 }

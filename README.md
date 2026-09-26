@@ -70,7 +70,8 @@ world-cities-universities/
 - Üniversite `id`: `<ülke>-<slug>` — sabittir, liste değişse de değişmez; formlarda değer olarak güvenle kaydedilebilir
 - `type`: `state` (devlet), `foundation` (vakıf) veya `private` (özel)
 - Ülkeye özel ek alanlar olabilir (ör. Türkiye için `plate_code`, `region`)
-- Üniversiteler resmi merkezlerinin (rektörlük) bulunduğu şehirde listelenir
+- Üniversite resmi merkezinin (rektörlük) bulunduğu şehirde listelenir. Başka şehirlerde kampüsü varsa orada da `"campus": true` ile görünür — `id` aynıdır, böylece formda hangi şehirden seçilirse seçilsin aynı üniversite kaydedilir
+- SQL'de kampüsler `university_campuses` tablosundadır
 
 ## Kullanım / Usage
 

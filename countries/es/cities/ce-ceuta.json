@@ -2,5 +2,10 @@
   "code": "ES-CE",
   "name": "Ceuta",
   "region": "Ceuta",
-  "universities": []
+  "universities": [
+    {
+      "name": "Universidad de Granada",
+      "campus": true
+    }
+  ]
 }

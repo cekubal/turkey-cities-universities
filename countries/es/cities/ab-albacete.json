@@ -2,5 +2,10 @@
   "code": "ES-AB",
   "name": "Albacete",
   "region": "Castilla-La Mancha",
-  "universities": []
+  "universities": [
+    {
+      "name": "Universidad de Castilla-La Mancha",
+      "campus": true
+    }
+  ]
 }

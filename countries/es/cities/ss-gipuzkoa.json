@@ -3,6 +3,22 @@
   "name": "Gipuzkoa",
   "region": "País Vasco",
   "universities": [
-    {"name": "Mondragon Unibertsitatea", "type": "private", "website": "https://www.mondragon.edu"}
+    {
+      "name": "Mondragon Unibertsitatea",
+      "type": "private",
+      "website": "https://www.mondragon.edu"
+    },
+    {
+      "name": "Universidad de Deusto",
+      "campus": true
+    },
+    {
+      "name": "Universidad de Navarra",
+      "campus": true
+    },
+    {
+      "name": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
+      "campus": true
+    }
   ]
 }

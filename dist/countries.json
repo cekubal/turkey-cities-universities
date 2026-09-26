@@ -4,13 +4,15 @@
     "name": "España",
     "name_en": "Spain",
     "city_count": 52,
-    "university_count": 97
+    "university_count": 97,
+    "campus_count": 31
   },
   {
     "code": "TR",
     "name": "Türkiye",
     "name_en": "Turkey",
     "city_count": 81,
-    "university_count": 205
+    "university_count": 205,
+    "campus_count": 0
   }
 ]

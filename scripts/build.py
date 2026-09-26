@@ -4,6 +4,10 @@
 Source layout:
   countries/<cc>/country.json          {"code", "name", "name_en"}
   countries/<cc>/cities/<file>.json    {"code" (ISO 3166-2), "name", ..., "universities": [...]}
+
+A university is fully described once, in the city of its main seat. Other cities
+where it has a campus list it as {"name": ..., "campus": true}; type and website
+are taken from the main entry and the id stays the same.
 """
 import csv
 import json
@@ -43,6 +47,8 @@ def load_country(folder):
         if not city["code"].startswith(cc + "-"):
             errors.append(f"{cc}: city code {city['code']} must start with {cc}-")
         for uni in city["universities"]:
+            if uni.get("campus"):
+                continue
             names.append(uni["name"])
             if uni.get("type") not in TYPES:
                 errors.append(f"{city['name']}: {uni.get('name')} invalid type {uni.get('type')!r}")
@@ -51,6 +57,14 @@ def load_country(folder):
     for dup in sorted({n for n in names if names.count(n) > 1}):
         errors.append(f"{cc}: duplicate university {dup}")
 
+    for city in cities:
+        main_here = {u["name"] for u in city["universities"] if not u.get("campus")}
+        for uni in city["universities"]:
+            if uni.get("campus") and uni["name"] not in names:
+                errors.append(f"{city['name']}: campus {uni['name']!r} has no main entry in {cc}")
+            if uni.get("campus") and uni["name"] in main_here:
+                errors.append(f"{city['name']}: {uni['name']!r} is both main and campus here")
+
     country["cities"] = cities
     return country, errors
 
@@ -58,11 +72,17 @@ def load_country(folder):
 def normalize(country):
     """Add stable string ids and slugs; ids never depend on list order."""
     cc = country["code"].lower()
+    mains = {u["name"]: u for c in country["cities"] for u in c["universities"] if not u.get("campus")}
     cities = []
     for c in sorted(country["cities"], key=lambda c: c["code"]):
-        unis = [{"id": f"{cc}-{slugify(u['name'])}", "name": u["name"], "slug": slugify(u["name"]),
-                 "type": u["type"], "website": u["website"]}
-                for u in sorted(c["universities"], key=lambda u: u["name"])]
+        unis = []
+        for u in sorted(c["universities"], key=lambda u: u["name"]):
+            main = mains[u["name"]]
+            row = {"id": f"{cc}-{slugify(u['name'])}", "name": u["name"], "slug": slugify(u["name"]),
+                   "type": main["type"], "website": main["website"]}
+            if u.get("campus"):
+                row["campus"] = True
+            unis.append(row)
         extra = {k: v for k, v in c.items() if k not in ("code", "name", "universities")}
         cities.append({"id": c["code"], "name": c["name"], "slug": slugify(c["name"]), **extra, "universities": unis})
     meta = {k: v for k, v in country.items() if k not in ("cities", "city_count")}
@@ -75,17 +95,21 @@ def dump(path, obj):
 
 def build(countries):
     DIST.mkdir(exist_ok=True)
-    flat = []
+    flat, campuses = [], []
     summary = []
     for country in countries:
         dump(DIST / f"{country['code'].lower()}.json", country)
         n = 0
         for c in country["cities"]:
             for u in c["universities"]:
+                if u.get("campus"):
+                    campuses.append({"university_id": u["id"], "city_id": c["id"]})
+                    continue
                 n += 1
                 flat.append({**u, "city_id": c["id"], "city": c["name"], "country_code": country["code"]})
         summary.append({"code": country["code"], "name": country["name"], "name_en": country["name_en"],
-                        "city_count": len(country["cities"]), "university_count": n})
+                        "city_count": len(country["cities"]), "university_count": n,
+                        "campus_count": sum(u.get("campus", False) for c in country["cities"] for u in c["universities"])})
 
     dump(DIST / "countries.json", summary)
     dump(DIST / "world.json", {"countries": countries})
@@ -101,6 +125,8 @@ def build(countries):
         "CREATE TABLE IF NOT EXISTS countries (code CHAR(2) PRIMARY KEY, name VARCHAR(128) NOT NULL, name_en VARCHAR(128) NOT NULL);",
         "CREATE TABLE IF NOT EXISTS cities (id VARCHAR(16) PRIMARY KEY, country_code CHAR(2) NOT NULL REFERENCES countries(code), name VARCHAR(128) NOT NULL, slug VARCHAR(128) NOT NULL);",
         "CREATE TABLE IF NOT EXISTS universities (id VARCHAR(255) PRIMARY KEY, city_id VARCHAR(16) NOT NULL REFERENCES cities(id), name VARCHAR(255) NOT NULL, slug VARCHAR(255) NOT NULL, type VARCHAR(16) NOT NULL, website VARCHAR(255));",
+        "-- Additional cities where a university has a campus (city_id in universities is the main seat)",
+        "CREATE TABLE IF NOT EXISTS university_campuses (university_id VARCHAR(255) NOT NULL REFERENCES universities(id), city_id VARCHAR(16) NOT NULL REFERENCES cities(id), PRIMARY KEY (university_id, city_id));",
     ]
     for country in countries:
         sql.append(f"INSERT INTO countries VALUES ({q(country['code'])}, {q(country['name'])}, {q(country['name_en'])});")
@@ -108,6 +134,7 @@ def build(countries):
                 for c in country["cities"]]
     sql += [f"INSERT INTO universities VALUES ({q(u['id'])}, {q(u['city_id'])}, {q(u['name'])}, {q(u['slug'])}, {q(u['type'])}, {q(u['website'])});"
             for u in flat]
+    sql += [f"INSERT INTO university_campuses VALUES ({q(c['university_id'])}, {q(c['city_id'])});" for c in campuses]
     (DIST / "world.sql").write_text("\n".join(sql) + "\n", encoding="utf-8")
     return summary
 
@@ -122,4 +149,4 @@ if __name__ == "__main__":
         print("\n".join(errors))
         sys.exit(1)
     for s in build(countries):
-        print(f"OK {s['code']}: {s['city_count']} cities, {s['university_count']} universities")
+        print(f"OK {s['code']}: {s['city_count']} cities, {s['university_count']} universities, {s['campus_count']} campus links")

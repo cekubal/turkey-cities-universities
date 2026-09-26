@@ -2,5 +2,10 @@
   "code": "ES-ML",
   "name": "Melilla",
   "region": "Melilla",
-  "universities": []
+  "universities": [
+    {
+      "name": "Universidad de Granada",
+      "campus": true
+    }
+  ]
 }

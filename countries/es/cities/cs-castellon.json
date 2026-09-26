@@ -3,6 +3,14 @@
   "name": "Castellón",
   "region": "Comunidad Valenciana",
   "universities": [
-    {"name": "Universitat Jaume I", "type": "state", "website": "https://www.uji.es"}
+    {
+      "name": "Universidad CEU Cardenal Herrera",
+      "campus": true
+    },
+    {
+      "name": "Universitat Jaume I",
+      "type": "state",
+      "website": "https://www.uji.es"
+    }
   ]
 }

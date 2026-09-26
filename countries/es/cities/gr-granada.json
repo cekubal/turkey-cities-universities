@@ -3,6 +3,14 @@
   "name": "Granada",
   "region": "Andalucía",
   "universities": [
-    {"name": "Universidad de Granada", "type": "state", "website": "https://www.ugr.es"}
+    {
+      "name": "Universidad Loyola Andalucía",
+      "campus": true
+    },
+    {
+      "name": "Universidad de Granada",
+      "type": "state",
+      "website": "https://www.ugr.es"
+    }
   ]
 }

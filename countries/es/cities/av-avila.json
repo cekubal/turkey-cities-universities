@@ -7,6 +7,10 @@
       "name": "Universidad Católica de Ávila",
       "type": "private",
       "website": "https://www.ucavila.es"
+    },
+    {
+      "name": "Universidad de Salamanca",
+      "campus": true
     }
   ]
 }

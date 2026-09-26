@@ -2,5 +2,10 @@
   "code": "ES-SO",
   "name": "Soria",
   "region": "Castilla y León",
-  "universities": []
+  "universities": [
+    {
+      "name": "Universidad de Valladolid",
+      "campus": true
+    }
+  ]
 }

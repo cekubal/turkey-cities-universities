@@ -3,6 +3,14 @@
   "name": "Huelva",
   "region": "Andalucía",
   "universities": [
-    {"name": "Universidad de Huelva", "type": "state", "website": "https://www.uhu.es"}
+    {
+      "name": "Universidad Internacional de Andalucía",
+      "campus": true
+    },
+    {
+      "name": "Universidad de Huelva",
+      "type": "state",
+      "website": "https://www.uhu.es"
+    }
   ]
 }

@@ -2,5 +2,10 @@
   "code": "ES-HU",
   "name": "Huesca",
   "region": "Aragón",
-  "universities": []
+  "universities": [
+    {
+      "name": "Universidad de Zaragoza",
+      "campus": true
+    }
+  ]
 }

@@ -3,6 +3,14 @@
   "name": "Córdoba",
   "region": "Andalucía",
   "universities": [
-    {"name": "Universidad de Córdoba", "type": "state", "website": "https://www.uco.es"}
+    {
+      "name": "Universidad Loyola Andalucía",
+      "campus": true
+    },
+    {
+      "name": "Universidad de Córdoba",
+      "type": "state",
+      "website": "https://www.uco.es"
+    }
   ]
 }

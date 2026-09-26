@@ -2,5 +2,10 @@
   "code": "ES-TE",
   "name": "Teruel",
   "region": "Aragón",
-  "universities": []
+  "universities": [
+    {
+      "name": "Universidad de Zaragoza",
+      "campus": true
+    }
+  ]
 }

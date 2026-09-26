@@ -3,6 +3,14 @@
   "name": "Jaén",
   "region": "Andalucía",
   "universities": [
-    {"name": "Universidad de Jaén", "type": "state", "website": "https://www.ujaen.es"}
+    {
+      "name": "Universidad Internacional de Andalucía",
+      "campus": true
+    },
+    {
+      "name": "Universidad de Jaén",
+      "type": "state",
+      "website": "https://www.ujaen.es"
+    }
   ]
 }

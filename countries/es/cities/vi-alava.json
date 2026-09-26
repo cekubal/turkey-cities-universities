@@ -7,6 +7,10 @@
       "name": "Universidad EUNEIZ",
       "type": "private",
       "website": "https://euneiz.com"
+    },
+    {
+      "name": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
+      "campus": true
     }
   ]
 }

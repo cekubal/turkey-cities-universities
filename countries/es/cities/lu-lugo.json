@@ -2,5 +2,10 @@
   "code": "ES-LU",
   "name": "Lugo",
   "region": "Galicia",
-  "universities": []
+  "universities": [
+    {
+      "name": "Universidade de Santiago de Compostela",
+      "campus": true
+    }
+  ]
 }

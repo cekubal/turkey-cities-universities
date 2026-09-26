@@ -99,6 +99,10 @@
       "website": "https://www.comillas.edu"
     },
     {
+      "name": "Universidad Pontificia de Salamanca",
+      "campus": true
+    },
+    {
       "name": "Universidad Rey Juan Carlos",
       "type": "state",
       "website": "https://www.urjc.es"
@@ -117,6 +121,10 @@
       "name": "Universidad de Diseño, Innovación y Tecnología (UDIT)",
       "type": "private",
       "website": "https://www.udit.es"
+    },
+    {
+      "name": "Universidad de Navarra",
+      "campus": true
     }
   ]
 }

@@ -7,6 +7,10 @@
       "name": "IE Universidad",
       "type": "private",
       "website": "https://www.ie.edu"
+    },
+    {
+      "name": "Universidad de Valladolid",
+      "campus": true
     }
   ]
 }

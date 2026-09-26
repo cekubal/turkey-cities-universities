@@ -12,6 +12,14 @@
           "region": "Comunidad Valenciana",
           "universities": [
             {
+              "id": "es-universidad-ceu-cardenal-herrera",
+              "name": "Universidad CEU Cardenal Herrera",
+              "slug": "universidad-ceu-cardenal-herrera",
+              "type": "private",
+              "website": "https://www.uchceu.es",
+              "campus": true
+            },
+            {
               "id": "es-universidad-miguel-hern-ndez-de-elche",
               "name": "Universidad Miguel Hernández de Elche",
               "slug": "universidad-miguel-hern-ndez-de-elche",
@@ -24,6 +32,14 @@
               "slug": "universidad-de-alicante",
               "type": "state",
               "website": "https://www.ua.es"
+            },
+            {
+              "id": "es-universitat-polit-cnica-de-val-ncia",
+              "name": "Universitat Politècnica de València",
+              "slug": "universitat-polit-cnica-de-val-ncia",
+              "type": "state",
+              "website": "https://www.upv.es",
+              "campus": true
             }
           ]
         },
@@ -32,7 +48,16 @@
           "name": "Albacete",
           "slug": "albacete",
           "region": "Castilla-La Mancha",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidad-de-castilla-la-mancha",
+              "name": "Universidad de Castilla-La Mancha",
+              "slug": "universidad-de-castilla-la-mancha",
+              "type": "state",
+              "website": "https://www.uclm.es",
+              "campus": true
+            }
+          ]
         },
         {
           "id": "ES-AL",
@@ -61,6 +86,14 @@
               "slug": "universidad-cat-lica-de-vila",
               "type": "private",
               "website": "https://www.ucavila.es"
+            },
+            {
+              "id": "es-universidad-de-salamanca",
+              "name": "Universidad de Salamanca",
+              "slug": "universidad-de-salamanca",
+              "type": "state",
+              "website": "https://www.usal.es",
+              "campus": true
             }
           ]
         },
@@ -125,6 +158,14 @@
               "slug": "universitat-de-barcelona",
               "type": "state",
               "website": "https://www.ub.edu"
+            },
+            {
+              "id": "es-universitat-de-lleida",
+              "name": "Universitat de Lleida",
+              "slug": "universitat-de-lleida",
+              "type": "state",
+              "website": "https://www.udl.cat",
+              "campus": true
             },
             {
               "id": "es-universitat-de-vic-universitat-central-de-catalunya",
@@ -243,14 +284,32 @@
           "name": "Cáceres",
           "slug": "c-ceres",
           "region": "Extremadura",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidad-de-extremadura",
+              "name": "Universidad de Extremadura",
+              "slug": "universidad-de-extremadura",
+              "type": "state",
+              "website": "https://www.unex.es",
+              "campus": true
+            }
+          ]
         },
         {
           "id": "ES-CE",
           "name": "Ceuta",
           "slug": "ceuta",
           "region": "Ceuta",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidad-de-granada",
+              "name": "Universidad de Granada",
+              "slug": "universidad-de-granada",
+              "type": "state",
+              "website": "https://www.ugr.es",
+              "campus": true
+            }
+          ]
         },
         {
           "id": "ES-CO",
@@ -258,6 +317,14 @@
           "slug": "c-rdoba",
           "region": "Andalucía",
           "universities": [
+            {
+              "id": "es-universidad-loyola-andaluc-a",
+              "name": "Universidad Loyola Andalucía",
+              "slug": "universidad-loyola-andaluc-a",
+              "type": "private",
+              "website": "https://www.uloyola.es",
+              "campus": true
+            },
             {
               "id": "es-universidad-de-c-rdoba",
               "name": "Universidad de Córdoba",
@@ -289,6 +356,14 @@
           "region": "Comunidad Valenciana",
           "universities": [
             {
+              "id": "es-universidad-ceu-cardenal-herrera",
+              "name": "Universidad CEU Cardenal Herrera",
+              "slug": "universidad-ceu-cardenal-herrera",
+              "type": "private",
+              "website": "https://www.uchceu.es",
+              "campus": true
+            },
+            {
               "id": "es-universitat-jaume-i",
               "name": "Universitat Jaume I",
               "slug": "universitat-jaume-i",
@@ -302,7 +377,16 @@
           "name": "Cuenca",
           "slug": "cuenca",
           "region": "Castilla-La Mancha",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidad-de-castilla-la-mancha",
+              "name": "Universidad de Castilla-La Mancha",
+              "slug": "universidad-de-castilla-la-mancha",
+              "type": "state",
+              "website": "https://www.uclm.es",
+              "campus": true
+            }
+          ]
         },
         {
           "id": "ES-GC",
@@ -362,6 +446,14 @@
           "region": "Andalucía",
           "universities": [
             {
+              "id": "es-universidad-loyola-andaluc-a",
+              "name": "Universidad Loyola Andalucía",
+              "slug": "universidad-loyola-andaluc-a",
+              "type": "private",
+              "website": "https://www.uloyola.es",
+              "campus": true
+            },
+            {
               "id": "es-universidad-de-granada",
               "name": "Universidad de Granada",
               "slug": "universidad-de-granada",
@@ -375,7 +467,16 @@
           "name": "Guadalajara",
           "slug": "guadalajara",
           "region": "Castilla-La Mancha",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidad-de-alcal",
+              "name": "Universidad de Alcalá",
+              "slug": "universidad-de-alcal",
+              "type": "state",
+              "website": "https://www.uah.es",
+              "campus": true
+            }
+          ]
         },
         {
           "id": "ES-H",
@@ -383,6 +484,14 @@
           "slug": "huelva",
           "region": "Andalucía",
           "universities": [
+            {
+              "id": "es-universidad-internacional-de-andaluc-a",
+              "name": "Universidad Internacional de Andalucía",
+              "slug": "universidad-internacional-de-andaluc-a",
+              "type": "state",
+              "website": "https://www.unia.es",
+              "campus": true
+            },
             {
               "id": "es-universidad-de-huelva",
               "name": "Universidad de Huelva",
@@ -397,7 +506,16 @@
           "name": "Huesca",
           "slug": "huesca",
           "region": "Aragón",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidad-de-zaragoza",
+              "name": "Universidad de Zaragoza",
+              "slug": "universidad-de-zaragoza",
+              "type": "state",
+              "website": "https://www.unizar.es",
+              "campus": true
+            }
+          ]
         },
         {
           "id": "ES-J",
@@ -405,6 +523,14 @@
           "slug": "ja-n",
           "region": "Andalucía",
           "universities": [
+            {
+              "id": "es-universidad-internacional-de-andaluc-a",
+              "name": "Universidad Internacional de Andalucía",
+              "slug": "universidad-internacional-de-andaluc-a",
+              "type": "state",
+              "website": "https://www.unia.es",
+              "campus": true
+            },
             {
               "id": "es-universidad-de-ja-n",
               "name": "Universidad de Jaén",
@@ -471,7 +597,16 @@
           "name": "Lugo",
           "slug": "lugo",
           "region": "Galicia",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidade-de-santiago-de-compostela",
+              "name": "Universidade de Santiago de Compostela",
+              "slug": "universidade-de-santiago-de-compostela",
+              "type": "state",
+              "website": "https://www.usc.gal",
+              "campus": true
+            }
+          ]
         },
         {
           "id": "ES-M",
@@ -613,6 +748,14 @@
               "website": "https://www.comillas.edu"
             },
             {
+              "id": "es-universidad-pontificia-de-salamanca",
+              "name": "Universidad Pontificia de Salamanca",
+              "slug": "universidad-pontificia-de-salamanca",
+              "type": "private",
+              "website": "https://www.upsa.es",
+              "campus": true
+            },
+            {
               "id": "es-universidad-rey-juan-carlos",
               "name": "Universidad Rey Juan Carlos",
               "slug": "universidad-rey-juan-carlos",
@@ -639,6 +782,14 @@
               "slug": "universidad-de-dise-o-innovaci-n-y-tecnolog-a-udit",
               "type": "private",
               "website": "https://www.udit.es"
+            },
+            {
+              "id": "es-universidad-de-navarra",
+              "name": "Universidad de Navarra",
+              "slug": "universidad-de-navarra",
+              "type": "private",
+              "website": "https://www.unav.edu",
+              "campus": true
             }
           ]
         },
@@ -663,6 +814,14 @@
               "website": "https://universidadeuropea.com"
             },
             {
+              "id": "es-universidad-internacional-de-andaluc-a",
+              "name": "Universidad Internacional de Andalucía",
+              "slug": "universidad-internacional-de-andaluc-a",
+              "type": "state",
+              "website": "https://www.unia.es",
+              "campus": true
+            },
+            {
               "id": "es-universidad-tecnol-gica-atl-ntico-mediterr-neo",
               "name": "Universidad Tecnológica Atlántico-Mediterráneo",
               "slug": "universidad-tecnol-gica-atl-ntico-mediterr-neo",
@@ -683,7 +842,16 @@
           "name": "Melilla",
           "slug": "melilla",
           "region": "Melilla",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidad-de-granada",
+              "name": "Universidad de Granada",
+              "slug": "universidad-de-granada",
+              "type": "state",
+              "website": "https://www.ugr.es",
+              "campus": true
+            }
+          ]
         },
         {
           "id": "ES-MU",
@@ -756,14 +924,32 @@
           "name": "Ourense",
           "slug": "ourense",
           "region": "Galicia",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidade-de-vigo",
+              "name": "Universidade de Vigo",
+              "slug": "universidade-de-vigo",
+              "type": "state",
+              "website": "https://www.uvigo.gal",
+              "campus": true
+            }
+          ]
         },
         {
           "id": "ES-P",
           "name": "Palencia",
           "slug": "palencia",
           "region": "Castilla y León",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidad-de-valladolid",
+              "name": "Universidad de Valladolid",
+              "slug": "universidad-de-valladolid",
+              "type": "state",
+              "website": "https://www.uva.es",
+              "campus": true
+            }
+          ]
         },
         {
           "id": "ES-PM",
@@ -894,6 +1080,14 @@
               "slug": "ie-universidad",
               "type": "private",
               "website": "https://www.ie.edu"
+            },
+            {
+              "id": "es-universidad-de-valladolid",
+              "name": "Universidad de Valladolid",
+              "slug": "universidad-de-valladolid",
+              "type": "state",
+              "website": "https://www.uva.es",
+              "campus": true
             }
           ]
         },
@@ -902,7 +1096,16 @@
           "name": "Soria",
           "slug": "soria",
           "region": "Castilla y León",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidad-de-valladolid",
+              "name": "Universidad de Valladolid",
+              "slug": "universidad-de-valladolid",
+              "type": "state",
+              "website": "https://www.uva.es",
+              "campus": true
+            }
+          ]
         },
         {
           "id": "ES-SS",
@@ -916,6 +1119,30 @@
               "slug": "mondragon-unibertsitatea",
               "type": "private",
               "website": "https://www.mondragon.edu"
+            },
+            {
+              "id": "es-universidad-de-deusto",
+              "name": "Universidad de Deusto",
+              "slug": "universidad-de-deusto",
+              "type": "private",
+              "website": "https://www.deusto.es",
+              "campus": true
+            },
+            {
+              "id": "es-universidad-de-navarra",
+              "name": "Universidad de Navarra",
+              "slug": "universidad-de-navarra",
+              "type": "private",
+              "website": "https://www.unav.edu",
+              "campus": true
+            },
+            {
+              "id": "es-universidad-del-pa-s-vasco-euskal-herriko-unibertsitatea",
+              "name": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
+              "slug": "universidad-del-pa-s-vasco-euskal-herriko-unibertsitatea",
+              "type": "state",
+              "website": "https://www.ehu.eus",
+              "campus": true
             }
           ]
         },
@@ -939,7 +1166,16 @@
           "name": "Teruel",
           "slug": "teruel",
           "region": "Aragón",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidad-de-zaragoza",
+              "name": "Universidad de Zaragoza",
+              "slug": "universidad-de-zaragoza",
+              "type": "state",
+              "website": "https://www.unizar.es",
+              "campus": true
+            }
+          ]
         },
         {
           "id": "ES-TF",
@@ -968,7 +1204,16 @@
           "name": "Toledo",
           "slug": "toledo",
           "region": "Castilla-La Mancha",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidad-de-castilla-la-mancha",
+              "name": "Universidad de Castilla-La Mancha",
+              "slug": "universidad-de-castilla-la-mancha",
+              "type": "state",
+              "website": "https://www.uclm.es",
+              "campus": true
+            }
+          ]
         },
         {
           "id": "ES-V",
@@ -1054,6 +1299,14 @@
               "slug": "universidad-euneiz",
               "type": "private",
               "website": "https://euneiz.com"
+            },
+            {
+              "id": "es-universidad-del-pa-s-vasco-euskal-herriko-unibertsitatea",
+              "name": "Universidad del País Vasco/Euskal Herriko Unibertsitatea",
+              "slug": "universidad-del-pa-s-vasco-euskal-herriko-unibertsitatea",
+              "type": "state",
+              "website": "https://www.ehu.eus",
+              "campus": true
             }
           ]
         },
@@ -1084,7 +1337,16 @@
           "name": "Zamora",
           "slug": "zamora",
           "region": "Castilla y León",
-          "universities": []
+          "universities": [
+            {
+              "id": "es-universidad-de-salamanca",
+              "name": "Universidad de Salamanca",
+              "slug": "universidad-de-salamanca",
+              "type": "state",
+              "website": "https://www.usal.es",
+              "campus": true
+            }
+          ]
         }
       ]
     },

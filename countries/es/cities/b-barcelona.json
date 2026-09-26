@@ -3,14 +3,54 @@
   "name": "Barcelona",
   "region": "Cataluña",
   "universities": [
-    {"name": "Universitat Abat Oliba CEU", "type": "private", "website": "https://www.uao.es"},
-    {"name": "Universitat Autònoma de Barcelona", "type": "state", "website": "https://www.uab.cat"},
-    {"name": "Universitat de Barcelona", "type": "state", "website": "https://www.ub.edu"},
-    {"name": "Universitat de Vic - Universitat Central de Catalunya", "type": "private", "website": "https://www.uvic.cat"},
-    {"name": "Universitat Internacional de Catalunya", "type": "private", "website": "https://www.uic.es"},
-    {"name": "Universitat Oberta de Catalunya", "type": "private", "website": "https://www.uoc.edu"},
-    {"name": "Universitat Politècnica de Catalunya", "type": "state", "website": "https://www.upc.edu"},
-    {"name": "Universitat Pompeu Fabra", "type": "state", "website": "https://www.upf.edu"},
-    {"name": "Universitat Ramon Llull", "type": "private", "website": "https://www.url.edu"}
+    {
+      "name": "Universitat Abat Oliba CEU",
+      "type": "private",
+      "website": "https://www.uao.es"
+    },
+    {
+      "name": "Universitat Autònoma de Barcelona",
+      "type": "state",
+      "website": "https://www.uab.cat"
+    },
+    {
+      "name": "Universitat Internacional de Catalunya",
+      "type": "private",
+      "website": "https://www.uic.es"
+    },
+    {
+      "name": "Universitat Oberta de Catalunya",
+      "type": "private",
+      "website": "https://www.uoc.edu"
+    },
+    {
+      "name": "Universitat Politècnica de Catalunya",
+      "type": "state",
+      "website": "https://www.upc.edu"
+    },
+    {
+      "name": "Universitat Pompeu Fabra",
+      "type": "state",
+      "website": "https://www.upf.edu"
+    },
+    {
+      "name": "Universitat Ramon Llull",
+      "type": "private",
+      "website": "https://www.url.edu"
+    },
+    {
+      "name": "Universitat de Barcelona",
+      "type": "state",
+      "website": "https://www.ub.edu"
+    },
+    {
+      "name": "Universitat de Lleida",
+      "campus": true
+    },
+    {
+      "name": "Universitat de Vic - Universitat Central de Catalunya",
+      "type": "private",
+      "website": "https://www.uvic.cat"
+    }
   ]
 }
